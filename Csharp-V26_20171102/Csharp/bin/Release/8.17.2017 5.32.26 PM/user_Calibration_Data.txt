@@ -1,0 +1,22 @@
+2017/8/17 ¤U¤È 05:32:26
+Connected COM6.
+Connectecd E200.
+OS connected. 
+Connected COM15.
+Connectecd RSB.
+Start calibrating...
+2017/8/17 ¤U¤È 05:32:40
+[ PURE 10W ] 
+Result:10W pass 
+[ PURE 20W ] 
+Result:20W pass 
+[ PURE 30W ] 
+Result:30W pass 
+[ PURE 40W ] 
+Result:40W pass 
+[ PURE 50W ] 
+Result:50W pass 
+[ PURE 60W ] 
+Result:60W pass 
+[ PURE 70W ] 
+Result:70W pass 

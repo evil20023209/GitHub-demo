@@ -1,0 +1,22 @@
+2017/11/2 ¤U¤È 03:05:25
+Connected COM4.
+False to connect E200.
+
+Connected COM3.
+False to connect E200.
+
+Connected COM4.
+Connectecd RSB.
+Connected COM3.
+False to connect E200.
+
+OS connected. 
+Connected COM3.
+Connectecd E200.
+Start calibrating...
+2017/11/2 ¤U¤È 03:07:07
+[ PURE 10W ] 
+Pass counter: 3
+Fail counter: 4
+Total counter: 7
+Result:10W pass 

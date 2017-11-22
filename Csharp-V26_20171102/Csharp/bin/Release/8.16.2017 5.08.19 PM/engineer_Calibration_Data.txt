@@ -1,0 +1,1345 @@
+2017/8/16 下午 05:08:18
+O:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13\Csharp\bin\Release\8.16.2017 5.08.19 PM
+OS connected. 
+
+Connecting COM16...
+COM16 Opened.
+Connected COM16.
+Connecting E200...
+Sent E200 -> PC:[MODE_WATT=0]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=9.75]MPU:[MODE_PURE=0.00]
+Sent E200 -> PC:[MODE_DISABLE=0]
+Connected E200.
+
+Connecting COM15...
+COM15 Opened.
+Connected COM15.
+Connecting RSB...
+Sent RSB -> PC:[DET_12V_CHK?]
+Received RSB-> RSB:[DET_12V_CHK=1.97]
+Connected RSB.
+2017/8/16 下午 05:09:40
+Checked mode PURE, BLEND1, BLEND2, PINPOINT, SPRAY, BIPOLAR. 
+
+Start Calibrate...
+************************************************** 
+    Time        ： 2017/08/16 17:09
+    Mode		： PURE
+	Expext Power	： 10 (W)
+	Load		：  (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent RSB -> PC:[RELAY_CTRL_K1=1]
+Received RSB-> RSB:[RELAY_CTRL_K1=1]
+Sent RSB -> PC:[RELAY_CTRL_K2=0]
+Received RSB-> RSB:[RELAY_CTRL_K2=0]
+Sent RSB -> PC:[RELAY_CTRL_K3=1]
+Received RSB-> RSB:[RELAY_CTRL_K3=1]
+Sent RSB -> PC:[RELAY_CTRL_K4=0]
+Received RSB-> RSB:[RELAY_CTRL_K4=0]
+Sent RSB -> PC:[RELAY_CTRL_K5=0]
+Received RSB-> RSB:[RELAY_CTRL_K5=0]
+Sent RSB -> PC:[RELAY_CTRL_K6=0]
+Received RSB-> RSB:[RELAY_CTRL_K6=0]
+Sent RSB -> PC:[RELAY_CTRL_K7=1]
+Received RSB-> RSB:[RELAY_CTRL_K7=1]
+Sent RSB -> PC:[RELAY_CHK_K1?]
+Received RSB-> RSB:[RELAY_CHK_K1=0]
+Sent RSB -> PC:[RELAY_CHK_K2?]
+Received RSB-> RSB:[RELAY_CHK_K2=1]
+Sent RSB -> PC:[RELAY_CHK_K3?]
+Received RSB-> RSB:[RELAY_CHK_K3=0]
+Sent RSB -> PC:[RELAY_CHK_K4?]
+Received RSB-> RSB:[RELAY_CHK_K4=1]
+Sent RSB -> PC:[RELAY_CHK_K5?]
+Received RSB-> RSB:[RELAY_CHK_K5=1]
+Sent RSB -> PC:[RELAY_CHK_K6?]
+Received RSB-> RSB:[RELAY_CHK_K6=1]
+Sent RSB -> PC:[RELAY_CHK_K7?]
+Received RSB-> RSB:[RELAY_CHK_K7=0]
+Sent E200 -> PC:[MODE_WATT=10]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=19.62]MPU:[MO
+------------  Osilloscope Measurement  ------------ 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+Connection Error. 
+    Power       ： 0.8379 (W) 
+    Voltage     ： 29.4 (V) 
+    Current		： 0.0285 (A)
+    Power Tolerance	： -91.621 % 
+
+2017/8/16 下午 05:10:09
+Checked mode PURE, BLEND1, BLEND2, PINPOINT, SPRAY, BIPOLAR. 
+
+Start Calibrate...
+************************************************** 
+    Time        ： 2017/08/16 17:10
+    Mode		： PURE
+	Expext Power	： 10 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent RSB -> PC:[RELAY_CTRL_K1=1]
+Received RSB-> RSB:[RELAY_CTRL_K1=1]
+Sent RSB -> PC:[RELAY_CTRL_K2=0]
+Received RSB-> RSB:[RELAY_CTRL_K2=0]
+Sent RSB -> PC:[RELAY_CTRL_K3=1]
+Received RSB-> RSB:[RELAY_CTRL_K3=1]
+Sent RSB -> PC:[RELAY_CTRL_K4=0]
+Received RSB-> RSB:[RELAY_CTRL_K4=0]
+Sent RSB -> PC:[RELAY_CTRL_K5=0]
+Received RSB-> RSB:[RELAY_CTRL_K5=0]
+Sent RSB -> PC:[RELAY_CTRL_K6=0]
+Received RSB-> RSB:[RELAY_CTRL_K6=0]
+Sent RSB -> PC:[RELAY_CTRL_K7=1]
+Received RSB-> RSB:[RELAY_CTRL_K7=1]
+Sent RSB -> PC:[RELAY_CHK_K1?]
+Received RSB-> RSB:[RELAY_CHK_K1=0]
+Sent RSB -> PC:[RELAY_CHK_K2?]
+Received RSB-> RSB:[RELAY_CHK_K2=1]
+Sent RSB -> PC:[RELAY_CHK_K3?]
+Received RSB-> RSB:[RELAY_CHK_K3=0]
+Sent RSB -> PC:[RELAY_CHK_K4?]
+Received RSB-> RSB:[RELAY_CHK_K4=1]
+Sent RSB -> PC:[RELAY_CHK_K5?]
+Received RSB-> RSB:[RELAY_CHK_K5=1]
+Sent RSB -> PC:[RELAY_CHK_K6?]
+Received RSB-> RSB:[RELAY_CHK_K6=1]
+Sent RSB -> PC:[RELAY_CHK_K7?]
+Received RSB-> RSB:[RELAY_CHK_K7=0]
+Sent E200 -> PC:[MODE_WATT=10]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=19.62]MPU:[MODE_PU
+------------  Osilloscope Measurement  ------------ 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+Connection Error. 
+    Power       ： 0.87892 (W) 
+    Voltage     ： 30.1 (V) 
+    Current		： 0.0292 (A)
+    Power Tolerance	： -91.2108 % 
+
+2017/8/16 下午 05:11:42
+Checked mode PURE, BLEND1, BLEND2, PINPOINT, SPRAY, BIPOLAR. 
+
+Start Calibrate...
+************************************************** 
+    Time        ： 2017/08/16 17:11
+    Mode		： PURE
+	Expext Power	： 10 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent RSB -> PC:[RELAY_CTRL_K1=1]
+Received RSB-> RSB:[RELAY_CTRL_
+Sent RSB -> PC:[RELAY_CTRL_K2=0]
+Received RSB-> RSB:[RELAY_CTRL_K2=0]
+Sent RSB -> PC:[RELAY_CTRL_K3=1]
+Received RSB-> RSB:[RELAY_CTRL_K3=1]
+Sent RSB -> PC:[RELAY_CTRL_K4=0]
+Received RSB-> RSB:[RELAY_CTRL_K4=0]
+Sent RSB -> PC:[RELAY_CTRL_K5=0]
+Received RSB-> RSB:[RELAY_CTRL_K5=0]
+Sent RSB -> PC:[RELAY_CTRL_K6=0]
+Received RSB-> RSB:[RELAY_CTRL_K6=0]
+Sent RSB -> PC:[RELAY_CTRL_K7=1]
+Received RSB-> RSB:[RELAY_CTRL_K7=1]
+Sent RSB -> PC:[RELAY_CHK_K1?]
+Received RSB-> RSB:[RELAY_CHK_K1=0]
+Sent RSB -> PC:[RELAY_CHK_K2?]
+Received RSB-> RSB:[RELAY_CHK_K2=1]
+Sent RSB -> PC:[RELAY_CHK_K3?]
+Received RSB-> RSB:[RELAY_CHK_K3=0]
+Sent RSB -> PC:[RELAY_CHK_K4?]
+Received RSB-> RSB:[RELAY_CHK_K4=1]
+Sent RSB -> PC:[RELAY_CHK_K5?]
+Received RSB-> RSB:[RELAY_CHK_K5=1]
+Sent RSB -> PC:[RELAY_CHK_K6?]
+Received RSB-> RSB:[RELAY_CHK_K6=1]
+Sent RSB -> PC:[RELAY_CHK_K7?]
+Received RSB-> RSB:[RELAY_CHK_K7=0]
+Sent E200 -> PC:[MODE_WATT=10]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 1.62923 (W) 
+    Voltage     ： 85.3 (V) 
+    Current		： 0.0191 (A)
+    Power Tolerance	： -83.7077 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent E200 -> PC:[MODE_WATT=14.185385]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=23.76]MPU:[MODE_
+Received E200-> PU:[MODE_WATT=23.76]MPU:[MODE_PURE=34.74]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 1.68192 (W) 
+    Voltage     ： 87.6 (V) 
+    Current		： 0.0192 (A)
+    Power Tolerance	： -83.1808 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent E200 -> PC:[MODE_WATT=18.344425]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> M
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 2.14704 (W) 
+    Voltage     ： 100.8 (V) 
+    Current		： 0.0213 (A)
+    Power Tolerance	： -78.5296 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent E200 -> PC:[MODE_WATT=22.270905]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_W
+Received E200-> PU:[MODE_WATT=31.84]MPU:[MODE_PURE=45.94]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 2.599 (W) 
+    Voltage     ： 113 (V) 
+    Current		： 0.023 (A)
+    Power Tolerance	： -74.01 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent E200 -> PC:[MODE_WATT=25.971405]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=35.65]MPU:[MODE_PUR
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 2.91264 (W) 
+    Voltage     ： 118.4 (V) 
+    Current		： 0.0246 (A)
+    Power Tolerance	： -70.8736 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent E200 -> PC:[MODE_WATT=29.515085]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=39.29]MPU:[
+Received E200-> PU:[MODE_WATT=39.29]MPU:[MODE_PURE=53.03]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 3.4925 (W) 
+    Voltage     ： 127 (V) 
+    Current		： 0.0275 (A)
+    Power Tolerance	： -65.075 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent E200 -> PC:[MODE_WATT=32.768835]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=43.44]MPU:[MODE_PURE=55
+Received E200-> PU:[MODE_WATT=43.44]MPU:[MODE_PURE=55.48]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 3.14487 (W) 
+    Voltage     ： 126.3 (V) 
+    Current		： 0.0249 (A)
+    Power Tolerance	： -68.5513 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent E200 -> PC:[MODE_WATT=36.1964]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=47.95]MPU:[MODE_PURE=57
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 3.99543 (W) 
+    Voltage     ： 137.3 (V) 
+    Current		： 0.0291 (A)
+    Power Tolerance	： -60.0457 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent E200 -> PC:[MODE_WATT=39.198685]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU
+Received E200-> PU:[MODE_WATT=51.90]MPU:[MODE_PURE=59.88]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 4.07898 (W) 
+    Voltage     ： 146.2 (V) 
+    Current		： 0.0279 (A)
+    Power Tolerance	： -59.2102 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+2017/8/16 下午 05:12:07
+Checked mode PURE, BLEND1, BLEND2, PINPOINT, SPRAY, BIPOLAR. 
+
+Start Calibrate...
+************************************************** 
+    Time        ： 2017/08/16 17:12
+    Mode		： PURE
+	Expext Power	： 10 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent RSB -> PC:[RELAY_CTRL_K1=1]
+Received RSB-> RSB:[RELAY_CTRL_K1=1]
+Sent RSB -> PC:[RELAY_CTRL_K2=0]
+Received RSB-> RSB:[RELAY_CTRL_K2=0]
+Sent RSB -> PC:[RELAY_CTRL_K3=1]
+Received RSB-> RSB:[RELAY_CTRL_K3=1]
+Sent RSB -> PC:[RELAY_CTRL_K4=0]
+Received RSB-> RSB:[RELAY_CTRL_K4=0]
+Sent RSB -> PC:[RELAY_CTRL_K5=0]
+Received RSB-> RSB:[RELAY_CTRL_K5=0]
+Sent RSB -> PC:[RELAY_CTRL_K6=0]
+Received RSB-> RSB:[RELAY_CTRL_K6=0]
+Sent RSB -> PC:[RELAY_CTRL_K7=1]
+Received RSB-> RSB:[RELAY_CTRL_K7=1]
+Sent RSB -> PC:[RELAY_CHK_K1?]
+Received RSB-> RSB:[RELAY_CHK_K1=0]
+Sent RSB -> PC:[RELAY_CHK_K2?]
+Received RSB-> RSB:[RELAY_CHK_K2=1]
+Sent RSB -> PC:[RELAY_CHK_K3?]
+Received RSB-> RSB:[RELAY_CHK_K3=0]
+Sent RSB -> PC:[RELAY_CHK_K4?]
+Received RSB-> RSB:[RELAY_CHK_K4=1]
+Sent RSB -> PC:[RELAY_CHK_K5?]
+Received RSB-> RSB:[RELAY_CHK_K5=1]
+Sent RSB -> PC:[RELAY_CHK_K6?]
+Received RSB-> RSB:[RELAY_CHK_K6=1]
+Sent RSB -> PC:[RELAY_CHK_K7?]
+Received RSB-> RSB:[RELAY_CHK_K7=0]
+Sent E200 -> PC:[CALIB_DATA_PURE_?=]
+Received E200-> MPU:[CALIB_DATA_PURE=1.00
+Received E200-> PU:[CALIB_DATA_PURE=1.00,0.94,0.94,0.97,0.95,0.92,0.97,0.95,0.9
+Sent E200 -> PC:[MODE_WATT=0]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> 
+here  PURE
+1.00
+0.94
+0.94
+0.97
+0.95
+0.92
+0.97
+0.95
+0.94
+0.96
+0.94
+0.95
+0.97
+0.97
+0.97
+0.97
+0.97
+1.00
+1.00
+1.00
+here  PURE
+1.00
+0.94
+0.94
+0.97
+0.95
+0.92
+0.97
+0.95
+0.94
+0.96
+0.94
+0.95
+0.97
+0.97
+0.97
+0.97
+0.97
+1.00
+1.00
+1.00
+Received E200-> PU:[MODE_WATT=9.75]MPU:[MODE_PURE=0.00]
+------------  Osilloscope Measurement  ------------ 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+Connection Error. 
+    Power       ： 0.107 (W) 
+    Voltage     ： 10.7 (V) 
+    Current		： 0.01 (A)
+    Power Tolerance	： -98.93 % 
+
+2017/8/16 下午 05:12:25
+Checked mode PURE, BLEND1, BLEND2, PINPOINT, SPRAY, BIPOLAR. 
+
+Start Calibrate...
+************************************************** 
+    Time        ： 2017/08/16 17:12
+    Mode		： PURE
+	Expext Power	： 10 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent RSB -> PC:[RELAY_CTRL_K1=1]
+Received RSB-> RSB:[RELAY_CTRL_K1=1]
+Sent RSB -> PC:[RELAY_CTRL_K2=0]
+Received RSB-> RSB:[RELAY_CTRL_K2=0]
+Sent RSB -> PC:[RELAY_CTRL_K3=1]
+Received RSB-> RSB:[RELAY_CTRL_K3=1]
+Sent RSB -> PC:[RELAY_CTRL_K4=0]
+Received RSB-> RSB:[RELAY_CTRL_K4=0]
+Sent RSB -> PC:[RELAY_CTRL_K5=0]
+Received RSB-> RSB:[RELAY_CTRL_K5=0]
+Sent RSB -> PC:[RELAY_CTRL_K6=0]
+Received RSB-> RSB:[RELAY_CTRL_K6=0]
+Sent RSB -> PC:[RELAY_CTRL_K7=1]
+Received RSB-> RSB:[RELAY_CTRL_K7=1]
+Sent RSB -> PC:[RELAY_CHK_K1?]
+Received RSB-> RSB:[RELAY_CHK_K1=0]
+Sent RSB -> PC:[RELAY_CHK_K2?]
+Received RSB-> RSB:[RELAY_CHK_K2=1]
+Sent RSB -> PC:[RELAY_CHK_K3?]
+Received RSB-> RSB:[RELAY_CHK_K3=0]
+Sent RSB -> PC:[RELAY_CHK_K4?]
+Received RSB-> RSB:[RELAY_CHK_K4=1]
+Sent RSB -> PC:[RELAY_CHK_K5?]
+Received RSB-> RSB:[RELAY_CHK_K5=1]
+Sent RSB -> PC:[RELAY_CHK_K6?]
+Received RSB-> RSB:[RELAY_CHK_K6=1]
+Sent RSB -> PC:[RELAY_CHK_K7?]
+Received RSB-> RSB:[RELAY_CHK_K7=0]
+Sent E200 -> PC:[MODE_WATT=10]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=19.62]MPU:[MODE_PURE=29.92]
+------------  Osilloscope Measurement  ------------ 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+Connection Error. 
+    Power       ： 0.86728 (W) 
+    Voltage     ： 29.6 (V) 
+    Current		： 0.0293 (A)
+    Power Tolerance	： -91.3272 % 
+
+2017/8/16 下午 05:12:44
+Checked mode PURE, BLEND1, BLEND2, PINPOINT, SPRAY, BIPOLAR. 
+
+Start Calibrate...
+************************************************** 
+    Time        ： 2017/08/16 17:12
+    Mode		： PURE
+	Expext Power	： 10 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent RSB -> PC:[RELAY_CTRL_K1=1]
+Received RSB-> RSB:[RELAY_CTRL_K1=1]
+Sent RSB -> PC:[RELAY_CTRL_K2=0]
+Received RSB-> RSB:[RELAY_CTRL_K2=0]
+Sent RSB -> PC:[RELAY_CTRL_K3=1]
+Received RSB-> RSB:[RELAY_CTRL_K3=1]
+Sent RSB -> PC:[RELAY_CTRL_K4=0]
+Received RSB-> RSB:[RELAY_CTRL_K4=0
+Sent RSB -> PC:[RELAY_CTRL_K5=0]
+Received RSB-> RSB:[RELAY_CTRL_K5=0]
+Sent RSB -> PC:[RELAY_CTRL_K6=0]
+Received RSB-> RSB:[RELAY_CTRL_K6=0]
+Sent RSB -> PC:[RELAY_CTRL_K7=1]
+Received RSB-> RSB:[RELAY_CTRL_K7=1]
+Sent RSB -> PC:[RELAY_CHK_K1?]
+Received RSB-> RSB:[RELAY_CHK_K1=0]
+Sent RSB -> PC:[RELAY_CHK_K2?]
+Received RSB-> RSB:[RELAY_CHK_K2=1]
+Sent RSB -> PC:[RELAY_CHK_K3?]
+Received RSB-> RSB:[RELAY_CHK_K3=0]
+Sent RSB -> PC:[RELAY_CHK_K4?]
+Received RSB-> RSB:[RELAY_CHK_K4=1]
+Sent RSB -> PC:[RELAY_CHK_K5?]
+Received RSB-> RSB:[RELAY_CHK_K5=1]
+Sent RSB -> PC:[RELAY_CHK_K6?]
+Received RSB-> RSB:[RELAY_CHK_K6=1]
+Sent RSB -> PC:[RELAY_CHK_K7?]
+Received RSB-> RSB:[RELAY_CHK_K7=0]
+Sent E200 -> PC:[CALIB_DATA_PURE_?=]
+Received E200-> M
+Received E200-> PU:[CALIB_DATA_PURE=1.00,0.94,0.94,0.97,0.95,0.92,0.97,0.95,0.94,0.96
+Received E200-> U:[CALIB_DATA_PURE=1.00,0.94,0.94,0.97,0.95,0.92,0.97,0.95,0.94,0.96,0.94,0.95,0.97,0.97,0.97,0.97,0.97,1.00,1.00,1.00]
+here  PURE
+1.00
+0.94
+0.94
+0.97
+0.95
+0.92
+0.97
+0.95
+0.94
+0.96
+0.94
+0.95
+0.97
+0.97
+0.97
+0.97
+0.97
+1.00
+1.00
+1.00
+Sent E200 -> PC:[MODE_WATT=10]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=
+------------  Osilloscope Measurement  ------------ 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+Connection Error. 
+    Power       ： 0.812 (W) 
+    Voltage     ： 29 (V) 
+    Current		： 0.028 (A)
+    Power Tolerance	： -91.88 % 
+
+2017/8/16 下午 05:13:48
+Checked mode PURE, BLEND1, BLEND2, PINPOINT, SPRAY, BIPOLAR. 
+
+Start Calibrate...
+************************************************** 
+    Time        ： 2017/08/16 17:13
+    Mode		： PURE
+	Expext Power	： 10 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent RSB -> PC:[RELAY_CTRL_K1=1]
+Received RSB-> RSB:[RELAY_CTRL_K1=1]
+Sent RSB -> PC:[RELAY_CTRL_K2=0]
+Received RSB-> RSB:[RELAY_CTRL_K2=0]
+Sent RSB -> PC:[RELAY_CTRL_K3=1]
+Received RSB-> RSB:[RELAY_CTRL_K3=1]
+Sent RSB -> PC:[RELAY_CTRL_K4=0]
+Received RSB-> RSB:[RELAY_CTRL_K4=0]
+Sent RSB -> PC:[RELAY_CTRL_K5=0]
+Received RSB-> RSB:[RELAY_CTRL_K5=0]
+Sent RSB -> PC:[RELAY_CTRL_K6=0]
+Received RSB-> RSB:[RELAY_CTRL_K6=0]
+Sent RSB -> PC:[RELAY_CTRL_K7=1]
+Received RSB-> RSB:[RELAY_CTRL_K7=1]
+Sent RSB -> PC:[RELAY_CHK_K1?]
+Received RSB-> RSB:[RELAY_CHK_K1=0]
+Sent RSB -> PC:[RELAY_CHK_K2?]
+Received RSB-> RSB:[RELAY_CHK_K2=1]
+Sent RSB -> PC:[RELAY_CHK_K3?]
+Received RSB-> RSB:[RELAY_CHK_K3=0]
+Sent RSB -> PC:[RELAY_CHK_K4?]
+Received RSB-> RSB:[RELAY_CHK_K4=1]
+Sent RSB -> PC:[RELAY_CHK_K5?]
+Received RSB-> RSB:[RELAY_CHK_K5=1]
+Sent RSB -> PC:[RELAY_CHK_K6?]
+Received RSB-> RSB:[RELAY_CHK_K6=1]
+Sent RSB -> PC:[RELAY_CHK_K7?]
+Received RSB-> RSB:[RELAY_CHK_K7=0]
+Sent E200 -> PC:[CALIB_DATA_PURE_?=]
+Received E200-> MPU:[CALIB_DATA_PURE=1.00,0.94,0.94,0.97,0.95,0.92,0.9
+Received E200-> PU:[CALIB_DATA_PURE=1.00,0.94,0.94,0.97,0.95,0.92,0.97,0.95,0.94,0.96,0.94,0.95,0.97,0.97,0.97,0.97,0.97,1.00,1.00,1.00]
+here  PURE
+1.00
+0.94
+0.94
+0.97
+0.95
+0.92
+0.97
+0.95
+0.94
+0.96
+0.94
+0.95
+0.97
+0.97
+0.97
+0.97
+0.97
+1.00
+1.00
+1.00
+Sent E200 -> PC:[MODE_WATT=10]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=19.62]MPU:
+Received E200-> PU:[MODE_WATT=19.62]MPU:[MODE_PURE=29.92]
+------------  Osilloscope Measurement  ------------ 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+Connection Error. 
+    Power       ： 0.84552 (W) 
+    Voltage     ： 31.2 (V) 
+    Current		： 0.0271 (A)
+    Power Tolerance	： -91.5448 % 
+
+2017/8/16 下午 05:14:00
+Checked mode PURE, BLEND1, BLEND2, PINPOINT, SPRAY, BIPOLAR. 
+
+Start Calibrate...
+************************************************** 
+    Time        ： 2017/08/16 17:14
+    Mode		： PURE
+	Expext Power	： 10 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent RSB -> PC:[RELAY_CTRL_K1=1]
+Received RSB-> RSB:[RELAY_CTRL_K1=1]
+Sent RSB -> PC:[RELAY_CTRL_K2=0]
+Received RSB-> RSB:[RELAY_CTRL_K2=0]
+Sent RSB -> PC:[RELAY_CTRL_K3=1]
+Received RSB-> RSB:[RELAY_CTRL_K3=1]
+Sent RSB -> PC:[RELAY_CTRL_K4=0]
+Received RSB-> RSB:[RELAY_CTRL_K4=0]
+Sent RSB -> PC:[RELAY_CTRL_K5=0]
+Received RSB-> RSB:[RELAY_CTRL_K5=0]
+Sent RSB -> PC:[RELAY_CTRL_K6=0]
+Received RSB-> RSB:[RELAY_CTRL_K6=0]
+Sent RSB -> PC:[RELAY_CTRL_K7=1]
+Received RSB-> RSB:[RELAY_CTRL_K7=1]
+Sent RSB -> PC:[RELAY_CHK_K1?]
+Received RSB-> RSB:[RELAY_CHK_K1=0]
+Sent RSB -> PC:[RELAY_CHK_K2?]
+Received RSB-> RSB:[RELAY_CHK_K2=1]
+Sent RSB -> PC:[RELAY_CHK_K3?]
+Received RSB-> RSB:[RELAY_CHK_K3=0]
+Sent RSB -> PC:[RELAY_CHK_K4?]
+Received RSB-> RSB:[RELAY_CHK_K4=1]
+Sent RSB -> PC:[RELAY_CHK_K5?]
+Received RSB-> RSB:[RELAY_CHK_K5=1]
+Sent RSB -> PC:[RELAY_CHK_K6?]
+Received RSB-> RSB:[RELAY_CHK_K6=1]
+Sent RSB -> PC:[RELAY_CHK_K7?]
+Received RSB-> RSB:[RELAY_CHK_K7=0]
+Sent E200 -> PC:[CALIB_DATA_PURE_?=]
+Received E200-> MPU:[CALIB_DATA_PU
+Received E200-> PU:[CALIB_DATA_PURE=1.00,0.94,0.94,0.97,0.95,0.92,0.97,0.95,0.94,0.96,0.94,0.95,0.97,0.97,0.97,0.97,0.97,1.00,1.00,1.00]
+here  PURE
+1.00
+0.94
+0.94
+0.97
+0.95
+0.92
+0.97
+0.95
+0.94
+0.96
+0.94
+0.95
+0.97
+0.97
+0.97
+0.97
+0.97
+1.00
+1.00
+1.00
+Sent E200 -> PC:[MODE_WATT=10]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=19.62]MPU:[MODE_PURE=29.92]
+------------  Osilloscope Measurement  ------------ 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+Connection Error. 
+Received E200-> PU:[MODE_WATT=19.62]MPU:[MODE_PURE=29.92]Received E200-> PU:[MODE_WATT=19.62]MPU:[MODE_PURE=29.92]    Power       ： 0.91035 (W) 
+    Voltage     ： 28.9 (V) 
+    Current		： 0.0315 (A)
+    Power Tolerance	： -90.8965 % 
+
+2017/8/16 下午 05:17:00
+Checked mode PURE, BLEND1, BLEND2, PINPOINT, SPRAY, BIPOLAR. 
+
+Start Calibrate...
+************************************************** 
+    Time        ： 2017/08/16 17:17
+    Mode		： PURE
+	Expext Power	： 10 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent RSB -> PC:[RELAY_CTRL_K1=1]
+System.InvalidOperationException: 通訊埠已經關閉。
+   於 System.IO.Ports.SerialPort.Write(String text)
+   於 Csharp.MainForm.RSB_transmit(String string_device, String string_control, String string_moverment, String string_synbol, String string_value) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13\Csharp\MainForm.cs: 行 2703Sent E200 -> PC:[MODE_DISABLE=0]
+Sent RSB -> PC:[RELAY_CTRL_K2=0]
+System.InvalidOperationException: 通訊埠已經關閉。
+   於 System.IO.Ports.SerialPort.Write(String text)
+   於 Csharp.MainForm.RSB_transmit(String string_device, String string_control, String string_moverment, String string_synbol, String string_value) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13\Csharp\MainForm.cs: 行 2703Disconnect RSB.
+Sent E200 -> PC:[MODE_DISABLE=0]
+Sent RSB -> PC:[RELAY_CTRL_K3=1]
+System.InvalidOperationException: 通訊埠已經關閉。
+   於 System.IO.Ports.SerialPort.Write(String text)
+   於 Csharp.MainForm.RSB_transmit(String string_device, String string_control, String string_moverment, String string_synbol, String string_value) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13\Csharp\MainForm.cs: 行 2703Sent E200 -> PC:[MODE_DISABLE=0]
+Received E200-> Sent RSB -> PC:[RELAY_CTRL_K4=0]
+System.InvalidOperationException: 通訊埠已經關閉。
+   於 System.IO.Ports.SerialPort.Write(String text)
+   於 Csharp.MainForm.RSB_transmit(String string_device, String string_control, String string_moverment, String string_synbol, String string_value) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13\Csharp\MainForm.cs: 行 2703Sent E200 -> PC:[MODE_DISABLE=0]
+Sent RSB -> PC:[RELAY_CTRL_K5=0]
+System.InvalidOperationException: 通訊埠已經關閉。
+   於 System.IO.Ports.SerialPort.Write(String text)
+   於 Csharp.MainForm.RSB_transmit(String string_device, String string_control, String string_moverment, String string_synbol, String string_value) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13\Csharp\MainForm.cs: 行 2703Sent E200 -> PC:[MODE_DISABLE=0]
+Sent RSB -> PC:[RELAY_CTRL_K6=0]
+System.InvalidOperationException: 通訊埠已經關閉。
+   於 System.IO.Ports.SerialPort.Write(String text)
+   於 Csharp.MainForm.RSB_transmit(String string_device, String string_control, String string_moverment, String string_synbol, String string_value) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13\Csharp\MainForm.cs: 行 2703Sent E200 -> PC:[MODE_DISABLE=0]
+Sent RSB -> PC:[RELAY_CTRL_K7=1]
+System.InvalidOperationException: 通訊埠已經關閉。
+   於 System.IO.Ports.SerialPort.Write(String text)
+   於 Csharp.MainForm.RSB_transmit(String string_device, String string_control, String string_moverment, String string_synbol, String string_value) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13\Csharp\MainForm.cs: 行 2703Sent E200 -> PC:[MODE_DISABLE=0]
+Sent RSB -> PC:[RELAY_CHK_K1?]
+System.InvalidOperationException: 通訊埠已經關閉。
+   於 System.IO.Ports.SerialPort.Write(String text)
+   於 Csharp.MainForm.RSB_transmit(String string_device, String string_control, String string_moverment, String string_synbol, String string_value) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13\Csharp\MainForm.cs: 行 2703Sent E200 -> PC:[MODE_DISABLE=0]
+Sent RSB -> PC:[RELAY_CHK_K2?]
+System.InvalidOperationException: 通訊埠已經關閉。
+   於 System.IO.Ports.SerialPort.Write(String text)
+   於 Csharp.MainForm.RSB_transmit(String string_device, String string_control, String string_moverment, String string_synbol, String string_value) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13\Csharp\MainForm.cs: 行 2703Sent E200 -> PC:[MODE_DISABLE=0]
+Sent RSB -> PC:[RELAY_CHK_K3?]
+System.InvalidOperationException: 通訊埠已經關閉。
+   於 System.IO.Ports.SerialPort.Write(String text)
+   於 Csharp.MainForm.RSB_transmit(String string_device, String string_control, String string_moverment, String string_synbol, String string_value) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13\Csharp\MainForm.cs: 行 2703Sent E200 -> PC:[MODE_DISABLE=0]
+Sent RSB -> PC:[RELAY_CHK_K4?]
+System.InvalidOperationException: 通訊埠已經關閉。
+   於 System.IO.Ports.SerialPort.Write(String text)
+   於 Csharp.MainForm.RSB_transmit(String string_device, String string_control, String string_moverment, String string_synbol, String string_value) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13\Csharp\MainForm.cs: 行 2703Sent E200 -> PC:[MODE_DISABLE=0]
+Sent RSB -> PC:[RELAY_CHK_K5?]
+System.InvalidOperationException: 通訊埠已經關閉。
+   於 System.IO.Ports.SerialPort.Write(String text)
+   於 Csharp.MainForm.RSB_transmit(String string_device, String string_control, String string_moverment, String string_synbol, String string_value) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13\Csharp\MainForm.cs: 行 2703Sent E200 -> PC:[MODE_DISABLE=0]
+Sent RSB -> PC:[RELAY_CHK_K6?]
+System.InvalidOperationException: 通訊埠已經關閉。
+   於 System.IO.Ports.SerialPort.Write(String text)
+   於 Csharp.MainForm.RSB_transmit(String string_device, String string_control, String string_moverment, String string_synbol, String string_value) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13\Csharp\MainForm.cs: 行 2703Sent E200 -> PC:[MODE_DISABLE=0]
+Sent RSB -> PC:[RELAY_CHK_K7?]
+System.InvalidOperationException: 通訊埠已經關閉。
+   於 System.IO.Ports.SerialPort.Write(String text)
+   於 Csharp.MainForm.RSB_transmit(String string_device, String string_control, String string_moverment, String string_synbol, String string_value) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13\Csharp\MainForm.cs: 行 2703Sent E200 -> PC:[MODE_DISABLE=0]
+Sent E200 -> PC:[CALIB_DATA_PURE_?=]
+
+Connecting COM15...
+COM15 Opened.
+Connected COM15.
+Connecting RSB...
+Sent RSB -> PC:[DET_12V_CHK?]
+Received RSB-> RSB:[DET_12V_CHK=1.96]
+Connected RSB.
+Disconnect E200.
+
+Connecting COM16...
+COM16 Opened.
+Connected COM16.
+Connecting E200...
+Sent E200 -> PC:[MODE_WATT=0]
+Sent E200 -> PC:[MODE_PURE=0]
+Do not receive return signal.
+False to connect E200.
+
+
+Connecting COM16...
+COM16 Opened.
+Connected COM16.
+Connecting E200...
+Sent E200 -> PC:[MODE_WATT=0]
+Sent E200 -> PC:[MODE_PURE=0]
+Do not receive return signal.
+False to connect E200.
+
+
+Connecting COM16...
+COM16 Opened.
+Connected COM16.
+Connecting E200...
+Sent E200 -> PC:[MODE_WATT=0]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=9.75]MPU:[MODE_PURE=0.00]
+Sent E200 -> PC:[MODE_DISABLE=0]
+Connected E200.
+2017/8/16 下午 05:17:49
+Checked mode PURE, BLEND1, BLEND2, PINPOINT, SPRAY, BIPOLAR. 
+
+Start Calibrate...
+************************************************** 
+    Time        ： 2017/08/16 17:17
+    Mode		： PURE
+	Expext Power	： 10 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent RSB -> PC:[RELAY_CTRL_K1=1]
+Received RSB-> RSB:[RELAY_CTRL_K1=1]
+Sent RSB -> PC:[RELAY_CTRL_K2=0]
+Received RSB-> RSB:[RELAY_CTRL_K2=0]
+Sent RSB -> PC:[RELAY_CTRL_K3=1]
+Received RSB-> RSB:[RELAY_CTRL_K3=1]
+Sent RSB -> PC:[RELAY_CTRL_K4=0]
+Received RSB-> RSB:[RELAY_CTRL_K4=0]
+Sent RSB -> PC:[RELAY_CTRL_K5=0]
+Received RSB-> RSB:[RELAY_CTRL_K5=0]
+Sent RSB -> PC:[RELAY_CTRL_K6=0]
+Received RSB-> RSB:[RELAY_CTRL_K6=0]
+Sent RSB -> PC:[RELAY_CTRL_K7=1]
+Received RSB-> RSB:[RELAY_CTRL_K7=1]
+Sent RSB -> PC:[RELAY_CHK_K1?]
+Received RSB-> RSB:[RELAY_CHK_K1=0]
+Sent RSB -> PC:[RELAY_CHK_K2?]
+Received RSB-> RSB:[RELAY_CHK_K2=1]
+Sent RSB -> PC:[RELAY_CHK_K3?]
+Received RSB-> RSB:[RELAY_CHK_K3=0]
+Sent RSB -> PC:[RELAY_CHK_K4?]
+Received RSB-> RSB:[RELAY_CHK_K4=1]
+Sent RSB -> PC:[RELAY_CHK_K5?]
+Received RSB-> RSB:[RELAY_CHK_K5=1]
+Sent RSB -> PC:[RELAY_CHK_K6?]
+Received RSB-> RSB:[RELAY_CHK_K6=1]
+Sent RSB -> PC:[RELAY_CHK_K7?]
+Received RSB-> RSB:[RELAY_CHK_K7=0]
+Sent E200 -> PC:[CALIB_DATA_PURE_?=]
+Received E200-> MPU:[CALIB_DAT
+here  PURE
+1.00
+0.94
+0.94
+0.97
+0.95
+0.92
+0.97
+0.95
+0.94
+0.96
+0.94
+0.95
+0.97
+0.97
+0.97
+0.97
+0.97
+1.00
+1.00
+1.00
+here  PURE
+1.00
+0.94
+0.94
+0.97
+0.95
+0.92
+0.97
+0.95
+0.94
+0.96
+0.94
+0.95
+0.97
+0.97
+0.97
+0.97
+0.97
+1.00
+1.00
+1.00
+Sent E200 -> PC:[MODE_WATT=10]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MO
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 1.65979 (W) 
+    Voltage     ： 86.9 (V) 
+    Current		： 0.0191 (A)
+    Power Tolerance	： -83.4021 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+************************************************** 
+  Time        ： 2017/08/16 17:17
+  Mode		： PURE
+	Expext Power	： 20 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent E200 -> PC:[MODE_WATT=18.8]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> M
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 2.05824 (W) 
+    Voltage     ： 102.4 (V) 
+    Current		： 0.0201 (A)
+    Power Tolerance	： -89.7088 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+************************************************** 
+  Time        ： 2017/08/16 17:17
+  Mode		： PURE
+	Expext Power	： 30 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent E200 -> PC:[MODE_WATT=28.2]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=37.94
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 3.40544 (W) 
+    Voltage     ： 125.2 (V) 
+    Current		： 0.0272 (A)
+    Power Tolerance	： -88.6485333333333 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+************************************************** 
+  Time        ： 2017/08/16 17:17
+  Mode		： PURE
+	Expext Power	： 40 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent E200 -> PC:[MODE_WATT=38.8]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT
+Received E200-> PU:[MODE_WATT=51.38]MP
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 4.03866 (W) 
+    Voltage     ： 145.8 (V) 
+    Current		： 0.0277 (A)
+    Power Tolerance	： -89.90335 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+************************************************** 
+  Time        ： 2017/08/16 17:17
+  Mode		： PURE
+	Expext Power	： 50 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent E200 -> PC:[MODE_WATT=47.5]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=62.60]MPU:[MODE_PU
+2017/8/16 下午 05:18:02
+Checked mode PURE, BLEND1, BLEND2, PINPOINT, SPRAY, BIPOLAR. 
+
+Start Calibrate...
+************************************************** 
+    Time        ： 2017/08/16 17:18
+    Mode		： PURE
+	Expext Power	： 10 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent RSB -> PC:[RELAY_CTRL_K1=1]
+Received RSB-> RSB:[RELAY_CTRL_K1=1]
+Sent RSB -> PC:[RELAY_CTRL_K2=0]
+Received RSB-> RSB:[RELAY_CTRL_K2=0]
+Sent RSB -> PC:[RELAY_CTRL_K3=1]
+Received RSB-> RSB:[RELAY_CTRL_K3=1]
+Sent RSB -> PC:[RELAY_CTRL_K4=0]
+Received RSB-> RSB:[RELAY_CTRL_K4=0]
+Sent RSB -> PC:[RELAY_CTRL_K5=0]
+Received RSB-> RSB:[RELAY_CTRL_K5=0]
+Sent RSB -> PC:[RELAY_CTRL_K6=0]
+Received RSB-> RSB:[RELAY_CTRL_K6=0]
+Sent RSB -> PC:[RELAY_CTRL_K7=1]
+Received RSB-> RSB:[RELAY_CTRL_K7=1]
+Sent RSB -> PC:[RELAY_CHK_K1?]
+Received RSB-> RSB:[RELAY_CHK_K1=0]
+Sent RSB -> PC:[RELAY_CHK_K2?]
+Received RSB-> RSB:[RELAY_CHK_K2=1]
+Sent RSB -> PC:[RELAY_CHK_K3?]
+Received RSB-> RSB:[RELAY_CHK_K3=0]
+Sent RSB -> PC:[RELAY_CHK_K4?]
+Received RSB-> RSB:[RELAY_CHK_K4=1]
+Sent RSB -> PC:[RELAY_CHK_K5?]
+Received RSB-> RSB:[RELAY_CHK_K5=1]
+Sent RSB -> PC:[RELAY_CHK_K6?]
+Received RSB-> RSB:[RELAY_CHK_K6=1]
+Sent RSB -> PC:[RELAY_CHK_K7?]
+Received RSB-> RSB:[RELAY_CHK_K7=0]
+Sent E200 -> PC:[MODE_WATT=10]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=19
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 1.58424 (W) 
+    Voltage     ： 86.1 (V) 
+    Current		： 0.0184 (A)
+    Power Tolerance	： -84.1576 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent E200 -> PC:[MODE_WATT=14.20788]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=23.78]MPU
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 1.80493 (W) 
+    Voltage     ： 90.7 (V) 
+    Current		： 0.0199 (A)
+    Power Tolerance	： -81.9507 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent E200 -> PC:[MODE_WATT=18.305415]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 2.1147 (W) 
+    Voltage     ： 100.7 (V) 
+    Current		： 0.021 (A)
+    Power Tolerance	： -78.853 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent E200 -> PC:[MODE_WATT=22.248065]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=31.
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 2.48031 (W) 
+    Voltage     ： 114.3 (V) 
+    Current		： 0.0217 (A)
+    Power Tolerance	： -75.1969 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent E200 -> PC:[MODE_WATT=26.00791]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[M
+Received E200-> PU:[MODE_WATT=35.68]MPU:[MODE_PURE=50.20]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 2.82204 (W) 
+    Voltage     ： 120.6 (V) 
+    Current		： 0.0234 (A)
+    Power Tolerance	： -71.7796 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent E200 -> PC:[MODE_WATT=29.59689]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=39.38]MPU:[MODE_PU
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 3.35124 (W) 
+    Voltage     ： 128.4 (V) 
+    Current		： 0.0261 (A)
+    Power Tolerance	： -66.4876 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent E200 -> PC:[MODE_WATT=32.92127]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=43.64]MPU
+Received E200-> PU:[MODE_WATT=43.64]MPU:[MODE_PURE=55.59]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 3.83325 (W) 
+    Voltage     ： 134.5 (V) 
+    Current		： 0.0285 (A)
+    Power Tolerance	： -61.6675 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent E200 -> PC:[MODE_WATT=36.004645]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=47.70]MPU:[MODE_PURE=5
+------------  Osilloscope Measurement  ------------ 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+Connection Error. 
+    Power       ： 1.40382E+40 (W) 
+    Voltage     ： 141.8 (V) 
+    Current		： 9.9E+37 (A)
+    Power Tolerance	： 1.40382E+41 % 
+
+2017/8/16 下午 05:18:28
+Checked mode PURE, BLEND1, BLEND2, PINPOINT, SPRAY, BIPOLAR. 
+
+Start Calibrate...
+************************************************** 
+    Time        ： 2017/08/16 17:18
+    Mode		： PURE
+	Expext Power	： 10 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent RSB -> PC:[RELAY_CTRL_K1=1]
+Received RSB-> RSB:[RELAY_CTRL_K1=1]
+Sent RSB -> PC:[RELAY_CTRL_K2=0]
+Received RSB-> RSB:[RELAY_CTRL_K2=0]
+Sent RSB -> PC:[RELAY_CTRL_K3=1]
+Received RSB-> RSB:[RELAY_CTRL_K3
+Sent RSB -> PC:[RELAY_CTRL_K4=0]
+Received RSB-> RSB:[RELAY_CTRL_K4=0]
+Sent RSB -> PC:[RELAY_CTRL_K5=0]
+Received RSB-> RSB:[RELAY_CT
+Sent RSB -> PC:[RELAY_CTRL_K6=0]
+Received RSB-> RSB:[RELAY_CTRL_K6=0]
+Sent RSB -> PC:[RELAY_CTRL_K7=1]
+Received RSB-> RSB:[RELAY_CTRL_K7=1]
+Sent RSB -> PC:[RELAY_CHK_K1?]
+Received RSB-> RSB:[RELAY_CHK_K1=0]
+Sent RSB -> PC:[RELAY_CHK_K2?]
+Received RSB-> RSB:[RELAY_CHK_K2=1]
+Sent RSB -> PC:[RELAY_CHK_K3?]
+Received RSB-> RSB:[RELAY_CHK_K3=0]
+Sent RSB -> PC:[RELAY_CHK_K4?]
+Received RSB-> RSB:[RELAY_CHK_K4=1]
+Sent RSB -> PC:[RELAY_CHK_K5?]
+Received RSB-> RSB:[RELAY_CHK_K5=1]
+Sent RSB -> PC:[RELAY_CHK_K6?]
+Received RSB-> RSB:[RELAY_CHK_K6=1]
+Sent RSB -> PC:[RELAY_CHK_K7?]
+Received RSB-> RSB:[RELAY_CHK_K7=0]
+Sent E200 -> PC:[MODE_WATT=10]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=19.62]MPU:[MODE_PURE=29.92]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 1.632 (W) 
+    Voltage     ： 85 (V) 
+    Current		： 0.0192 (A)
+    Power Tolerance	： -83.68 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent E200 -> PC:[MODE_WATT=14.184]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:
+Received E200-> PU:[MODE_WATT=23.76]MPU:[MODE_PURE=34.74]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 1.552707 (W) 
+    Voltage     ： 89.7 (V) 
+    Current		： 0.01731 (A)
+    Power Tolerance	： -84.47293 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent E200 -> PC:[MODE_WATT=18.4076465]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=27.93]MPU:[MODE_PURE=40.75]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 1.960755 (W) 
+    Voltage     ： 100.5 (V) 
+    Current		： 0.01951 (A)
+    Power Tolerance	： -80.39245 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent E200 -> PC:[MODE_WATT=22.427269]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=32
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 2.452632 (W) 
+    Voltage     ： 112.3 (V) 
+    Current		： 0.02184 (A)
+    Power Tolerance	： -75.47368 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent E200 -> PC:[MODE_WATT=26.200953]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 2.746718 (W) 
+    Voltage     ： 118.7 (V) 
+    Current		： 0.02314 (A)
+    Power Tolerance	： -72.53282 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent E200 -> PC:[MODE_WATT=29.827594]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=39.62]MPU:[MODE_PURE=
+Received E200-> PU:[MODE_WATT=39.62]MPU:[MODE_PURE=53.28]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 3.135314 (W) 
+    Voltage     ： 127.4 (V) 
+    Current		： 0.02461 (A)
+    Power Tolerance	： -68.64686 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent E200 -> PC:[MODE_WATT=33.259937]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=44.08]MPU:[
+Received E200-> PU:[MODE_WATT=44.08]MPU:[MODE_PURE=55.83]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 3.09888 (W) 
+    Voltage     ： 128 (V) 
+    Current		： 0.02421 (A)
+    Power Tolerance	： -69.0112 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent E200 -> PC:[MODE_WATT=36.710497]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=48.6
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 3.793005 (W) 
+    Voltage     ： 139.5 (V) 
+    Current		： 0.02719 (A)
+    Power Tolerance	： -62.06995 % 
+
+2017/8/16 下午 05:22:52
+Checked mode PURE, BLEND1, BLEND2, PINPOINT, SPRAY, BIPOLAR. 
+
+Start Calibrate...
+************************************************** 
+    Time        ： 2017/08/16 17:22
+    Mode		： PURE
+	Expext Power	： 10 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent RSB -> PC:[RELAY_CTRL_K1=1]
+System.InvalidOperationException: 通訊埠已經關閉。
+   於 System.IO.Ports.SerialPort.Write(String text)
+   於 Csharp.MainForm.RSB_transmit(String string_device, String string_control, String string_moverment, String string_synbol, String string_value) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13\Csharp\MainForm.cs: 行 2703Sent E200 -> PC:[MODE_DISABLE=0]
+System.InvalidOperationException: 通訊埠已經關閉。
+   於 System.IO.Ports.SerialPort.Write(String text)
+   於 Csharp.MainForm.E200_transmit(String string_Command_type, String string_Commend_symbol, String string_value) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13\Csharp\MainForm.cs: 行 785Disconnect E200.
+Sent RSB -> PC:[RELAY_CTRL_K2=0]
+System.InvalidOperationException: 通訊埠已經關閉。
+   於 System.IO.Ports.SerialPort.Write(String text)
+   於 Csharp.MainForm.RSB_transmit(String string_device, String string_control, String string_moverment, String string_synbol, String string_value) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13\Csharp\MainForm.cs: 行 2703Disconnect RSB.
+Sent E200 -> PC:[MODE_DISABLE=0]
+System.InvalidOperationException: 通訊埠已經關閉。
+   於 System.IO.Ports.SerialPort.Write(String text)
+   於 Csharp.MainForm.E200_transmit(String string_Command_type, String string_Commend_symbol, String string_value) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13\Csharp\MainForm.cs: 行 785
+Connecting COM16...
+COM16 Opened.
+Connected COM16.
+Connecting E200...
+Sent E200 -> PC:[MODE_WATT=0]
+Sent E200 -> PC:[MODE_PURE=0]
+Do not receive return signal.
+False to connect E200.
+
+
+Connecting COM15...
+COM15 Opened.
+Connected COM15.
+Connecting E200...
+Sent E200 -> PC:[MODE_WATT=0]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MSG:[0]
+Return signal is not from E200. 
+False to connect E200.
+
+Sent RSB -> PC:[RELAY_CTRL_K3=1]
+System.InvalidOperationException: 通訊埠已經關閉。
+   於 System.IO.Ports.SerialPort.Write(String text)
+   於 Csharp.MainForm.RSB_transmit(String string_device, String string_control, String string_moverment, String string_synbol, String string_value) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13\Csharp\MainForm.cs: 行 2703
+Connecting COM16...
+COM16 Opened.
+Connected COM16.
+Connecting RSB...
+Sent RSB -> PC:[DET_12V_CHK?]
+Do not receive return signal.
+False to connect RSB.
+
+
+Connecting COM15...
+False to open portCOM15.
+拒絕存取通訊埠 'COM15'。
+Sent E200 -> PC:[MODE_DISABLE=0]
+Received E200-> SG:[0]MSG:[0]
+Sent RSB -> PC:[RELAY_CTRL_K4=0]
+System.InvalidOperationException: 通訊埠已經關閉。
+   於 System.IO.Ports.SerialPort.Write(String text)
+   於 Csharp.MainForm.RSB_transmit(String string_device, String string_control, String string_moverment, String string_synbol, String string_value) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13\Csharp\MainForm.cs: 行 2703
+Connecting COM16...
+COM16 Opened.
+Connected COM16.
+Connecting RSB...
+Sent RSB -> PC:[DET_12V_CHK?]
+Do not receive return signal.
+False to connect RSB.
+
+
+Connecting COM15...
+False to open portCOM15.
+拒絕存取通訊埠 'COM15'。
+Sent E200 -> PC:[MODE_DISABLE=0]
+Received E200-> G:[0]MSG:[0]MSG:[0]
+Sent RSB -> PC:[RELAY_CTRL_K5=0]
+System.InvalidOperationException: 通訊埠已經關閉。
+   於 System.IO.Ports.SerialPort.Write(String text)
+   於 Csharp.MainForm.RSB_transmit(String string_device, String string_control, String string_moverment, String string_synbol, String string_value) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13\Csharp\MainForm.cs: 行 2703
+Connecting COM16...
+COM16 Opened.
+Connected COM16.
+Connecting RSB...
+Sent RSB -> PC:[DET_12V_CHK?]
+Do not receive return signal.
+False to connect RSB.
+
+
+Connecting COM15...
+False to open portCOM15.
+拒絕存取通訊埠 'COM15'。
+Sent E200 -> PC:[MODE_DISABLE=0]
+Received E200-> :[0]MSG:[0]MSG:[0]MSG:[0]
+Sent RSB -> PC:[RELAY_CTRL_K6=0]
+System.InvalidOperationException: 通訊埠已經關閉。
+   於 System.IO.Ports.SerialPort.Write(String text)
+   於 Csharp.MainForm.RSB_transmit(String string_device, String string_control, String string_moverment, String string_synbol, String string_value) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13\Csharp\MainForm.cs: 行 2703
+Connecting COM16...
+COM16 Opened.
+Connected COM16.
+Connecting RSB...
+Sent RSB -> PC:[DET_12V_CHK?]
+Do not receive return signal.
+False to connect RSB.
+
+
+Connecting COM15...
+False to open portCOM15.
+拒絕存取通訊埠 'COM15'。
+Sent E200 -> PC:[MODE_DISABLE=0]
+System.UnauthorizedAccessException: 拒絕存取通訊埠。
+   於 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   於 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   於 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   於 System.IO.Ports.SerialPort.Write(String text)
+   於 Csharp.MainForm.E200_transmit(String string_Command_type, String string_Commend_symbol, String string_value) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13\Csharp\MainForm.cs: 行 785
+Connecting COM16...

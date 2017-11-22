@@ -1,0 +1,12 @@
+2017/8/17 ¤U¤È 03:09:41
+Connected COM17.
+OS connected. 
+False to open portKeySight - 2024A.
+False to open portKeySight - DSOX4024A.
+False to open portLeCroy.
+False to open portCOM17.
+Connected COM15.
+Connectecd RSB.
+Connectecd E200.
+Start calibrating...
+2017/8/17 ¤U¤È 03:09:56

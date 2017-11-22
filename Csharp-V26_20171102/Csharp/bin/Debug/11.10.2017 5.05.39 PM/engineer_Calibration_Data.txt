@@ -1,0 +1,35 @@
+2017/11/10 下午 05:05:39
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V26_20171102\Csharp\bin\Debug\11.10.2017 5.05.39 PM
+
+Connecting COM6...
+Connected COM6.
+Connecting E200...
+Sent E200 -> PC:[MODE_WATT=0]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=9.75]MPU:[MODE_PURE=0.00]
+Sent E200 -> PC:[MODE_DISABLE=0]
+Connected E200.
+System.Reflection.TargetInvocationException: 引動過程的目標傳回例外狀況。 ---> System.ArgumentException: Insufficient location information or the device or resource is not present in the system.  VISA error code -1073807343 (0xBFFF0011), ErrorResourceNotFound ---> NationalInstruments.VisaNS.VisaException: Insufficient location information or the device or resource is not present in the system.  VISA error code -1073807343 (0xBFFF0011), ErrorResourceNotFound
+   --- 內部例外狀況堆疊追蹤的結尾 ---
+   於 NationalInstruments.VisaNS.Internal.ErrorChecker.CheckStatusAndThrow(Int32 status, VisaHandle visaObject)
+   於 NationalInstruments.VisaNS.Session..ctor(String resourceName, AccessModes accessMode, Int32 openTimeout, String expectedResourceName)
+   於 NationalInstruments.VisaNS.MessageBasedSession..ctor(String resourceName, AccessModes accessMode, Int32 openTimeout, String expectedResourceName)
+   於 NationalInstruments.VisaNS.UsbSession..ctor(String resourceName, AccessModes accessMode, Int32 openTimeout, Boolean checkResourceType)
+   --- 內部例外狀況堆疊追蹤的結尾 ---
+   於 System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   於 System.Reflection.RuntimeConstructorInfo.Invoke(BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   於 System.RuntimeType.CreateInstanceImpl(BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes, StackCrawlMark& stackMark)
+   於 System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   於 System.Activator.CreateInstance(Type type, Object[] args)
+   於 NationalInstruments.VisaNS.ResourceManager.Open(String resourceName, AccessModes accessMode, Int32 openTimeout)
+   於 NationalInstruments.VisaNS.ResourceManager.Open(String resourceName)
+   於 Csharp.Lecroy.Connect(TYPE eScopeType) 於 d:\Sean.lin\Desktop\C#\Csharp-V26_20171102\Csharp\Lecroy.cs: 行 54
+   於 Csharp.MainForm.Button_OSconnect_Click(Object sender, EventArgs e) 於 d:\Sean.lin\Desktop\C#\Csharp-V26_20171102\Csharp\MainForm.cs: 行 945 
+
+Connecting COM15...
+COM15 Opened.
+Connected COM15.
+Connecting RSB...
+Sent RSB -> PC:[DET_12V_CHK?]
+Received RSB-> RSB:[DET_12V_CHK=2.00]
+Connected RSB.

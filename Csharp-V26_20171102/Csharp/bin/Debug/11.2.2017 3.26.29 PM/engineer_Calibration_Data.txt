@@ -1,0 +1,21 @@
+2017/11/2 ¤U¤È 03:26:29
+D:\Sean.lin\Desktop\C#\Csharp-V25_20171030\Csharp\bin\Debug\11.2.2017 3.26.29 PM
+
+Connecting COM4...
+Connected COM4.
+Connecting E200...
+Sent E200 -> PC:[MODE_WATT=0]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MSG:[0]
+Return signal is not from E200. 
+False to connect E200.
+
+
+Connecting COM3...
+Connected COM3.
+Connecting E200...
+Sent E200 -> PC:[MODE_WATT=0]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=9.75]MPU:[MODE_PURE=0.00]
+Sent E200 -> PC:[MODE_DISABLE=0]
+Connected E200.

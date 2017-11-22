@@ -1,0 +1,15 @@
+2017/8/17 ¤U¤È 04:36:36
+OS connected. 
+Connected COM6.
+Connectecd RSB.
+Connected COM11.
+Connectecd E200.
+Disconnect E200.
+Please choose an oscilloscope type. 
+Please connect the right oscilloscope. 
+Connected COM11.
+Connectecd E200.
+Start calibrating...
+2017/8/17 ¤U¤È 04:37:07
+Start calibrating...
+2017/8/17 ¤U¤È 04:37:45

@@ -1,0 +1,42 @@
+2017/11/2 下午 03:09:49
+Connected COM4.
+False to connect E200.
+
+Connected COM3.
+Connectecd E200.
+OS connected. 
+Connected COM4.
+Connectecd RSB.
+Start calibrating...
+2017/11/2 下午 03:10:09
+[ PURE 10W ] 
+Pass counter: 3
+Fail counter: 2
+Total counter: 5
+Result:10W pass 
+OS connected. 
+Start calibrating...
+2017/11/2 下午 03:11:20
+OS connected. 
+Start calibrating...
+2017/11/2 下午 03:11:29
+[ PURE 10W ] 
+Pass counter: 3
+Fail counter: 3
+Total counter: 6
+Result:10W pass 
+[ PURE 20W ] 
+Pass counter: 3
+Fail counter: 0
+Total counter: 3
+Result:20W pass 
+[ PURE 30W ] 
+Pass counter: 3
+Fail counter: 1
+Total counter: 4
+Result:30W pass 
+Oscilloscope Conect Error  
+OS connected. 
+Start calibrating...
+2017/11/2 下午 03:12:43
+OS connected. 

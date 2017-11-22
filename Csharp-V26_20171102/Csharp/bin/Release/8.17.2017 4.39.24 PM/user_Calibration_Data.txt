@@ -1,0 +1,19 @@
+2017/8/17 ¤U¤È 04:39:24
+Connected COM11.
+Connectecd E200.
+OS connected. 
+Connected COM12.
+Connectecd RSB.
+Start calibrating...
+2017/8/17 ¤U¤È 04:39:39
+Connection Error. 
+Start calibrating...
+2017/8/17 ¤U¤È 04:39:56
+Oscilloscope Conect Error  
+Connection Error. 
+Oscilloscope Conect Error  
+Oscilloscope Conect Error  
+Oscilloscope Conect Error  
+Oscilloscope Conect Error  
+Oscilloscope Conect Error  
+Oscilloscope Conect Error  

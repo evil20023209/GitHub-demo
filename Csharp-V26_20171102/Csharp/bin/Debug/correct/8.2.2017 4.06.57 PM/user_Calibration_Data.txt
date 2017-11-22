@@ -1,0 +1,60 @@
+2017/8/2 ¤U¤È 04:06:57
+Connected COM4.
+
+OS connected. 
+Connectecd E200./nE200 connected.
+
+2017/8/2 ¤U¤È 04:07:08
+Start Calibrate...
+2017/8/2 ¤U¤È 04:07:16
+Start Calibrate...
+[ PINPOINT 10W ] 
+Pass counter: 3
+Fail counter: 9
+Total counter: 12
+Result:10W pass 
+[ PINPOINT 20W ] 
+Pass counter: 3
+Fail counter: 3
+Total counter: 6
+Result:20W pass 
+[ PINPOINT 30W ] 
+Pass counter: 3
+Fail counter: 0
+Total counter: 3
+Result:30W pass 
+[ PINPOINT 40W ] 
+Pass counter: 3
+Fail counter: 5
+Total counter: 8
+Result:40W pass 
+[ PINPOINT 50W ] 
+Pass counter: 3
+Fail counter: 0
+Total counter: 3
+Result:50W pass 
+[ PINPOINT 60W ] 
+Pass counter: 3
+Fail counter: 2
+Total counter: 5
+Result:60W pass 
+[ PINPOINT 70W ] 
+Pass counter: 3
+Fail counter: 0
+Total counter: 3
+Result:70W pass 
+[ PINPOINT 80W ] 
+Pass counter: 3
+Fail counter: 6
+Total counter: 9
+Result:80W pass 
+[ PINPOINT 90W ] 
+Pass counter: 3
+Fail counter: 0
+Total counter: 3
+Result:90W pass 
+[ PINPOINT 100W ] 
+Pass counter: 3
+Fail counter: 4
+Total counter: 7
+Result:100W pass 

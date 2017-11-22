@@ -1,0 +1,30 @@
+2017/11/2 ¤W¤È 11:12:30
+D:\Sean.lin\Desktop\C#\Csharp-V25_20171030\Csharp\bin\Debug\11.2.2017 11.12.30 AM
+OS connected. 
+
+Connecting COM4...
+Connected COM4.
+Connecting E200...
+Sent E200 -> PC:[MODE_WATT=0]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MSG:[0]
+Return signal is not from E200. 
+False to connect E200.
+
+
+Connecting COM3...
+Connected COM3.
+Connecting E200...
+Sent E200 -> PC:[MODE_WATT=0]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=9.75]MPU:[MODE_PURE=0.00]
+Sent E200 -> PC:[MODE_DISABLE=0]
+Connected E200.
+
+Connecting COM4...
+COM4 Opened.
+Connected COM4.
+Connecting RSB...
+Sent RSB -> PC:[DET_12V_CHK?]
+Received RSB-> RSB:[DET_12V_CHK=1.99]
+Connected RSB.

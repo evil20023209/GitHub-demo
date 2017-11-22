@@ -1,0 +1,12 @@
+2017/11/11 上午 09:18:19
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V26_20171102\Csharp\bin\Debug\11.11.2017 9.18.19 AM
+
+Connecting COM6...
+Connected COM6.
+Connecting E200...
+Sent E200 -> PC:[MODE_WATT=0]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=9.75]MPU:[MODE_PURE=0.00]
+Sent E200 -> PC:[MODE_DISABLE=0]
+Connected E200.
+OS connected. 

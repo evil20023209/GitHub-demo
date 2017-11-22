@@ -1,0 +1,12 @@
+Disconnect E200.
+Connected COM17.
+Connectecd E200.
+Disconnect E200.
+Connected COM17.
+Connectecd E200.
+Disconnect RSB.
+Connected COM15.
+Connectecd RSB.
+Oscilloscope Conect Error  
+Oscilloscope Conect Error  
+Oscilloscope Conect Error  

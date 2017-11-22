@@ -1,0 +1,562 @@
+2017/8/18 上午 08:58:38
+O:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13 - 複製\Csharp\bin\Release\8.18.2017 8.58.38 AM
+
+Connecting COM6...
+Connected COM6.
+Connecting E200...
+Sent E200 -> PC:[MODE_WATT=0]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=9.75]MPU:[MODE_PURE=0.00]
+Sent E200 -> PC:[MODE_DISABLE=0]
+Connected E200.
+OS connected. 
+
+Connecting COM15...
+COM15 Opened.
+Connected COM15.
+Connecting RSB...
+Sent RSB -> PC:[DET_12V_CHK?]
+Received RSB-> RSB:[DET_12V_CHK=1.97]
+Connected RSB.
+Start calibrating...
+2017/8/18 上午 08:58:54
+Checked mode PINPOINT, SPRAY, BIPOLAR. 
+
+************************************************** 
+    Time        ： 2017/08/18 08:58
+    Mode		： PINPOINT
+	Expext Power	： 10 (W)
+	Load		： 100 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent RSB -> PC:[RELAY_CTRL_K1=1]
+Received RSB-> RSB:[RELAY_CTRL_K1=1]
+Sent RSB -> PC:[RELAY_CTRL_K2=0]
+Received RSB-> RSB:[RELAY_CTRL_K2=0]
+Sent RSB -> PC:[RELAY_CTRL_K3=1]
+Received RSB-> RSB:[RELAY_CTRL_K3=1]
+Sent RSB -> PC:[RELAY_CTRL_K4=0]
+Received RSB-> RSB:[RELAY_CTRL_K4=0]
+Sent RSB -> PC:[RELAY_CTRL_K5=0]
+Received RSB-> RSB:[RELAY_CTRL_K5=0]
+Sent RSB -> PC:[RELAY_CTRL_K6=0]
+Received RSB-> RSB:[RELAY_CTRL_K6=0]
+Sent RSB -> PC:[RELAY_CTRL_K7=1]
+Received RSB-> RSB:[RELAY_CTRL_K
+Sent RSB -> PC:[RELAY_CHK_K1?]
+Received RSB-> RSB:[RELAY_CHK_K1=0]
+Sent RSB -> PC:[RELAY_CHK_K2?]
+Received RSB-> RSB:[RELAY_CHK_K2=1]
+Sent RSB -> PC:[RELAY_CHK_K3?]
+Received RSB-> RSB:[RELAY_CHK_K3=0]
+Sent RSB -> PC:[RELAY_CHK_K4?]
+Received RSB-> RSB:[RELAY_CHK_K4=1]
+Sent RSB -> PC:[RELAY_CHK_K5?]
+Received RSB-> RSB:[RELAY_CHK_K5=1]
+Sent RSB -> PC:[RELAY_CHK_K6?]
+Received RSB-> RSB:[RELAY_CHK_K6=1]
+Sent RSB -> PC:[RELAY_CHK_K7?]
+Received RSB-> RSB:[RELAY_CHK_K7=0]
+Sent E200 -> PC:[CALIB_DATA_PINPOINT_?=]
+Received E200-> MPU:[CALI
+here  PINPOINT
+0.57
+0.61
+0.75
+0.82
+0.83
+0.83
+0.89
+0.89
+0.92
+0.88
+here  PINPOINT
+0.57
+0.61
+0.75
+0.82
+0.83
+0.83
+0.89
+0.89
+0.92
+0.88
+Sent E200 -> PC:[MODE_WATT=5.7]
+Sent E200 -> PC:[MODE_PINPOINT=0]
+Received E200-> MPU:[MODE_WATT=12.40]MPU:[MODE_PINPOINT=41.1
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 10.28867 (W) 
+    Voltage     ： 72.1 (V) 
+    Current		： 0.1427 (A)
+    Power Tolerance	： 2.88669999999998 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent E200 -> PC:[MODE_WATT=5.7]
+Sent E200 -> PC:[MODE_PINPOINT=0]
+Received E200-> MPU:[MODE_WATT=12.40]MPU:[
+Received E200-> PU:[MODE_WATT=12.40]MPU:[MODE_PINPOINT=41.15]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 10.42368 (W) 
+    Voltage     ： 73.2 (V) 
+    Current		： 0.1424 (A)
+    Power Tolerance	： 4.23680000000001 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent E200 -> PC:[MODE_WATT=5.7]
+Sent E200 -> PC:[MODE_PINPOINT=0]
+Received E200-> U:[MODE_WATT=12.40]MPU:[MODE_PINPOINT=41.15]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 10.34521 (W) 
+    Voltage     ： 72.7 (V) 
+    Current		： 0.1423 (A)
+    Power Tolerance	： 3.45210000000002 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/08/18 08:59
+  Mode		： PINPOINT
+	Expext Power	： 20 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent E200 -> PC:[MODE_WATT=12.2]
+Sent E200 -> PC:[MODE_PINPOINT=0]
+Received E200-> M
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 20.55078 (W) 
+    Voltage     ： 102.6 (V) 
+    Current		： 0.2003 (A)
+    Power Tolerance	： 2.7539 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent E200 -> PC:[MODE_WATT=12.2]
+Sent E200 -> PC:[MODE_PINPOINT=0]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 20.55027 (W) 
+    Voltage     ： 102.7 (V) 
+    Current		： 0.2001 (A)
+    Power Tolerance	： 2.75135000000001 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent E200 -> PC:[MODE_WATT=12.2]
+Sent E200 -> PC:[MODE_PINPOINT=0]
+Received E200-> MPU:[MODE_WATT=20.33]MPU:[MODE_PINPOI
+Received E200-> PU:[MODE_WATT=20.33]MPU:[MODE_PINPOINT=58.58]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 20.59938 (W) 
+    Voltage     ： 103.1 (V) 
+    Current		： 0.1998 (A)
+    Power Tolerance	： 2.9969 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/08/18 08:59
+  Mode		： PINPOINT
+	Expext Power	： 30 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent E200 -> PC:[MODE_WATT=22.5]
+Sent E200 -> PC:[MODE_PINPOINT=0]
+Received E200-> MPU:[MODE_WATT=33.05]MPU:[M
+Received E200-> PU:[MODE_WATT=33.05]MPU:[MODE_PINPOINT=73.62]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 31.2562 (W) 
+    Voltage     ： 126.8 (V) 
+    Current		： 0.2465 (A)
+    Power Tolerance	： 4.18733333333333 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent E200 -> PC:[MODE_WATT=22.5]
+Sent E200 -> PC:[MODE_PINPOINT=0]
+Received E200-> MPU:[MODE_WATT=33.05]MPU:[MODE_PI
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 31.35764 (W) 
+    Voltage     ： 126.8 (V) 
+    Current		： 0.2473 (A)
+    Power Tolerance	： 4.52546666666667 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent E200 -> PC:[MODE_WATT=22.5]
+Sent E200 -> PC:[MODE_PINPOINT=0]
+Received E200-> MPU:[MODE_WATT=33.05]MPU:
+Received E200-> PU:[MODE_WATT=33.05]MPU:[MODE_PINPOINT=73.62]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 31.09296 (W) 
+    Voltage     ： 126.6 (V) 
+    Current		： 0.2456 (A)
+    Power Tolerance	： 3.6432 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/08/18 08:59
+  Mode		： PINPOINT
+	Expext Power	： 40 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent E200 -> PC:[MODE_WATT=32.8]
+Sent E200 -> PC:[MODE_PINPOINT=0]
+Received E200-> MPU:[MO
+Received E200-> PU:[MODE_WATT=46.3
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 41.60852 (W) 
+    Voltage     ： 146.2 (V) 
+    Current		： 0.2846 (A)
+    Power Tolerance	： 4.0213 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent E200 -> PC:[MODE_WATT=32.8]
+Sent E200 -> PC:[MODE_PINPOINT=0]
+Received E200-> MPU:[MODE_WATT=46.37]MPU:[MODE_PINPOINT=85.73
+Received E200-> PU:[MODE_WATT=46.37]MPU:[MODE_PINPOINT=85.73]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 41.95544 (W) 
+    Voltage     ： 146.8 (V) 
+    Current		： 0.2858 (A)
+    Power Tolerance	： 4.88860000000001 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent E200 -> PC:[MODE_WATT=32.8]
+Sent E200 -> PC:[MODE_PINPOINT=0]
+Received E200-> MPU:[MODE_WATT=46.37]MPU:[MODE_PINP
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 41.82575 (W) 
+    Voltage     ： 146.5 (V) 
+    Current		： 0.2855 (A)
+    Power Tolerance	： 4.564375 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/08/18 08:59
+  Mode		： PINPOINT
+	Expext Power	： 50 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent E200 -> PC:[MODE_WATT=41.5]
+Sent E200 -> PC:[MODE_PINPOINT=0]
+Received E200-> MPU:[MODE_WATT=57.68]MPU:[MODE_PINPOINT=94
+Received E200-> PU:[MODE_WATT=57.68]MPU:[MODE_PINPOINT=94.02]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 51.21104 (W) 
+    Voltage     ： 161.6 (V) 
+    Current		： 0.3169 (A)
+    Power Tolerance	： 2.42208000000001 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent E200 -> PC:[MODE_WATT=41.5]
+Sent E200 -> PC:[MODE_PINPOINT=0]
+Received E200-> MPU:[MODE_WATT=57.68]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 51.2472 (W) 
+    Voltage     ： 163 (V) 
+    Current		： 0.3144 (A)
+    Power Tolerance	： 2.4944 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent E200 -> PC:[MODE_WATT=41.5]
+Sent E200 -> PC:[MODE_PINPOINT=0]
+Received E200-> MPU
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 50.9275 (W) 
+    Voltage     ： 162.5 (V) 
+    Current		： 0.3134 (A)
+    Power Tolerance	： 1.855 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/08/18 08:59
+  Mode		： PINPOINT
+	Expext Power	： 60 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent E200 -> PC:[MODE_WATT=49.8]
+Sent E200 -> PC:[MODE_PINPOINT=0]
+Received E200-> M
+Received E200-> PU:[MODE_WATT=67.92]MPU:[MODE_PINPOINT=100.95]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 61.73299 (W) 
+    Voltage     ： 179.3 (V) 
+    Current		： 0.3443 (A)
+    Power Tolerance	： 2.88831666666667 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent E200 -> PC:[MODE_WATT=49.8]
+Sent E200 -> PC:[MODE_PINPOINT=0]
+Received E200-> MPU:[MODE_WATT=67.92]MPU:[MODE_PINPOINT=100
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 61.73216 (W) 
+    Voltage     ： 177.8 (V) 
+    Current		： 0.3472 (A)
+    Power Tolerance	： 2.88693333333335 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent E200 -> PC:[MODE_WATT=49.8]
+Sent E200 -> PC:[MODE_PINPOINT=0]
+Received E200-> M
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 61.8994 (W) 
+    Voltage     ： 178.9 (V) 
+    Current		： 0.346 (A)
+    Power Tolerance	： 3.16566666666667 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/08/18 08:59
+  Mode		： PINPOINT
+	Expext Power	： 70 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent E200 -> PC:[MODE_WATT=62.3]
+Sent E200 -> PC:[MODE_PINPOINT=0]
+Received E200-> MPU:[MODE_WATT=83.16]MPU:[MODE_PINPOINT
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 71.44764 (W) 
+    Voltage     ： 191.6 (V) 
+    Current		： 0.3729 (A)
+    Power Tolerance	： 2.06805714285713 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent E200 -> PC:[MODE_WATT=62.3]
+Sent E200 -> PC:[MODE_PINPOINT=0]
+Received E200-> MPU:[MODE_WATT=83.16]M
+Received E200-> PU:[MODE_WATT=83.16]MPU:[MODE_PINPOINT=110.58]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 71.89383 (W) 
+    Voltage     ： 192.9 (V) 
+    Current		： 0.3727 (A)
+    Power Tolerance	： 2.70547142857142 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent E200 -> PC:[MODE_WATT=62.3]
+Sent E200 -> PC:[MODE_PINPOINT=0]
+Received E200-> MPU:[MODE_WATT
+Received E200-> PU:[MODE_WATT=83.16]MPU:[MODE_PINPOINT=110.58]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 72.38704 (W) 
+    Voltage     ： 193.6 (V) 
+    Current		： 0.3739 (A)
+    Power Tolerance	： 3.41005714285714 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/08/18 08:59
+  Mode		： PINPOINT
+	Expext Power	： 80 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent E200 -> PC:[MODE_WATT=71.2]
+Sent E200 -> PC:[MODE_PINPOINT=0]
+Received E200-> MPU:[MODE_WATT=
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 83.03139 (W) 
+    Voltage     ： 206.7 (V) 
+    Current		： 0.4017 (A)
+    Power Tolerance	： 3.7892375 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent E200 -> PC:[MODE_WATT=71.2]
+Sent E200 -> PC:[MODE_PINPOINT=0]
+Received E200-> MPU:[MODE_WA
+Received E200-> PU:[MODE_WATT=94.32]MPU:[MO
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 83.72387 (W) 
+    Voltage     ： 207.7 (V) 
+    Current		： 0.4031 (A)
+    Power Tolerance	： 4.65483750000001 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent E200 -> PC:[MODE_WATT=71.2]
+Sent E200 -> PC:[MODE_PINPOINT=0]
+Received E200-> MP
+Received E200-> PU:[MODE_WATT=94.32]MPU:[MODE_PINPOINT=117.34]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 83.07035 (W) 
+    Voltage     ： 206.9 (V) 
+    Current		： 0.4015 (A)
+    Power Tolerance	： 3.83793750000001 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/08/18 09:00
+  Mode		： PINPOINT
+	Expext Power	： 90 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent E200 -> PC:[MODE_WATT=82.8]
+Sent E200 -> PC:[MODE_PINPOINT=0]
+Received E200-> MP
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 94.56864 (W) 
+    Voltage     ： 220.8 (V) 
+    Current		： 0.4283 (A)
+    Power Tolerance	： 5.07626666666667 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent E200 -> PC:[MODE_WATT=82.8]
+Sent E200 -> PC:[MODE_PINPOINT=0]
+Received E200-> MPU:[MODE_WATT=108.55]MPU:[MODE_PINPOINT=123.
+Received E200-> PU:[MODE_WATT=108.55]MPU:[MODE_PINPOINT=123.95]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 95.06196 (W) 
+    Voltage     ： 221.9 (V) 
+    Current		： 0.4284 (A)
+    Power Tolerance	： 5.6244 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent E200 -> PC:[MODE_WATT=82.8]
+Sent E200 -> PC:[MODE_PINPOINT=0]
+Received E200-> U:[MODE_WATT=108.55]MPU:[MODE_PINPOINT=123.95]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 94.5504 (W) 
+    Voltage     ： 220.5 (V) 
+    Current		： 0.4288 (A)
+    Power Tolerance	： 5.056 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/08/18 09:00
+  Mode		： PINPOINT
+	Expext Power	： 100 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent E200 -> PC:[MODE_WATT=88]
+Sent E200 -> PC:[MODE_PINPOINT=0]
+Received E200-> MPU:[MODE_WATT=115
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 102.41598 (W) 
+    Voltage     ： 230.2 (V) 
+    Current		： 0.4449 (A)
+    Power Tolerance	： 2.41598 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent E200 -> PC:[MODE_WATT=88]
+Sent E200 -> PC:[MODE_PINPOINT=0]
+Received E200-> MPU:[MODE_WATT=
+Received E200-> PU:[MODE_WATT=115.22]MPU:[MODE_PINPOINT=126.66]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 102.35432 (W) 
+    Voltage     ： 229.7 (V) 
+    Current		： 0.4456 (A)
+    Power Tolerance	： 2.35431999999999 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent E200 -> PC:[MODE_WATT=88]
+Sent E200 -> PC:[MODE_PINPOINT=0]
+Received E200-> MPU:[MODE_WATT=115.22]MPU:[MODE_PINPOINT=126.66
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 101.8605 (W) 
+    Voltage     ： 228.9 (V) 
+    Current		： 0.445 (A)
+    Power Tolerance	： 1.8605 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+Sent E200 -> PC:[CALIB_DATA_PINPOINT=0.57,0.61,0.75,0.82,0.83,0.83,0.89,0.89,0.92,0.88]
+Sent E200 -> PC:[CALIB_DATA_FLAG=90]
+************************************************** 
+    Time        ： 2017/08/18 09:00
+    Mode		： PINPOINT
+	Expext Power	： 10 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent RSB -> PC:[RELAY_CTRL_K1=1]
+System.InvalidOperationException: 通訊埠已經關閉。
+   於 System.IO.Ports.SerialPort.Write(String text)
+   於 Csharp.MainForm.RSB_transmit(String string_device, String string_control, String string_moverment, String string_synbol, String string_value) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13 - 複製\Csharp\MainForm.cs: 行 2668Sent E200 -> PC:[MODE_DISABLE=0]
+Sent E200 -> PC:[CALIB_DATA_SPRAY_?=]
+Received E200-> MPU:[CALIB_DATA_SPRAY=0.61,0.75,0.80,0.84,0.86,0.89,0.92,0.93]
+here  SPRAY
+0.61
+0.75
+0.80
+0.84
+0.86
+0.89
+0.92
+0.93
+here  SPRAY
+0.61
+0.75
+0.80
+0.84
+0.86
+0.89
+0.92
+0.93

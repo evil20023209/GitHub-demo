@@ -1,0 +1,18 @@
+2017/11/10 ¤U¤È 05:08:40
+Connected COM6.
+Connectecd E200.
+OS connected. 
+Connected COM15.
+Connectecd RSB.
+Start calibrating...
+2017/11/10 ¤U¤È 05:09:07
+[ PURE 10W ] 
+Pass counter: 3
+Fail counter: 3
+Total counter: 6
+Result:10W pass 
+[ PURE 20W ] 
+Pass counter: 3
+Fail counter: 0
+Total counter: 3
+Result:20W pass 

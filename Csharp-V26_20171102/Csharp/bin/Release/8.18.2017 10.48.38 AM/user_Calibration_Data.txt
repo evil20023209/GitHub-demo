@@ -1,0 +1,251 @@
+2017/8/18 上午 10:48:38
+Connected COM6.
+Connectecd E200.
+OS connected. 
+Connected COM15.
+Connectecd RSB.
+Start calibrating...
+2017/8/18 上午 10:49:02
+[ BLEND1 10W ] 
+Result:10W pass 
+[ BLEND1 20W ] 
+Result:20W fail 
+[ BLEND1 30W ] 
+Result:30W pass 
+[ BLEND1 40W ] 
+Result:40W pass 
+[ BLEND1 50W ] 
+Result:50W pass 
+[ BLEND1 60W ] 
+Result:60W pass 
+[ BLEND1 70W ] 
+Result:70W pass 
+[ BLEND1 80W ] 
+Result:80W pass 
+[ BLEND1 90W ] 
+Result:90W pass 
+[ BLEND1 100W ] 
+Result:100W pass 
+[ BLEND1 110W ] 
+Result:110W pass 
+[ BLEND1 120W ] 
+Result:120W pass 
+[ BLEND1 130W ] 
+Result:130W pass 
+[ BLEND1 140W ] 
+Result:140W pass 
+[ BLEND1 150W ] 
+Result:150W pass 
+[ BLEND2 10W ] 
+Result:10W pass 
+[ BLEND2 20W ] 
+Result:20W pass 
+[ BLEND2 30W ] 
+Result:30W pass 
+[ BLEND2 40W ] 
+Result:40W pass 
+[ BLEND2 50W ] 
+Result:50W pass 
+[ BLEND2 60W ] 
+Result:60W pass 
+[ BLEND2 70W ] 
+Result:70W pass 
+[ BLEND2 80W ] 
+Result:80W pass 
+[ BLEND2 90W ] 
+Result:90W pass 
+[ BLEND2 100W ] 
+Result:100W pass 
+[ BLEND2 110W ] 
+Result:110W pass 
+[ BLEND2 120W ] 
+Result:120W pass 
+[ BLEND2 130W ] 
+Result:130W pass 
+[ BLEND2 140W ] 
+Result:140W pass 
+[ BLEND2 150W ] 
+Result:150W pass 
+[ PINPOINT 10W ] 
+Result:10W fail 
+[ PINPOINT 20W ] 
+Result:20W pass 
+[ PINPOINT 30W ] 
+Result:30W pass 
+[ PINPOINT 40W ] 
+Result:40W pass 
+[ PINPOINT 50W ] 
+Result:50W pass 
+[ PINPOINT 60W ] 
+Result:60W pass 
+[ PINPOINT 70W ] 
+Result:70W pass 
+[ PINPOINT 80W ] 
+Result:80W pass 
+[ PINPOINT 90W ] 
+Result:90W pass 
+[ PINPOINT 100W ] 
+Result:100W pass 
+[ SPRAY 10W ] 
+Result:10W pass 
+[ SPRAY 20W ] 
+Result:20W pass 
+[ SPRAY 30W ] 
+Result:30W pass 
+[ SPRAY 40W ] 
+Result:40W pass 
+[ SPRAY 50W ] 
+Result:50W pass 
+[ SPRAY 60W ] 
+Result:60W pass 
+[ SPRAY 70W ] 
+Result:70W pass 
+[ SPRAY 80W ] 
+Result:80W fail 
+[ BIPOLAR 10W ] 
+Result:10W fail 
+[ BIPOLAR 20W ] 
+Result:20W fail 
+[ BIPOLAR 30W ] 
+Result:30W fail 
+[ BIPOLAR 40W ] 
+Result:40W fail 
+[ BIPOLAR 50W ] 
+Result:50W pass 
+[ BIPOLAR 60W ] 
+Result:60W fail 
+Start calibrating...
+2017/8/18 上午 11:13:48
+[ BLEND1 10W ] 
+Result:10W pass 
+[ BLEND1 20W ] 
+Result:20W fail 
+[ BLEND1 30W ] 
+Result:30W pass 
+[ BLEND1 40W ] 
+Result:40W pass 
+[ BLEND1 50W ] 
+Result:50W pass 
+[ BLEND1 60W ] 
+Result:60W pass 
+[ BLEND1 70W ] 
+Result:70W pass 
+[ BLEND1 80W ] 
+Result:80W fail 
+[ BLEND1 90W ] 
+Result:90W pass 
+[ BLEND1 100W ] 
+Result:100W pass 
+[ BLEND1 110W ] 
+Result:110W pass 
+[ BLEND1 120W ] 
+Result:120W pass 
+[ BLEND1 130W ] 
+Result:130W pass 
+[ BLEND1 140W ] 
+Result:140W pass 
+[ BLEND1 150W ] 
+Result:150W pass 
+[ BLEND2 10W ] 
+Result:10W pass 
+[ BLEND2 20W ] 
+Result:20W pass 
+[ BLEND2 30W ] 
+Result:30W pass 
+[ BLEND2 40W ] 
+Result:40W pass 
+[ BLEND2 50W ] 
+Result:50W pass 
+[ BLEND2 60W ] 
+Result:60W pass 
+[ BLEND2 70W ] 
+Result:70W pass 
+[ BLEND2 80W ] 
+Result:80W pass 
+[ BLEND2 90W ] 
+Result:90W pass 
+[ BLEND2 100W ] 
+Result:100W pass 
+[ BLEND2 110W ] 
+Result:110W pass 
+[ BLEND2 120W ] 
+Result:120W pass 
+[ BLEND2 130W ] 
+Result:130W pass 
+[ BLEND2 140W ] 
+Result:140W pass 
+[ BLEND2 150W ] 
+Result:150W fail 
+[ PINPOINT 10W ] 
+Result:10W fail 
+[ PINPOINT 20W ] 
+Result:20W fail 
+[ PINPOINT 30W ] 
+Result:30W fail 
+Connection Error. 
+Disconnect E200.
+Disconnect RSB.
+Connected COM6.
+False to connect RSB.
+
+Connected COM15.
+Connectecd RSB.
+OS connected. 
+Connected COM6.
+Connectecd E200.
+Start calibrating...
+2017/8/18 下午 01:26:40
+Start calibrating...
+2017/8/18 下午 01:26:47
+[ PURE 10W ] 
+Result:10W fail 
+[ PURE 20W ] 
+Result:20W pass 
+[ PURE 30W ] 
+Result:30W pass 
+[ PURE 40W ] 
+Result:40W fail 
+[ PURE 50W ] 
+Result:50W pass 
+[ PURE 60W ] 
+Result:60W pass 
+[ PURE 70W ] 
+Result:70W pass 
+[ PURE 80W ] 
+Result:80W pass 
+[ PURE 90W ] 
+Result:90W pass 
+[ PURE 100W ] 
+Result:100W pass 
+[ PURE 110W ] 
+Result:110W fail 
+[ PURE 120W ] 
+Result:120W fail 
+[ PURE 130W ] 
+Result:130W pass 
+[ PURE 140W ] 
+Result:140W pass 
+[ PURE 150W ] 
+Result:150W fail 
+[ PURE 160W ] 
+Result:160W pass 
+[ PURE 170W ] 
+Result:170W pass 
+[ PURE 180W ] 
+Result:180W pass 
+[ PURE 190W ] 
+Result:190W pass 
+[ PURE 200W ] 
+Result:200W pass 
+Start calibrating...
+2017/8/18 下午 01:29:29
+Start calibrating...
+2017/8/18 下午 01:29:38
+Disconnect RSB.
+False to open portCOM15.
+False to open portCOM15.
+False to open portCOM15.
+False to open portCOM15.
+False to open portCOM15.
+False to open portCOM15.
+False to open portCOM15.

@@ -1,0 +1,19 @@
+2017/8/17 下午 04:45:55
+Connected COM11.
+OS connected. 
+False to open portKeySight - 2024A.
+False to open portKeySight - DSOX4024A.
+False to open portLeCroy.
+False to open portCOM11.
+Connected COM6.
+Connectecd RSB.
+Connectecd E200.
+Start calibrating...
+2017/8/17 下午 04:46:07
+Start calibrating...
+2017/8/17 下午 04:46:15
+Connection Error. 
+Start calibrating...
+2017/8/17 下午 04:46:22
+Connection Error. 
+Oscilloscope Conect Error  

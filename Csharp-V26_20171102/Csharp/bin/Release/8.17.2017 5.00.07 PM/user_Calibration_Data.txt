@@ -1,0 +1,24 @@
+2017/8/17 ¤U¤È 05:00:07
+Connected COM11.
+Connectecd E200.
+OS connected. 
+Connected COM6.
+Connectecd RSB.
+Start calibrating...
+2017/8/17 ¤U¤È 05:00:18
+Connection Error. 
+Start calibrating...
+2017/8/17 ¤U¤È 05:00:29
+[ PINPOINT 10W ] 
+Result:10W pass 
+[ PINPOINT 20W ] 
+Result:20W pass 
+[ PINPOINT 30W ] 
+Result:30W pass 
+[ PINPOINT 40W ] 
+Result:40W pass 
+[ PINPOINT 50W ] 
+Result:50W pass 
+[ PINPOINT 60W ] 
+Result:60W pass 
+OS connected. 

@@ -1,0 +1,71 @@
+2017/8/21 ¤W¤È 09:35:38
+Connected COM6.
+Connectecd E200.
+OS connected. 
+Connected COM15.
+Connectecd RSB.
+Start calibrating...
+2017/8/21 ¤W¤È 09:35:53
+[ PURE 10W ] 
+Result:10W fail 
+[ PURE 20W ] 
+Result:20W pass 
+Disconnect E200.
+Connected COM6.
+Connectecd E200.
+Oscilloscope Conect Error  
+Disconnect RSB.
+Connected COM15.
+Connectecd RSB.
+Oscilloscope Conect Error  
+OS connected. 
+Start calibrating...
+2017/8/21 ¤U¤È 04:12:28
+[ PURE 10W ] 
+Result:10W fail 
+[ PURE 20W ] 
+Result:20W pass 
+[ PURE 30W ] 
+Result:30W fail 
+[ PURE 40W ] 
+Result:40W fail 
+[ PURE 50W ] 
+Result:50W pass 
+[ PURE 60W ] 
+Result:60W pass 
+[ PURE 70W ] 
+Result:70W pass 
+[ PURE 80W ] 
+Result:80W pass 
+[ PURE 90W ] 
+Result:90W pass 
+[ PURE 100W ] 
+Result:100W pass 
+[ PURE 110W ] 
+Result:110W fail 
+[ PURE 120W ] 
+Result:120W pass 
+[ PURE 130W ] 
+Result:130W pass 
+[ PURE 140W ] 
+Result:140W pass 
+[ PURE 150W ] 
+Result:150W pass 
+[ PURE 160W ] 
+Result:160W pass 
+[ PURE 170W ] 
+Result:170W pass 
+[ PURE 180W ] 
+Result:180W pass 
+[ PURE 190W ] 
+Result:190W pass 
+[ PURE 200W ] 
+Result:200W pass 
+Disconnect RSB.
+False to open portCOM15.
+Disconnect E200.
+Connected COM6.
+Connectecd E200.
+False to open portCOM15.
+False to open portCOM15.
+False to open portCOM15.

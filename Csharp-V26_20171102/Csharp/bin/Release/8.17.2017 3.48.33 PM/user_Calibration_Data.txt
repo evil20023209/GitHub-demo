@@ -1,0 +1,13 @@
+OS connected. 
+Start calibrating...
+2017/8/17 ¤U¤È 03:49:34
+[ PURE 10W ] 
+Pass counter: 3
+Fail counter: 4
+Total counter: 7
+Result:10W pass 
+[ PURE 20W ] 
+Pass counter: 3
+Fail counter: 3
+Total counter: 6
+Result:20W pass 

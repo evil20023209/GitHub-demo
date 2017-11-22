@@ -1,0 +1,6 @@
+2017/11/2 ¤U¤È 03:26:29
+Connected COM4.
+False to connect E200.
+
+Connected COM3.
+Connectecd E200.

@@ -1,0 +1,8 @@
+2017/8/17 ¤U¤È 04:10:25
+Oscilloscope Conect Error  
+Connected COM4.
+False to connect E200.
+
+Connected COM6.
+Connectecd E200.
+Oscilloscope Conect Error  

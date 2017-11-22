@@ -1,0 +1,236 @@
+2017/8/17 下午 04:45:55
+O:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13 - 複製\Csharp\bin\Release\8.17.2017 4.45.55 PM
+
+Connecting COM11...
+Connected COM11.
+Connecting E200...
+Sent E200 -> PC:[MODE_WATT=0]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=9.75]MPU:[MODE_PURE=0.00]
+OS connected. 
+
+Connecting KeySight - 2024A...
+False to open portKeySight - 2024A.
+指定的通訊埠名稱不是以 COM/com 開頭，或無法解析成有效的序列埠。
+參數名稱: portName
+
+Connecting KeySight - DSOX4024A...
+False to open portKeySight - DSOX4024A.
+指定的通訊埠名稱不是以 COM/com 開頭，或無法解析成有效的序列埠。
+參數名稱: portName
+
+Connecting LeCroy...
+False to open portLeCroy.
+指定的通訊埠名稱不是以 COM/com 開頭，或無法解析成有效的序列埠。
+參數名稱: portName
+
+Connecting COM11...
+False to open portCOM11.
+拒絕存取通訊埠 'COM11'。
+
+Connecting COM6...
+COM6 Opened.
+Connected COM6.
+Connecting RSB...
+Sent RSB -> PC:[DET_12V_CHK?]
+Received RSB-> RSB:[DET_12V_CHK=1.98]
+Connected RSB.
+Sent E200 -> PC:[MODE_DISABLE=0]
+Connected E200.
+Start calibrating...
+2017/8/17 下午 04:46:07
+Checked mode BLEND2. 
+
+************************************************** 
+    Time        ： 2017/08/17 16:46
+    Mode		： BLEND2
+	Expext Power	： 10 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent RSB -> PC:[RELAY_CTRL_K1=1]
+Received RSB-> RSB:[RELAY_CTRL_K1=1]
+Sent RSB -> PC:[RELAY_CTRL_K2=0]
+Received RSB-> RSB:[RELAY_CTRL_K2=0]
+Sent RSB -> PC:[RELAY_CTRL_K3=1]
+Received RSB-> RSB:[RELAY_CTRL_K3=1]
+Sent RSB -> PC:[RELAY_CTRL_K4=0]
+Received RSB-> RSB:[RELAY_CTRL_K4=0]
+Sent RSB -> PC:[RELAY_CTRL_K5=0]
+Received RSB-> RSB:[RELAY_CTRL_K5=0]
+Sent RSB -> PC:[RELAY_CTRL_K6=0]
+Received RSB-> RSB:[RELAY_CTRL_K6=0]
+Sent RSB -> PC:[RELAY_CTRL_K7=1]
+Received RSB-> RSB:[RELAY_CTRL_K7=1]
+Sent RSB -> PC:[RELAY_CHK_K1?]
+Received RSB-> RSB:[RELAY_CHK_K1=0]
+Sent RSB -> PC:[RELAY_CHK_K2?]
+Received RSB-> RSB:[RELAY_CHK_K2=1]
+Sent RSB -> PC:[RELAY_CHK_K3?]
+Received RSB-> RSB:[RELAY_CHK_K3=0]
+Sent RSB -> PC:[RELAY_CHK_K4?]
+Received RSB-> RSB:[RELAY_CHK_K4=1]
+Sent RSB -> PC:[RELAY_CHK_K5?]
+Received RSB-> RSB:[RELAY_CHK_K5=1]
+Sent RSB -> PC:[RELAY_CHK_K6?]
+Received RSB-> RSB:[RELAY_CHK_K6=1]
+Sent RSB -> PC:[RELAY_CHK_K7?]
+Received RSB-> RSB:[RELAY_CHK_K7=0]
+Sent E200 -> PC:[MODE_WATT=10]
+Sent E200 -> PC:[MODE_BLEND2=0]
+Received E200-> MPU:
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 13.71765 (W) 
+    Voltage     ： 83.9 (V) 
+    Current		： 0.1635 (A)
+    Power Tolerance	： 37.1765 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent E200 -> PC:[MODE_WATT=8.141175]
+Sent E200 -> PC:[MODE_BLEND2=0]
+Received E200-> MPU:[MOD
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 11.01855 (W) 
+    Voltage     ： 74.5 (V) 
+    Current		： 0.1479 (A)
+    Power Tolerance	： 10.1855 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent E200 -> PC:[MODE_DISABLE=0]
+Start calibrating...
+2017/8/17 下午 04:46:15
+Checked mode BLEND2, SPRAY. 
+
+************************************************** 
+    Time        ： 2017/08/17 16:46
+    Mode		： BLEND2
+	Expext Power	： 10 (W)
+	Load		： 1000 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent RSB -> PC:[RELAY_CTRL_K1=1]
+Received RSB-> RSB:[RELAY_CTRL_K1=1]
+Sent RSB -> PC:[RELAY_CTRL_K2=0]
+Received RSB-> RSB:[RELAY_CTRL_K2=0]
+Sent RSB -> PC:[RELAY_CTRL_K3=1]
+Received RSB-> RSB:[RELAY_CTRL_K3=1]
+Sent RSB -> PC:[RELAY_CTRL_K4=0]
+Received RSB-> RSB:[RELAY_CTRL_K4=0]
+Sent RSB -> PC:[RELAY_CTRL_K5=0]
+Received RSB-> RSB:[RELAY_CTRL_K5=0]
+Sent RSB -> PC:[RELAY_CTRL_K6=0]
+Received RSB-> RSB:[RELAY_CTRL_K6=0]
+Sent RSB -> PC:[RELAY_CTRL_K7=1]
+Received RSB-> RSB:[RELAY_CTRL_K7=1]
+Sent RSB -> PC:[RELAY_CHK_K1?]
+Received RSB-> RSB:[RELAY_CHK_K1=0]
+Sent RSB -> PC:[RELAY_CHK_K2?]
+Received RSB-> RSB:[RELAY_CHK_K2=1]
+Sent RSB -> PC:[RELAY_CHK_K3?]
+Received RSB-> RSB:[RELAY_CHK_K3=0]
+Sent RSB -> PC:[RELAY_CHK_K4?]
+Received RSB-> RSB:[RELAY_CHK_K4=1]
+Sent RSB -> PC:[RELAY_CHK_K5?]
+Received RSB-> RSB:[RELAY_CHK_K5=1]
+Sent RSB -> PC:[RELAY_CHK_K6?]
+Received RSB-> RSB:[RELAY_CHK_K6=1]
+Sent RSB -> PC:[RELAY_CHK_K7?]
+Received RSB-> RSB:[RELAY_CHK_K7=0]
+Sent E200 -> PC:[MODE_WATT=10]
+Sent E200 -> PC:[MODE_BLEND2=0]
+Received E200-> MPU:[MODE
+Sent E200 -> PC:[MODE_DISABLE=0]
+------------  Osilloscope Measurement  ------------ 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+Connection Error. 
+    Power       ： 0.06992 (W) 
+    Voltage     ： 7.6 (V) 
+    Current		： 0.0092 (A)
+    Power Tolerance	： -99.3008 % 
+
+Start calibrating...
+2017/8/17 下午 04:46:22
+Checked mode SPRAY. 
+
+************************************************** 
+    Time        ： 2017/08/17 16:46
+    Mode		： SPRAY
+	Expext Power	： 10 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent RSB -> PC:[RELAY_CTRL_K1=1]
+Received RSB-> RSB:[RELAY_CTRL_K1=1]
+Sent RSB -> PC:[RELAY_CTRL_K2=0]
+Received RSB-> RSB:[RELAY_CTRL_K2=0]
+Sent RSB -> PC:[RELAY_CTRL_K3=1]
+Received RSB-> RSB:[RELAY_CTRL_K3=1]
+Sent RSB -> PC:[RELAY_CTRL_K4=0]
+Received RSB-> RSB:[RELAY_CTRL_K4=0]
+Sent RSB -> PC:[RELAY_CTRL_K5=0]
+Received RSB-> RSB:[RELAY_CTRL_K5=0]
+Sent RSB -> PC:[RELAY_CTRL_K6=1]
+Received RSB-> RSB:[RELAY_CTRL_K6=1]
+Sent RSB -> PC:[RELAY_CTRL_K7=0]
+Received RSB-> RSB:[RELAY_CTRL_K7
+Sent RSB -> PC:[RELAY_CHK_K1?]
+Received RSB-> RSB:[RELAY_CHK_K1=0]
+Sent RSB -> PC:[RELAY_CHK_K2?]
+Received RSB-> RSB:[RELAY_CHK_K2=1]
+Sent RSB -> PC:[RELAY_CHK_K3?]
+Received RSB-> RSB:[RELAY_CHK_K3=0]
+Sent RSB -> PC:[RELAY_CHK_K4?]
+Received RSB-> RSB:[RELAY_CHK_K4=1]
+Sent RSB -> PC:[RELAY_CHK_K5?]
+Received RSB-> RSB:[RELAY_CHK_K5=1]
+Sent RSB -> PC:[RELAY_CHK_K6?]
+Received RSB-> RSB:[RELAY_CHK_K6=0]
+Sent RSB -> PC:[RELAY_CHK_K7?]
+Received RSB-> RSB:[RELAY_CHK_K7=1]
+Sent E200 -> PC:[MODE_WATT=10]
+Sent E200 -> PC:[MODE_SPRAY=0]
+Received E200-> MPU:[MOD
+Received E200-> PU:[MODE_WA
+------------  Osilloscope Measurement  ------------ 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+NationalInstruments.VisaNS.VisaException: Timeout expired before operation completed.  VISA error code -1073807339 (0xBFFF0015), ErrorTimeout
+   於 NationalInstruments.VisaNS.Internal.ErrorChecker.CheckStatusAndThrow(Int32 status, VisaHandle visaObject)
+   於 NationalInstruments.VisaNS.Session.CheckStatusAndThrow(Int32 status, Boolean setLastStatus)
+   於 NationalInstruments.VisaNS.Session.CheckStatusAndThrow(Int32 status)
+   於 NationalInstruments.VisaNS.Internal.MessageBasedSessionImpl.ReadString(Int32 countToRead)
+   於 NationalInstruments.VisaNS.MessageBasedSession.ReadString(Int32 countToRead)
+   於 NationalInstruments.VisaNS.MessageBasedSession.Query(String dataToWrite, Int32 countToRead)
+   於 NationalInstruments.VisaNS.MessageBasedSession.Query(String dataToWrite)
+   於 Csharp.Keysight.RMS_Get(UInt32 uiChannel) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13 - 複製\Csharp\Keysight.cs: 行 178
+   於 Csharp.MainForm.CalibStatus_OS_Measure(String[] sml, Int32 sml_select) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13 - 複製\Csharp\MainForm.cs: 行 1392
+Sent E200 -> PC:[MODE_DISABLE=0]
+Connection Error. 
+    Power       ： 0.06992 (W) 
+    Voltage     ： 7.6 (V) 
+    Current		： 0.0092 (A)
+    Power Tolerance	： -99.3008 % 
+
+System.Reflection.TargetInvocationException: 引動過程的目標傳回例外狀況。 ---> System.ArgumentException: Insufficient location information or the device or resource is not present in the system.  VISA error code -1073807343 (0xBFFF0011), ErrorResourceNotFound ---> NationalInstruments.VisaNS.VisaException: Insufficient location information or the device or resource is not present in the system.  VISA error code -1073807343 (0xBFFF0011), ErrorResourceNotFound
+   --- 內部例外狀況堆疊追蹤的結尾 ---
+   於 NationalInstruments.VisaNS.Internal.ErrorChecker.CheckStatusAndThrow(Int32 status, VisaHandle visaObject)
+   於 NationalInstruments.VisaNS.Session..ctor(String resourceName, AccessModes accessMode, Int32 openTimeout, String expectedResourceName)
+   於 NationalInstruments.VisaNS.MessageBasedSession..ctor(String resourceName, AccessModes accessMode, Int32 openTimeout, String expectedResourceName)
+   於 NationalInstruments.VisaNS.UsbSession..ctor(String resourceName, AccessModes accessMode, Int32 openTimeout, Boolean checkResourceType)
+   --- 內部例外狀況堆疊追蹤的結尾 ---
+   於 System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   於 System.Reflection.RuntimeConstructorInfo.Invoke(BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   於 System.RuntimeType.CreateInstanceImpl(BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes, StackCrawlMark& stackMark)
+   於 System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   於 System.Activator.CreateInstance(Type type, Object[] args)
+   於 NationalInstruments.VisaNS.ResourceManager.Open(String resourceName, AccessModes accessMode, Int32 openTimeout)
+   於 NationalInstruments.VisaNS.ResourceManager.Open(String resourceName)
+   於 Csharp.Lecroy.Connect(TYPE eScopeType) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13 - 複製\Csharp\Lecroy.cs: 行 54
+   於 Csharp.MainForm.Button_OSconnect_Click(Object sender, EventArgs e) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13 - 複製\Csharp\MainForm.cs: 行 921 

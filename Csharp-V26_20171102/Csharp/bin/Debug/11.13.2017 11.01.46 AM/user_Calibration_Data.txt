@@ -1,0 +1,62 @@
+Start calibrating...
+2017/11/13 ¤W¤È 11:19:33
+[ PINPOINT 10W ] 
+Pass counter: 3
+Fail counter: 1
+Total counter: 4
+Result:10W pass 
+[ PINPOINT 20W ] 
+Pass counter: 3
+Fail counter: 0
+Total counter: 3
+Result:20W pass 
+[ PINPOINT 30W ] 
+Pass counter: 3
+Fail counter: 0
+Total counter: 3
+Result:30W pass 
+[ PINPOINT 40W ] 
+Pass counter: 3
+Fail counter: 0
+Total counter: 3
+Result:40W pass 
+[ PINPOINT 50W ] 
+Pass counter: 3
+Fail counter: 0
+Total counter: 3
+Result:50W pass 
+[ PINPOINT 60W ] 
+Pass counter: 3
+Fail counter: 0
+Total counter: 3
+Result:60W pass 
+[ PINPOINT 70W ] 
+Pass counter: 3
+Fail counter: 0
+Total counter: 3
+Result:70W pass 
+[ PINPOINT 80W ] 
+Pass counter: 3
+Fail counter: 0
+Total counter: 3
+Result:80W pass 
+[ PINPOINT 90W ] 
+Pass counter: 3
+Fail counter: 0
+Total counter: 3
+Result:90W pass 
+[ PINPOINT 100W ] 
+Pass counter: 3
+Fail counter: 0
+Total counter: 3
+Result:100W pass 
+[ PINPOINT 110W ] 
+Pass counter: 3
+Fail counter: 0
+Total counter: 3
+Result:110W pass 
+[ PINPOINT 120W ] 
+Pass counter: 3
+Fail counter: 0
+Total counter: 3
+Result:120W pass 

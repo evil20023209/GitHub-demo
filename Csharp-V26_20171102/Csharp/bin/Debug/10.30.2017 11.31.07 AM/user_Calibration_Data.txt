@@ -1,0 +1,23 @@
+2017/10/30 上午 11:31:07
+Connected COM6.
+Connectecd E200.
+OS connected. 
+Connected COM15.
+Connectecd RSB.
+Start calibrating...
+2017/10/30 上午 11:31:45
+[ PURE 10W ] 
+Pass counter: 3
+Fail counter: 0
+Total counter: 3
+Result:10W pass 
+OS connected. 
+Start calibrating...
+2017/10/30 上午 11:32:34
+Connection Error. 
+Start calibrating...
+2017/10/30 上午 11:32:42
+Connection Error. 
+Start calibrating...
+2017/10/30 上午 11:32:48
+Connection Error. 

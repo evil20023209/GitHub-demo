@@ -1,0 +1,6 @@
+2017/11/10 ¤U¤È 05:05:39
+Connected COM6.
+Connectecd E200.
+Oscilloscope Conect Error  
+Connected COM15.
+Connectecd RSB.

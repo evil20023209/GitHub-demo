@@ -1,0 +1,12 @@
+2017/8/18 ¤W¤È 08:42:01
+False to open portKeySight - 2024A.
+False to open portKeySight - DSOX4024A.
+False to open portLeCroy.
+Connected COM6.
+False to connect RSB.
+
+False to open portCOM6.
+False to open portCOM15.
+OS connected. 
+False to open portCOM6.
+False to open portCOM15.

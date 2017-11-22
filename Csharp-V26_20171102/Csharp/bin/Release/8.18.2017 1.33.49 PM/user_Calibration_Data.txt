@@ -1,0 +1,5 @@
+2017/8/18 ¤U¤È 01:33:49
+False to open portCOM6.
+OS connected. 
+False to open portCOM6.
+False to open portCOM6.

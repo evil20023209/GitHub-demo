@@ -1,0 +1,6 @@
+2017/8/17 ¤U¤È 05:10:51
+False to open portCOM11.
+Oscilloscope Conect Error  
+False to open portCOM11.
+Oscilloscope Conect Error  
+False to open portCOM11.

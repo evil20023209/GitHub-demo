@@ -1,0 +1,39 @@
+2017/8/17 ¤U¤È 04:06:42
+No COM Port is exists.
+Oscilloscope Conect Error  
+No COM Port is exists.
+
+False to open portCOM17.
+Connected COM15.
+False to connect E200.
+
+Choose a COM Port.
+
+Connected COM17.
+False to connect RSB.
+
+Please choose an oscilloscope type. 
+Connected COM17.
+False to connect RSB.
+
+Connected COM17.
+False to connect RSB.
+
+Connected COM17.
+False to connect RSB.
+
+Connected COM15.
+Connectecd RSB.
+Connected COM17.
+Connectecd E200.
+OS connected. 
+OS connected. 
+Disconnect RSB.
+Connected COM17.
+False to connect RSB.
+
+Connected COM15.
+Disconnect E200.
+Connectecd RSB.
+Connected COM17.
+Connectecd E200.

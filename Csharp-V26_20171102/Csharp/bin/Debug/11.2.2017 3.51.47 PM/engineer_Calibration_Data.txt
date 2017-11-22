@@ -1,0 +1,124 @@
+2017/11/2 ¤U¤È 03:51:47
+D:\Sean.lin\Desktop\C#\Csharp-V26_20171102\Csharp\bin\Debug\11.2.2017 3.51.47 PM
+
+Connecting COM4...
+Connected COM4.
+Connecting E200...
+Sent E200 -> PC:[MODE_WATT=0]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MSG:[0]
+Return signal is not from E200. 
+False to connect E200.
+
+
+Connecting COM3...
+Connected COM3.
+Connecting E200...
+Sent E200 -> PC:[MODE_WATT=0]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=9.75]MPU:[MODE_PURE=0.00]
+Sent E200 -> PC:[MODE_DISABLE=0]
+Connected E200.
+OS connected. 
+
+Connecting COM4...
+COM4 Opened.
+Connected COM4.
+Connecting RSB...
+Sent RSB -> PC:[DET_12V_CHK?]
+Received RSB-> RSB:[DET_12V_CHK=1.99]
+Connected RSB.
+Start calibrating...
+2017/11/2 ¤U¤È 03:52:00
+Checked mode PURE, BLEND1, BLEND2, PINPOINT, SPRAY, BIPOLAR. 
+
+************************************************** 
+    Time        ¡G 2017/11/02 15:52
+    Mode		¡G PURE
+	Expext Power	¡G 10 (W)
+	Load		¡G  (ohm) 
+	Power Tolerance	¡G 0 ~ +10 %
+************************************************** 
+Sent RSB -> PC:[RELAY_CTRL_K1=1]
+Received RSB-> RSB:[RELAY_CTRL_K1=1]
+Sent RSB -> PC:[RELAY_CTRL_K2=0]
+Received RSB-> RSB:[RELAY_CTRL_K2=0]
+Sent RSB -> PC:[RELAY_CTRL_K3=1]
+Received RSB-> RSB:[RELAY_CTRL_K3=1]
+Sent RSB -> PC:[RELAY_CTRL_K4=0]
+Received RSB-> RSB:[RELAY_CTRL_K4=0]
+Sent RSB -> PC:[RELAY_CTRL_K5=0]
+Received RSB-> RSB:[RELAY_CTRL_K5=0]
+Sent RSB -> PC:[RELAY_CTRL_K6=1]
+Received RSB-> RSB:[RELAY_CTRL_K6=1]
+Sent RSB -> PC:[RELAY_CTRL_K7=1]
+Received RSB-> RSB:[RELAY_CTRL_K7=1]
+Sent RSB -> PC:[RELAY_CHK_K1?]
+Received RSB-> RSB:[RELAY_CHK_K1=0]
+Sent RSB -> PC:[RELAY_CHK_K2?]
+Received RSB-> RSB:[RELAY_CHK_K2=1]
+Sent RSB -> PC:[RELAY_CHK_K3?]
+Received RSB-> RSB:[RELAY_CHK_K3=0]
+Sent RSB -> PC:[RELAY_CHK_K4?]
+Received RSB-> RSB:[RELAY_CHK_K4=1]
+Sent RSB -> PC:[RELAY_CHK_K5?]
+Received RSB-> RSB:[RELAY_CHK_K5=1]
+Sent RSB -> PC:[RELAY_CHK_K6?]
+Received RSB-> RSB:[RELAY_CHK_K6=0]
+Sent RSB -> PC:[RELAY_CHK_K7?]
+Received RSB-> RSB:[RELAY_CHK_K7=0]
+Sent E200 -> PC:[MODE_WATT=10]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=1
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ¡G 12.74081 (W) 
+    Voltage     ¡G 81.1 (V) 
+    Current		¡G 0.1571 (A)
+    Power Tolerance	¡G 27.4081 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent E200 -> PC:[MODE_WATT=8.629595]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=18.27]MPU:[
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ¡G 10.8259 (W) 
+    Voltage     ¡G 73 (V) 
+    Current		¡G 0.1483 (A)
+    Power Tolerance	¡G 8.25899999999999 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent E200 -> PC:[MODE_WATT=8.216645]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ¡G 11.15136 (W) 
+    Voltage     ¡G 76.8 (V) 
+    Current		¡G 0.1452 (A)
+    Power Tolerance	¡G 11.5136 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent E200 -> PC:[MODE_WATT=7.640965]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MOD
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ¡G 10.53381 (W) 
+    Voltage     ¡G 72.1 (V) 
+    Current		¡G 0.1461 (A)
+    Power Tolerance	¡G 5.33809999999999 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent E200 -> PC:[MODE_WATT=7.37406]
+Sent E200 -> PC:[MODE_PURE=0]
+Sent E200 -> PC:[MODE_DISABLE=0]
+Sent E200 -> PC:[MODE_DISABLE=0]
+Received E200-> MPU:[MODE_WATT=17.03]MPU:[MODE_PURE=26.26]

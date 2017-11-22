@@ -1,0 +1,21 @@
+2017/8/17 下午 02:54:11
+O:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13 - 複製\Csharp\bin\Release\8.17.2017 2.54.12 PM
+OS connected. 
+
+Connecting COM10...
+COM10 Opened.
+Connected COM10.
+Connecting RSB...
+Sent RSB -> PC:[DET_12V_CHK?]
+Do not receive return signal.
+False to connect RSB.
+
+
+Connecting COM10...
+COM10 Opened.
+Connected COM10.
+Connecting RSB...
+Sent RSB -> PC:[DET_12V_CHK?]
+Do not receive return signal.
+False to connect RSB.
+

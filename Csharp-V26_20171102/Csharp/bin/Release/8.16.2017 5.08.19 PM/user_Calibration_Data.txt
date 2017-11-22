@@ -1,0 +1,84 @@
+2017/8/16 下午 05:08:19
+OS connected. 
+Connected COM16.
+Connectecd E200.
+Connected COM15.
+Connectecd RSB.
+2017/8/16 下午 05:09:40
+Start Calibrate...
+Connection Error. 
+2017/8/16 下午 05:10:09
+Start Calibrate...
+Connection Error. 
+2017/8/16 下午 05:11:42
+Start Calibrate...
+2017/8/16 下午 05:12:07
+Start Calibrate...
+Connection Error. 
+2017/8/16 下午 05:12:25
+Start Calibrate...
+Connection Error. 
+2017/8/16 下午 05:12:44
+Start Calibrate...
+Connection Error. 
+2017/8/16 下午 05:13:48
+Start Calibrate...
+Connection Error. 
+2017/8/16 下午 05:14:00
+Start Calibrate...
+Connection Error. 
+2017/8/16 下午 05:17:00
+Start Calibrate...
+Disconnect RSB.
+Connected COM15.
+Connectecd RSB.
+Disconnect E200.
+Connected COM16.
+False to connect E200.
+
+Connected COM16.
+False to connect E200.
+
+Connected COM16.
+Connectecd E200.
+2017/8/16 下午 05:17:49
+Start Calibrate...
+[ PURE 10W ] 
+Result:10W fail 
+[ PURE 20W ] 
+Result:20W fail 
+[ PURE 30W ] 
+Result:30W fail 
+[ PURE 40W ] 
+Result:40W fail 
+2017/8/16 下午 05:18:02
+Start Calibrate...
+Connection Error. 
+2017/8/16 下午 05:18:28
+Start Calibrate...
+2017/8/16 下午 05:22:52
+Start Calibrate...
+Disconnect E200.
+Disconnect RSB.
+Connected COM16.
+False to connect E200.
+
+Connected COM15.
+False to connect E200.
+
+Connected COM16.
+False to connect RSB.
+
+False to open portCOM15.
+Connected COM16.
+False to connect RSB.
+
+False to open portCOM15.
+Connected COM16.
+False to connect RSB.
+
+False to open portCOM15.
+Connected COM16.
+False to connect RSB.
+
+False to open portCOM15.

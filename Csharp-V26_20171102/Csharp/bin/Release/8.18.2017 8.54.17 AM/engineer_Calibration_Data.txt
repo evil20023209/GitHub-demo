@@ -1,0 +1,137 @@
+2017/8/18 上午 08:54:17
+O:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13 - 複製\Csharp\bin\Release\8.18.2017 8.54.17 AM
+
+Connecting COM6...
+Connected COM6.
+Connecting E200...
+Sent E200 -> PC:[MODE_WATT=0]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=9.75]MPU:[MODE_PURE=0.00]
+Sent E200 -> PC:[MODE_DISABLE=0]
+Connected E200.
+OS connected. 
+
+Connecting COM15...
+COM15 Opened.
+Connected COM15.
+Connecting RSB...
+Sent RSB -> PC:[DET_12V_CHK?]
+Received RSB-> RSB:[DET_12V_CHK=1.97]
+Connected RSB.
+Start calibrating...
+2017/8/18 上午 08:54:33
+Checked mode SPRAY. 
+
+************************************************** 
+    Time        ： 2017/08/18 08:54
+    Mode		： SPRAY
+	Expext Power	： 10 (W)
+	Load		： 1000 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent RSB -> PC:[RELAY_CTRL_K1=1]
+Received RSB-> RSB:[RELAY_CTRL_K1=1]
+Sent RSB -> PC:[RELAY_CTRL_K2=0]
+Received RSB-> RSB:[RELAY_CTRL_K2=0]
+Sent RSB -> PC:[RELAY_CTRL_K3=1]
+Received RSB-> RSB:[RELAY_CTRL_K3=1]
+Sent RSB -> PC:[RELAY_CTRL_K4=0]
+Received RSB-> RSB:[RELAY_CTRL_K4=0]
+Sent RSB -> PC:[RELAY_CTRL_K5=0]
+Received RSB-> RSB:[RELAY_CTRL_K5=0]
+Sent RSB -> PC:[RELAY_CTRL_K6=1]
+Received RSB-> RSB:[RELAY_CTRL_K6=1]
+Sent RSB -> PC:[RELAY_CTRL_K7=0]
+Received RSB-> RSB:[RELAY_CTRL_K7=0]
+Sent RSB -> PC:[RELAY_CHK_K1?]
+Received RSB-> RSB:[RELAY_CHK_K1=0]
+Sent RSB -> PC:[RELAY_CHK_K2?]
+Received RSB-> RSB:[RELAY_CHK_K2=1]
+Sent RSB -> PC:[RELAY_CHK_K3?]
+Received RSB-> RSB:[RELAY_CHK_K3=0]
+Sent RSB -> PC:[RELAY_CHK_K4?]
+Received RSB-> RSB:[RELAY_CHK_K4=1]
+Sent RSB -> PC:[RELAY_CHK_K5?]
+Received RSB-> RSB:[RELAY_CHK_K5=1]
+Sent RSB -> PC:[RELAY_CHK_K6?]
+Received RSB-> RSB:[RELAY_CHK_K6=0]
+Sent RSB -> PC:[RELAY_CHK_K7?]
+Received RSB-> RSB:[RELAY_CHK_K7=1]
+Sent E200 -> PC:[CALIB_DATA_SPRAY_?=]
+Received E200-> MPU:[CALIB_DATA_SPRAY=0.61,0.75,0.80,0.84,0.86,0.89,0.92,0.93]
+here  SPRAY
+0.61
+0.75
+0.80
+0.84
+0.86
+0.89
+0.92
+0.93
+here  SPRAY
+0.61
+0.75
+0.80
+0.84
+0.86
+0.89
+0.92
+0.93
+Sent E200 -> PC:[MODE_WATT=6.1]
+Sent E200 -> PC:[MODE_SPRAY=0]
+Received E200-> MPU:[MODE_WATT=13.05]MPU:[MODE
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 10.60704 (W) 
+    Voltage     ： 104.4 (V) 
+    Current		： 0.1016 (A)
+    Power Tolerance	： 6.0704 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent E200 -> PC:[MODE_WATT=6.1]
+Sent E200 -> PC:[MODE_SPRAY=0]
+Received E200-> MPU:[MODE_WATT=13.05]MPU:[MODE_SPR
+Received E200-> PU:[MODE_WATT=13.05]MPU:[MODE_SPRAY=41.52]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 10.12011 (W) 
+    Voltage     ： 101.1 (V) 
+    Current		： 0.1001 (A)
+    Power Tolerance	： 1.20109999999999 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent E200 -> PC:[MODE_WATT=6.1]
+Sent E200 -> PC:[MODE_SPRAY=0]
+Received E200-> MPU
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 10.21104 (W) 
+    Voltage     ： 100.8 (V) 
+    Current		： 0.1013 (A)
+    Power Tolerance	： 2.11040000000001 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/08/18 08:54
+  Mode		： SPRAY
+	Expext Power	： 20 (W)
+	Load		： 1000 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent E200 -> PC:[MODE_WATT=15]
+Sent E200 -> PC:[MODE_SPRAY=0]
+Received E200-> MPU:[MODE_WATT=24.77]MPU:[MODE_SPRAY=57.30]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 21.286 (W) 
+    Voltage     ： 146.8 (V) 
+    Current		： 0.145 (A)
+    Power Tolerance	： 6.43000000000001 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent E200 -> PC:[MODE_DISABLE=0]

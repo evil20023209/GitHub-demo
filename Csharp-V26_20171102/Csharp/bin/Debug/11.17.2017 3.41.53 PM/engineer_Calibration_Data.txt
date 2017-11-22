@@ -1,0 +1,2 @@
+2017/11/17 下午 03:41:53
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V26_20171102\Csharp\bin\Debug\11.17.2017 3.41.53 PM

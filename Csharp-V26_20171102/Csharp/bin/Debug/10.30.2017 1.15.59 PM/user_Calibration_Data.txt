@@ -1,0 +1,9 @@
+2017/10/30 ¤U¤È 01:15:59
+Connected COM6.
+Connectecd E200.
+OS connected. 
+Connected COM15.
+Connectecd RSB.
+Start calibrating...
+2017/10/30 ¤U¤È 01:16:10
+Connection Error. 

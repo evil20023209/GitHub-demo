@@ -1,0 +1,47 @@
+2017/8/17 下午 04:10:25
+O:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13 - 複製\Csharp\bin\Release\8.17.2017 4.10.25 PM
+System.DllNotFoundException: The VISA driver library cannot be found.  Either VISA is not installed, or VISA is improperly installed. ---> System.DllNotFoundException: 無法載入 DLL 'Visa32.Dll': 找不到指定的模組。 (發生例外狀況於 HRESULT: 0x8007007E)
+   於 NationalInstruments.VisaNS.Internal.VisaDll.OpenDefaultRM32(IntPtr& sesn)
+   於 NationalInstruments.VisaNS.Internal.VisaDll.OpenDefaultRM(IntPtr& sesn)
+   於 NationalInstruments.VisaNS.Internal.VisaDll.viOpenDefaultRM(VisaHandle& sesn)
+   --- 內部例外狀況堆疊追蹤的結尾 ---
+   於 NationalInstruments.VisaNS.Internal.VisaDll.viOpenDefaultRM(VisaHandle& sesn)
+   於 NationalInstruments.VisaNS.ResourceManager.ParseResource(String resourceName, HardwareInterfaceType& interfaceType, Int16& interfaceNumber, String& resourceClass, String& expandedUnaliasedName, String& aliasIfExists)
+   於 NationalInstruments.VisaNS.ResourceManager.ParseResource(String resourceName, HardwareInterfaceType& interfaceType, Int16& interfaceNumber, String& resourceClass)
+   於 NationalInstruments.VisaNS.ResourceManager.GetResourceIdentifier(String resourceString)
+   於 NationalInstruments.VisaNS.ResourceManager.Open(String resourceName, AccessModes accessMode, Int32 openTimeout)
+   於 NationalInstruments.VisaNS.ResourceManager.Open(String resourceName)
+   於 Csharp.Lecroy.Connect(TYPE eScopeType) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13 - 複製\Csharp\Lecroy.cs: 行 54
+   於 Csharp.MainForm.Button_OSconnect_Click(Object sender, EventArgs e) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13 - 複製\Csharp\MainForm.cs: 行 920 
+
+Connecting COM4...
+Connected COM4.
+Connecting E200...
+Sent E200 -> PC:[MODE_WATT=0]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MSG:[0]
+Return signal is not from E200. 
+False to connect E200.
+
+
+Connecting COM6...
+Connected COM6.
+Connecting E200...
+Sent E200 -> PC:[MODE_WATT=0]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=9.75]MPU:[MODE_PURE=0.00]
+Sent E200 -> PC:[MODE_DISABLE=0]
+Connected E200.
+System.DllNotFoundException: The VISA driver library cannot be found.  Either VISA is not installed, or VISA is improperly installed. ---> System.DllNotFoundException: 無法載入 DLL 'Visa32.Dll': 找不到指定的模組。 (發生例外狀況於 HRESULT: 0x8007007E)
+   於 NationalInstruments.VisaNS.Internal.VisaDll.OpenDefaultRM32(IntPtr& sesn)
+   於 NationalInstruments.VisaNS.Internal.VisaDll.OpenDefaultRM(IntPtr& sesn)
+   於 NationalInstruments.VisaNS.Internal.VisaDll.viOpenDefaultRM(VisaHandle& sesn)
+   --- 內部例外狀況堆疊追蹤的結尾 ---
+   於 NationalInstruments.VisaNS.Internal.VisaDll.viOpenDefaultRM(VisaHandle& sesn)
+   於 NationalInstruments.VisaNS.ResourceManager.ParseResource(String resourceName, HardwareInterfaceType& interfaceType, Int16& interfaceNumber, String& resourceClass, String& expandedUnaliasedName, String& aliasIfExists)
+   於 NationalInstruments.VisaNS.ResourceManager.ParseResource(String resourceName, HardwareInterfaceType& interfaceType, Int16& interfaceNumber, String& resourceClass)
+   於 NationalInstruments.VisaNS.ResourceManager.GetResourceIdentifier(String resourceString)
+   於 NationalInstruments.VisaNS.ResourceManager.Open(String resourceName, AccessModes accessMode, Int32 openTimeout)
+   於 NationalInstruments.VisaNS.ResourceManager.Open(String resourceName)
+   於 Csharp.Lecroy.Connect(TYPE eScopeType) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13 - 複製\Csharp\Lecroy.cs: 行 54
+   於 Csharp.MainForm.Button_OSconnect_Click(Object sender, EventArgs e) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13 - 複製\Csharp\MainForm.cs: 行 920 

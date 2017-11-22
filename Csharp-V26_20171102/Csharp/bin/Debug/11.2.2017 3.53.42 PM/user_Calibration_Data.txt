@@ -1,0 +1,156 @@
+2017/11/2 ¤U¤È 03:53:42
+Connected COM4.
+False to connect E200.
+
+Connected COM3.
+Connectecd E200.
+OS connected. 
+Connected COM4.
+Connectecd RSB.
+Start calibrating...
+2017/11/2 ¤U¤È 03:53:55
+[ PURE 10W ] 
+Pass counter: 3
+Fail counter: 5
+Total counter: 8
+Result:10W pass 
+[ PURE 20W ] 
+Pass counter: 3
+Fail counter: 0
+Total counter: 3
+Result:20W pass 
+[ PURE 30W ] 
+Pass counter: 3
+Fail counter: 1
+Total counter: 4
+Result:30W pass 
+[ PURE 40W ] 
+Pass counter: 3
+Fail counter: 1
+Total counter: 4
+Result:40W pass 
+[ PURE 50W ] 
+Pass counter: 3
+Fail counter: 0
+Total counter: 3
+Result:50W pass 
+[ PURE 60W ] 
+Pass counter: 3
+Fail counter: 1
+Total counter: 4
+Result:60W pass 
+[ PURE 70W ] 
+Pass counter: 3
+Fail counter: 1
+Total counter: 4
+Result:70W pass 
+[ PURE 80W ] 
+Pass counter: 3
+Fail counter: 1
+Total counter: 4
+Result:80W pass 
+[ PURE 90W ] 
+Pass counter: 3
+Fail counter: 1
+Total counter: 4
+Result:90W pass 
+[ PURE 100W ] 
+Pass counter: 3
+Fail counter: 1
+Total counter: 4
+Result:100W pass 
+[ PURE 110W ] 
+Pass counter: 3
+Fail counter: 0
+Total counter: 3
+Result:110W pass 
+[ PURE 120W ] 
+Pass counter: 3
+Fail counter: 0
+Total counter: 3
+Result:120W pass 
+[ PURE 130W ] 
+Pass counter: 3
+Fail counter: 0
+Total counter: 3
+Result:130W pass 
+[ PURE 140W ] 
+Pass counter: 3
+Fail counter: 0
+Total counter: 3
+Result:140W pass 
+[ PURE 150W ] 
+Pass counter: 3
+Fail counter: 0
+Total counter: 3
+Result:150W pass 
+[ PURE 160W ] 
+Pass counter: 3
+Fail counter: 0
+Total counter: 3
+Result:160W pass 
+[ PURE 170W ] 
+Pass counter: 3
+Fail counter: 0
+Total counter: 3
+Result:170W pass 
+[ PURE 180W ] 
+Pass counter: 3
+Fail counter: 0
+Total counter: 3
+Result:180W pass 
+[ PURE 190W ] 
+Pass counter: 3
+Fail counter: 0
+Total counter: 3
+Result:190W pass 
+[ PURE 200W ] 
+Pass counter: 3
+Fail counter: 0
+Total counter: 3
+Result:200W pass 
+[ PURE 210W ] 
+Pass counter: 3
+Fail counter: 0
+Total counter: 3
+Result:210W pass 
+[ PURE 220W ] 
+Pass counter: 3
+Fail counter: 0
+Total counter: 3
+Result:220W pass 
+[ PURE 230W ] 
+Pass counter: 3
+Fail counter: 0
+Total counter: 3
+Result:230W pass 
+[ PURE 240W ] 
+Pass counter: 3
+Fail counter: 0
+Total counter: 3
+Result:240W pass 
+[ PURE 250W ] 
+Pass counter: 3
+Fail counter: 0
+Total counter: 3
+Result:250W pass 
+[ PURE 260W ] 
+Pass counter: 3
+Fail counter: 0
+Total counter: 3
+Result:260W pass 
+[ PURE 270W ] 
+Pass counter: 3
+Fail counter: 0
+Total counter: 3
+Result:270W pass 
+[ PURE 280W ] 
+Pass counter: 3
+Fail counter: 0
+Total counter: 3
+Result:280W pass 
+[ PURE 290W ] 
+Pass counter: 3
+Fail counter: 0
+Total counter: 3
+Result:290W pass 

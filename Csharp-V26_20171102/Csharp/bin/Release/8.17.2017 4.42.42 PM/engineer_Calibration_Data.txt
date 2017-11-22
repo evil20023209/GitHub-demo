@@ -1,0 +1,265 @@
+2017/8/17 下午 04:42:42
+O:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13 - 複製\Csharp\bin\Release\8.17.2017 4.42.42 PM
+
+Connecting COM11...
+Connected COM11.
+Connecting E200...
+Sent E200 -> PC:[MODE_WATT=0]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=9.75]MPU:[MODE_PURE=0.00]
+Sent E200 -> PC:[MODE_DISABLE=0]
+Connected E200.
+OS connected. 
+
+Connecting COM12...
+COM12 Opened.
+Connected COM12.
+Connecting RSB...
+Sent RSB -> PC:[DET_12V_CHK?]
+System.IO.IOException: 連結到系統的某個裝置失去作用。
+
+   於 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   於 System.IO.Ports.SerialStream.EndWrite(IAsyncResult asyncResult)
+   於 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   於 System.IO.Ports.SerialPort.Write(String text)
+   於 Csharp.MainForm.RSB_transmit(String string_device, String string_control, String string_moverment, String string_synbol, String string_value) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13 - 複製\Csharp\MainForm.cs: 行 2681Sent E200 -> PC:[MODE_DISABLE=0]
+Do not receive return signal.
+False to connect RSB.
+
+
+Connecting COM6...
+COM6 Opened.
+Connected COM6.
+Connecting RSB...
+Sent RSB -> PC:[DET_12V_CHK?]
+Received RSB-> RSB:[DET_12V_CHK=1.98]
+Connected RSB.
+Start calibrating...
+2017/8/17 下午 04:43:10
+Checked mode PINPOINT. 
+
+************************************************** 
+    Time        ： 2017/08/17 16:43
+    Mode		： PINPOINT
+	Expext Power	： 10 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent RSB -> PC:[RELAY_CTRL_K1=1]
+Received RSB-> RSB:[RELAY_CTRL_K1=1]
+Sent RSB -> PC:[RELAY_CTRL_K2=0]
+Received RSB-> RSB:[RELAY_CTRL_K2=0]
+Sent RSB -> PC:[RELAY_CTRL_K3=1]
+Received RSB-> RSB:[RELAY_CTRL_K3=1]
+Sent RSB -> PC:[RELAY_CTRL_K4=0]
+Received RSB-> RSB:[RELAY_CTRL_K4=0]
+Sent RSB -> PC:[RELAY_CTRL_K5=0]
+Received RSB-> RSB:[RELAY_CTRL_K5=0]
+Sent RSB -> PC:[RELAY_CTRL_K6=0]
+Received RSB-> RSB:[RELAY_CTRL_K6=0]
+Sent RSB -> PC:[RELAY_CTRL_K7=1]
+Received RSB-> RSB:[RELAY_CTRL_K7=1]
+Sent RSB -> PC:[RELAY_CHK_K1?]
+Received RSB-> RSB:[RELAY_CHK_K1=0]
+Sent RSB -> PC:[RELAY_CHK_K2?]
+Received RSB-> RSB:[RELAY_CHK_K2=1]
+Sent RSB -> PC:[RELAY_CHK_K3?]
+Received RSB-> RSB:[RELAY_CHK_K3=0]
+Sent RSB -> PC:[RELAY_CHK_K4?]
+Received RSB-> RSB:[RELAY_CHK_K4=1]
+Sent RSB -> PC:[RELAY_CHK_K5?]
+Received RSB-> RSB:[RELAY_CHK_K5=1]
+Sent RSB -> PC:[RELAY_CHK_K6?]
+Received RSB-> RSB:[RELAY_CHK_K6=1]
+Sent RSB -> PC:[RELAY_CHK_K7?]
+Received RSB-> RSB:[RELAY_CHK_K7=0]
+Sent E200 -> PC:[MODE_WATT=10]
+Sent E200 -> PC:[MODE_PINPOINT=0]
+Received E200-> MPU:[MOD
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 18.25648 (W) 
+    Voltage     ： 96.8 (V) 
+    Current		： 0.1886 (A)
+    Power Tolerance	： 82.5648 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent E200 -> PC:[MODE_WATT=5.87176]
+Sent E200 -> PC:[MODE_PINPOINT=0]
+Received E200-> MPU:[MODE_W
+Received E200-> PU:[MODE_WATT=12.61]MPU:
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 10.80954 (W) 
+    Voltage     ： 74.6 (V) 
+    Current		： 0.1449 (A)
+    Power Tolerance	： 8.09539999999998 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent E200 -> PC:[MODE_WATT=5.87176]
+Sent E200 -> PC:[MODE_PINPOINT=0]
+Received E200-> MPU:[
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 10.76642 (W) 
+    Voltage     ： 74.2 (V) 
+    Current		： 0.1451 (A)
+    Power Tolerance	： 7.6642 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent E200 -> PC:[MODE_WATT=5.87176]
+Sent E200 -> PC:[MODE_PINPOINT=0]
+Received E200-> MPU:[MODE_WATT=12.61
+Received E200-> PU:[MODE_WATT=12.61]MPU:[MODE_PINPOINT=41.84]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 10.67913 (W) 
+    Voltage     ： 73.7 (V) 
+    Current		： 0.1449 (A)
+    Power Tolerance	： 6.79130000000001 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/08/17 16:43
+  Mode		： PINPOINT
+	Expext Power	： 20 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent E200 -> PC:[MODE_WATT=20]
+Sent E200 -> PC:[MODE_PINPOINT=0]
+Received E200-> MPU:[MODE_WATT=29.84]MPU:[MODE_PINPOINT=70.53]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 27.88464 (W) 
+    Voltage     ： 120.4 (V) 
+    Current		： 0.2316 (A)
+    Power Tolerance	： 39.4232 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent E200 -> PC:[MODE_WATT=16.05768]
+Sent E200 -> PC:[MODE_PINPOINT=0]
+Sent E200 -> PC:[MODE_DISABLE=0]
+Received E200-> MPU:[MODE_WATT=25.03]MPU:[MODE_PINPOINT=65.04]
+Start calibrating...
+2017/8/17 下午 04:43:28
+Checked mode PINPOINT. 
+
+************************************************** 
+    Time        ： 2017/08/17 16:43
+    Mode		： PINPOINT
+	Expext Power	： 10 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent RSB -> PC:[RELAY_CTRL_K1=1]
+Received RSB-> RSB:[RELAY_CTRL_K1=1]
+Sent RSB -> PC:[RELAY_CTRL_K2=0]
+Received RSB-> RSB:[RELAY_CTRL_K2=0]
+Sent RSB -> PC:[RELAY_CTRL_K3=1]
+Received RSB-> RSB:[RELAY_CTRL_K3=1]
+Sent RSB -> PC:[RELAY_CTRL_K4=0]
+Received RSB-> RSB:[RELAY_CTRL_K4=0]
+Sent RSB -> PC:[RELAY_CTRL_K5=0]
+Received RSB-> RSB:[RELAY_CTRL_K5=0]
+Sent RSB -> PC:[RELAY_CTRL_K6=0]
+Received RSB-> RSB:[RELAY_CTRL_K6=0]
+Sent RSB -> PC:[RELAY_CTRL_K7=1]
+Received RSB-> RSB:[RELAY_CTRL_K7=1]
+Sent RSB -> PC:[RELAY_CHK_K1?]
+Received RSB-> RSB:[RELAY_CHK_K1=0]
+Sent RSB -> PC:[RELAY_CHK_K2?]
+Received RSB-> RSB:[RELAY_CHK_K2=1]
+Sent RSB -> PC:[RELAY_CHK_K3?]
+Received RSB-> RSB:[RELAY_CHK_K3=0]
+Sent RSB -> PC:[RELAY_CHK_K4?]
+Received RSB-> RSB:[RELAY_CHK_K4=1]
+Sent RSB -> PC:[RELAY_CHK_K5?]
+Received RSB-> RSB:[RELAY_CHK_K5=1]
+Sent RSB -> PC:[RELAY_CHK_K6?]
+Received RSB-> RSB:[RELAY_CHK_K6=1]
+Sent RSB -> PC:[RELAY_CHK_K7?]
+Received RSB-> RSB:[RELAY_CHK_K7=0]
+Sent E200 -> PC:[MODE_WATT=10]
+Sent E200 -> PC:[MODE_PINPOINT=0]
+Received E200-> MPU:[MODE_WATT=17.64]MPU:[MODE_PINPOIN
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 18.02788 (W) 
+    Voltage     ： 96.2 (V) 
+    Current		： 0.1874 (A)
+    Power Tolerance	： 80.2788 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+Start calibrating...
+2017/8/17 下午 04:43:33
+Checked mode SPRAY. 
+
+************************************************** 
+    Time        ： 2017/08/17 16:43
+    Mode		： SPRAY
+	Expext Power	： 10 (W)
+	Load		： 1000 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent RSB -> PC:[RELAY_CTRL_K1=1]
+Received RSB-> RSB:[RELAY_CTRL_K1=1]
+Sent RSB -> PC:[RELAY_CTRL_K2=0]
+Received RSB-> RSB:[RELAY_CTRL_K2=0]
+Sent RSB -> PC:[RELAY_CTRL_K3=1]
+Received RSB-> RSB:[RELAY_CTRL_K3=1]
+Sent RSB -> PC:[RELAY_CTRL_K4=0]
+Received RSB-> RSB:[RELAY_CTRL_K4=0]
+Sent RSB -> PC:[RELAY_CTRL_K5=0]
+Received RSB-> RSB:[RELAY_CTRL_K5=0]
+Sent RSB -> PC:[RELAY_CTRL_K6=1]
+Received RSB-> RSB:[RELAY_CTRL_K6=1]
+Sent RSB -> PC:[RELAY_CTRL_K7=0]
+Received RSB-> RSB:[RELAY_CTRL_K7=0]
+Sent RSB -> PC:[RELAY_CHK_K1?]
+Received RSB-> RSB:[RELAY_CHK_K1=0]
+Sent RSB -> PC:[RELAY_CHK_K2?]
+Received RSB-> RSB:[RELAY_CHK_K2=1]
+Sent RSB -> PC:[RELAY_CHK_K3?]
+Received RSB-> RSB:[RELAY_CHK_K3=0]
+Sent RSB -> PC:[RELAY_CHK_K4?]
+Received RSB-> RSB:[RELAY_CHK_K4=1]
+Sent RSB -> PC:[RELAY_CHK_K5?]
+Received RSB-> RSB:[RELAY_CHK_K5=1]
+Sent RSB -> PC:[RELAY_CHK_K6?]
+Received RSB-> RSB:[RELAY_CHK_K6=0]
+Sent RSB -> PC:[RELAY_CHK_K7?]
+Received RSB-> RSB:[RELAY_CHK_K7=1]
+Sent E200 -> PC:[MODE_WATT=10]
+Sent E200 -> PC:[MODE_SPRAY=0]
+Received E200-> MPU:[M
+------------  Osilloscope Measurement  ------------ 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+NationalInstruments.VisaNS.VisaException: Unknown system error (miscellaneous error).  VISA error code -1073807360 (0xBFFF0000), ErrorSystemError
+   於 NationalInstruments.VisaNS.Internal.ErrorChecker.CheckStatusAndThrow(Int32 status, VisaHandle visaObject)
+   於 NationalInstruments.VisaNS.Session.CheckStatusAndThrow(Int32 status, Boolean setLastStatus)
+   於 NationalInstruments.VisaNS.Session.CheckStatusAndThrow(Int32 status)
+   於 NationalInstruments.VisaNS.Internal.MessageBasedSessionImpl.Write(String data)
+   於 NationalInstruments.VisaNS.MessageBasedSession.Write(String data)
+   於 NationalInstruments.VisaNS.MessageBasedSession.Query(String dataToWrite, Int32 countToRead)
+   於 NationalInstruments.VisaNS.MessageBasedSession.Query(String dataToWrite)
+   於 Csharp.Keysight.RMS_Get(UInt32 uiChannel) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13 - 複製\Csharp\Keysight.cs: 行 178
+   於 Csharp.MainForm.CalibStatus_OS_Measure(String[] sml, Int32 sml_select) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13 - 複製\Csharp\MainForm.cs: 行 1372
+Sent E200 -> PC:[MODE_DISABLE=0]
+OS connected. 
+System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 Csharp.MainForm.CalibStatus_OS_Measure(String[] sml, Int32 sml_select) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13 - 複製\Csharp\MainForm.cs: 行 1392
+    Power       ： 18.02788 (W) 
+    Voltage     ： 96.2 (V) 
+    Current		： 0.1874 (A)
+    Power Tolerance	： 80.2788 % 
+

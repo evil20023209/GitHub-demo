@@ -1,0 +1,265 @@
+O:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V12\Csharp\bin\Debug\Csharp.exe.config
+O:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V12\Csharp\obj\Debug\Csharp.exe
+O:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V12\Csharp\obj\Debug\Csharp.pdb
+O:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V12\Csharp\bin\Debug\Csharp.exe
+O:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V12\Csharp\bin\Debug\Csharp.pdb
+O:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V12\Csharp\bin\Debug\NationalInstruments.VisaNS.dll
+O:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V12\Csharp\obj\Debug\Csharp.csprojResolveAssemblyReference.cache
+O:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V12\Csharp\obj\Debug\Csharp.CalibForm2.resources
+O:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V12\Csharp\obj\Debug\Csharp.MainForm.resources
+O:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V12\Csharp\obj\Debug\Csharp.Properties.Resources.resources
+O:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V12\Csharp\obj\Debug\Csharp.csproj.GenerateResource.Cache
+O:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13\Csharp\bin\Debug\Csharp.exe.config
+O:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13\Csharp\obj\Debug\Csharp.exe
+O:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13\Csharp\obj\Debug\Csharp.pdb
+O:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13\Csharp\bin\Debug\Csharp.exe
+O:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13\Csharp\bin\Debug\Csharp.pdb
+O:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13\Csharp\bin\Debug\NationalInstruments.VisaNS.dll
+O:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13\Csharp\obj\Debug\Csharp.csprojResolveAssemblyReference.cache
+O:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13\Csharp\obj\Debug\Csharp.CalibForm2.resources
+O:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13\Csharp\obj\Debug\Csharp.MainForm.resources
+O:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13\Csharp\obj\Debug\Csharp.Properties.Resources.resources
+O:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13\Csharp\obj\Debug\Csharp.csproj.GenerateResource.Cache
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V14_300W\Csharp\bin\Debug\Csharp.exe.config
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V14_300W\Csharp\obj\Debug\Csharp.exe
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V14_300W\Csharp\obj\Debug\Csharp.pdb
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V14_300W\Csharp\bin\Debug\Csharp.exe
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V14_300W\Csharp\bin\Debug\Csharp.pdb
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V14_300W\Csharp\obj\Debug\Csharp.csprojResolveAssemblyReference.cache
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V14_300W\Csharp\obj\Debug\Csharp.CalibForm2.resources
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V14_300W\Csharp\obj\Debug\Csharp.MainForm.resources
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V14_300W\Csharp\obj\Debug\Csharp.Properties.Resources.resources
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V14_300W\Csharp\obj\Debug\Csharp.csproj.GenerateResource.Cache
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V14_300W\Csharp\bin\Debug\Csharp.exe.config
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V14_300W\Csharp\obj\Debug\Csharp.exe
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V14_300W\Csharp\obj\Debug\Csharp.pdb
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V15\Csharp\bin\Debug\Csharp.exe.config
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V15\Csharp\obj\Debug\Csharp.exe
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V15\Csharp\obj\Debug\Csharp.pdb
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V15\Csharp\bin\Debug\Csharp.exe
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V15\Csharp\bin\Debug\Csharp.pdb
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V15\Csharp\obj\Debug\Csharp.csprojResolveAssemblyReference.cache
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V15\Csharp\obj\Debug\Csharp.CalibForm2.resources
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V15\Csharp\obj\Debug\Csharp.MainForm.resources
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V15\Csharp\obj\Debug\Csharp.Properties.Resources.resources
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V15\Csharp\obj\Debug\Csharp.csproj.GenerateResource.Cache
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V16\Csharp\bin\Debug\Csharp.exe.config
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V16\Csharp\bin\Debug\Csharp.exe
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V16\Csharp\bin\Debug\Csharp.pdb
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V16\Csharp\obj\Debug\Csharp.CalibForm2.resources
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V16\Csharp\obj\Debug\Csharp.MainForm.resources
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V16\Csharp\obj\Debug\Csharp.Properties.Resources.resources
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V16\Csharp\obj\Debug\Csharp.csproj.GenerateResource.Cache
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V16\Csharp\obj\Debug\Csharp.exe
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V16\Csharp\obj\Debug\Csharp.pdb
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V16\Csharp\bin\Debug\Csharp.exe.config
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V16\Csharp\obj\Debug\Csharp.exe
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V16\Csharp\obj\Debug\Csharp.pdb
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V17\Csharp\bin\Debug\Csharp.exe.config
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V17\Csharp\bin\Debug\Csharp.exe
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V17\Csharp\bin\Debug\Csharp.pdb
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V17\Csharp\obj\Debug\Csharp.CalibForm2.resources
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V17\Csharp\obj\Debug\Csharp.MainForm.resources
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V17\Csharp\obj\Debug\Csharp.Properties.Resources.resources
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V17\Csharp\obj\Debug\Csharp.csproj.GenerateResource.Cache
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V17\Csharp\obj\Debug\Csharp.exe
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V17\Csharp\obj\Debug\Csharp.pdb
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V17\Csharp\bin\Debug\Csharp.exe.config
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V17\Csharp\obj\Debug\Csharp.exe
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V17\Csharp\obj\Debug\Csharp.pdb
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V17\Csharp\obj\Debug\Csharp.csprojResolveAssemblyReference.cache
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V18\Csharp\bin\Debug\Csharp.exe.config
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V18\Csharp\obj\Debug\Csharp.exe
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V18\Csharp\obj\Debug\Csharp.pdb
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V18\Csharp\bin\Debug\Csharp.exe
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V18\Csharp\bin\Debug\Csharp.pdb
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V18\Csharp\bin\Debug\Ivi.Visa.dll
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V18\Csharp\bin\Debug\NationalInstruments.Common.dll
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V18\Csharp\bin\Debug\NationalInstruments.VisaNS.dll
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V18\Csharp\obj\Debug\Csharp.csprojResolveAssemblyReference.cache
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V18\Csharp\obj\Debug\Csharp.CalibForm2.resources
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V18\Csharp\obj\Debug\Csharp.MainForm.resources
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V18\Csharp\obj\Debug\Csharp.Properties.Resources.resources
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V18\Csharp\obj\Debug\Csharp.csproj.GenerateResource.Cache
+D:\Sean.Lin\Desktop\C#\Csharp-V18\Csharp\bin\Debug\Csharp.exe.config
+D:\Sean.Lin\Desktop\C#\Csharp-V18\Csharp\bin\Debug\Csharp.exe
+D:\Sean.Lin\Desktop\C#\Csharp-V18\Csharp\bin\Debug\Csharp.pdb
+D:\Sean.Lin\Desktop\C#\Csharp-V18\Csharp\bin\Debug\Ivi.Visa.dll
+D:\Sean.Lin\Desktop\C#\Csharp-V18\Csharp\bin\Debug\NationalInstruments.Common.dll
+D:\Sean.Lin\Desktop\C#\Csharp-V18\Csharp\bin\Debug\NationalInstruments.VisaNS.dll
+D:\Sean.Lin\Desktop\C#\Csharp-V18\Csharp\obj\Debug\Csharp.csprojResolveAssemblyReference.cache
+D:\Sean.Lin\Desktop\C#\Csharp-V18\Csharp\obj\Debug\Csharp.CalibForm2.resources
+D:\Sean.Lin\Desktop\C#\Csharp-V18\Csharp\obj\Debug\Csharp.MainForm.resources
+D:\Sean.Lin\Desktop\C#\Csharp-V18\Csharp\obj\Debug\Csharp.Properties.Resources.resources
+D:\Sean.Lin\Desktop\C#\Csharp-V18\Csharp\obj\Debug\Csharp.csproj.GenerateResource.Cache
+D:\Sean.Lin\Desktop\C#\Csharp-V18\Csharp\obj\Debug\Csharp.exe
+D:\Sean.Lin\Desktop\C#\Csharp-V18\Csharp\obj\Debug\Csharp.pdb
+D:\Sean.Lin\Desktop\C#\Csharp-V18_20171018\Csharp\bin\Debug\Csharp.exe.config
+D:\Sean.Lin\Desktop\C#\Csharp-V18_20171018\Csharp\bin\Debug\Csharp.exe
+D:\Sean.Lin\Desktop\C#\Csharp-V18_20171018\Csharp\bin\Debug\Csharp.pdb
+D:\Sean.Lin\Desktop\C#\Csharp-V18_20171018\Csharp\bin\Debug\Ivi.Visa.dll
+D:\Sean.Lin\Desktop\C#\Csharp-V18_20171018\Csharp\bin\Debug\NationalInstruments.Common.dll
+D:\Sean.Lin\Desktop\C#\Csharp-V18_20171018\Csharp\bin\Debug\NationalInstruments.VisaNS.dll
+D:\Sean.Lin\Desktop\C#\Csharp-V18_20171018\Csharp\obj\Debug\Csharp.CalibForm2.resources
+D:\Sean.Lin\Desktop\C#\Csharp-V18_20171018\Csharp\obj\Debug\Csharp.MainForm.resources
+D:\Sean.Lin\Desktop\C#\Csharp-V18_20171018\Csharp\obj\Debug\Csharp.Properties.Resources.resources
+D:\Sean.Lin\Desktop\C#\Csharp-V18_20171018\Csharp\obj\Debug\Csharp.csproj.GenerateResource.Cache
+D:\Sean.Lin\Desktop\C#\Csharp-V18_20171018\Csharp\obj\Debug\Csharp.exe
+D:\Sean.Lin\Desktop\C#\Csharp-V18_20171018\Csharp\obj\Debug\Csharp.pdb
+D:\Sean.Lin\Desktop\C#\Csharp-V19_20171018\Csharp\bin\Debug\Csharp.exe.config
+D:\Sean.Lin\Desktop\C#\Csharp-V19_20171018\Csharp\bin\Debug\Csharp.exe
+D:\Sean.Lin\Desktop\C#\Csharp-V19_20171018\Csharp\bin\Debug\Csharp.pdb
+D:\Sean.Lin\Desktop\C#\Csharp-V19_20171018\Csharp\bin\Debug\Ivi.Visa.dll
+D:\Sean.Lin\Desktop\C#\Csharp-V19_20171018\Csharp\bin\Debug\NationalInstruments.Common.dll
+D:\Sean.Lin\Desktop\C#\Csharp-V19_20171018\Csharp\bin\Debug\NationalInstruments.VisaNS.dll
+D:\Sean.Lin\Desktop\C#\Csharp-V19_20171018\Csharp\obj\Debug\Csharp.csprojResolveAssemblyReference.cache
+D:\Sean.Lin\Desktop\C#\Csharp-V19_20171018\Csharp\obj\Debug\Csharp.CalibForm2.resources
+D:\Sean.Lin\Desktop\C#\Csharp-V19_20171018\Csharp\obj\Debug\Csharp.MainForm.resources
+D:\Sean.Lin\Desktop\C#\Csharp-V19_20171018\Csharp\obj\Debug\Csharp.Properties.Resources.resources
+D:\Sean.Lin\Desktop\C#\Csharp-V19_20171018\Csharp\obj\Debug\Csharp.csproj.GenerateResource.Cache
+D:\Sean.Lin\Desktop\C#\Csharp-V19_20171018\Csharp\obj\Debug\Csharp.exe
+D:\Sean.Lin\Desktop\C#\Csharp-V19_20171018\Csharp\obj\Debug\Csharp.pdb
+D:\Sean.Lin\Desktop\C#\Csharp-V19_20171019\Csharp\bin\Debug\Csharp.exe.config
+D:\Sean.Lin\Desktop\C#\Csharp-V19_20171019\Csharp\bin\Debug\Csharp.exe
+D:\Sean.Lin\Desktop\C#\Csharp-V19_20171019\Csharp\bin\Debug\Csharp.pdb
+D:\Sean.Lin\Desktop\C#\Csharp-V19_20171019\Csharp\bin\Debug\Ivi.Visa.dll
+D:\Sean.Lin\Desktop\C#\Csharp-V19_20171019\Csharp\bin\Debug\NationalInstruments.Common.dll
+D:\Sean.Lin\Desktop\C#\Csharp-V19_20171019\Csharp\bin\Debug\NationalInstruments.VisaNS.dll
+D:\Sean.Lin\Desktop\C#\Csharp-V19_20171019\Csharp\obj\Debug\Csharp.csprojResolveAssemblyReference.cache
+D:\Sean.Lin\Desktop\C#\Csharp-V19_20171019\Csharp\obj\Debug\Csharp.CalibForm2.resources
+D:\Sean.Lin\Desktop\C#\Csharp-V19_20171019\Csharp\obj\Debug\Csharp.MainForm.resources
+D:\Sean.Lin\Desktop\C#\Csharp-V19_20171019\Csharp\obj\Debug\Csharp.Properties.Resources.resources
+D:\Sean.Lin\Desktop\C#\Csharp-V19_20171019\Csharp\obj\Debug\Csharp.csproj.GenerateResource.Cache
+D:\Sean.Lin\Desktop\C#\Csharp-V19_20171019\Csharp\obj\Debug\Csharp.exe
+D:\Sean.Lin\Desktop\C#\Csharp-V19_20171019\Csharp\obj\Debug\Csharp.pdb
+D:\Sean.Lin\Desktop\C#\Csharp-V20_20171020\Csharp\bin\Debug\Csharp.exe.config
+D:\Sean.Lin\Desktop\C#\Csharp-V20_20171020\Csharp\bin\Debug\Csharp.exe
+D:\Sean.Lin\Desktop\C#\Csharp-V20_20171020\Csharp\bin\Debug\Csharp.pdb
+D:\Sean.Lin\Desktop\C#\Csharp-V20_20171020\Csharp\bin\Debug\Ivi.Visa.dll
+D:\Sean.Lin\Desktop\C#\Csharp-V20_20171020\Csharp\bin\Debug\NationalInstruments.Common.dll
+D:\Sean.Lin\Desktop\C#\Csharp-V20_20171020\Csharp\bin\Debug\NationalInstruments.VisaNS.dll
+D:\Sean.Lin\Desktop\C#\Csharp-V20_20171020\Csharp\obj\Debug\Csharp.CalibForm2.resources
+D:\Sean.Lin\Desktop\C#\Csharp-V20_20171020\Csharp\obj\Debug\Csharp.MainForm.resources
+D:\Sean.Lin\Desktop\C#\Csharp-V20_20171020\Csharp\obj\Debug\Csharp.Properties.Resources.resources
+D:\Sean.Lin\Desktop\C#\Csharp-V20_20171020\Csharp\obj\Debug\Csharp.csproj.GenerateResource.Cache
+D:\Sean.Lin\Desktop\C#\Csharp-V20_20171020\Csharp\obj\Debug\Csharp.exe
+D:\Sean.Lin\Desktop\C#\Csharp-V20_20171020\Csharp\obj\Debug\Csharp.pdb
+D:\Sean.Lin\Desktop\C#\Csharp-V21_20171023\Csharp\bin\Debug\Csharp.exe.config
+D:\Sean.Lin\Desktop\C#\Csharp-V21_20171023\Csharp\bin\Debug\Csharp.exe
+D:\Sean.Lin\Desktop\C#\Csharp-V21_20171023\Csharp\bin\Debug\Csharp.pdb
+D:\Sean.Lin\Desktop\C#\Csharp-V21_20171023\Csharp\bin\Debug\Ivi.Visa.dll
+D:\Sean.Lin\Desktop\C#\Csharp-V21_20171023\Csharp\bin\Debug\NationalInstruments.Common.dll
+D:\Sean.Lin\Desktop\C#\Csharp-V21_20171023\Csharp\bin\Debug\NationalInstruments.VisaNS.dll
+D:\Sean.Lin\Desktop\C#\Csharp-V21_20171023\Csharp\obj\Debug\Csharp.CalibForm2.resources
+D:\Sean.Lin\Desktop\C#\Csharp-V21_20171023\Csharp\obj\Debug\Csharp.MainForm.resources
+D:\Sean.Lin\Desktop\C#\Csharp-V21_20171023\Csharp\obj\Debug\Csharp.Properties.Resources.resources
+D:\Sean.Lin\Desktop\C#\Csharp-V21_20171023\Csharp\obj\Debug\Csharp.csproj.GenerateResource.Cache
+D:\Sean.Lin\Desktop\C#\Csharp-V21_20171023\Csharp\obj\Debug\Csharp.exe
+D:\Sean.Lin\Desktop\C#\Csharp-V21_20171023\Csharp\obj\Debug\Csharp.pdb
+D:\Sean.Lin\Desktop\C#\Csharp-V22_20171024\Csharp\bin\Debug\Csharp.exe.config
+D:\Sean.Lin\Desktop\C#\Csharp-V22_20171024\Csharp\bin\Debug\Csharp.exe
+D:\Sean.Lin\Desktop\C#\Csharp-V22_20171024\Csharp\bin\Debug\Csharp.pdb
+D:\Sean.Lin\Desktop\C#\Csharp-V22_20171024\Csharp\bin\Debug\Ivi.Visa.dll
+D:\Sean.Lin\Desktop\C#\Csharp-V22_20171024\Csharp\bin\Debug\NationalInstruments.Common.dll
+D:\Sean.Lin\Desktop\C#\Csharp-V22_20171024\Csharp\bin\Debug\NationalInstruments.VisaNS.dll
+D:\Sean.Lin\Desktop\C#\Csharp-V22_20171024\Csharp\obj\Debug\Csharp.CalibForm2.resources
+D:\Sean.Lin\Desktop\C#\Csharp-V22_20171024\Csharp\obj\Debug\Csharp.MainForm.resources
+D:\Sean.Lin\Desktop\C#\Csharp-V22_20171024\Csharp\obj\Debug\Csharp.Properties.Resources.resources
+D:\Sean.Lin\Desktop\C#\Csharp-V22_20171024\Csharp\obj\Debug\Csharp.csproj.GenerateResource.Cache
+D:\Sean.Lin\Desktop\C#\Csharp-V22_20171024\Csharp\obj\Debug\Csharp.exe
+D:\Sean.Lin\Desktop\C#\Csharp-V22_20171024\Csharp\obj\Debug\Csharp.pdb
+D:\Sean.Lin\Desktop\C#\Csharp-V23_20171026\Csharp\bin\Debug\Csharp.exe.config
+D:\Sean.Lin\Desktop\C#\Csharp-V23_20171026\Csharp\bin\Debug\Csharp.exe
+D:\Sean.Lin\Desktop\C#\Csharp-V23_20171026\Csharp\bin\Debug\Csharp.pdb
+D:\Sean.Lin\Desktop\C#\Csharp-V23_20171026\Csharp\bin\Debug\Ivi.Visa.dll
+D:\Sean.Lin\Desktop\C#\Csharp-V23_20171026\Csharp\bin\Debug\NationalInstruments.Common.dll
+D:\Sean.Lin\Desktop\C#\Csharp-V23_20171026\Csharp\bin\Debug\NationalInstruments.VisaNS.dll
+D:\Sean.Lin\Desktop\C#\Csharp-V23_20171026\Csharp\obj\Debug\Csharp.CalibForm2.resources
+D:\Sean.Lin\Desktop\C#\Csharp-V23_20171026\Csharp\obj\Debug\Csharp.MainForm.resources
+D:\Sean.Lin\Desktop\C#\Csharp-V23_20171026\Csharp\obj\Debug\Csharp.Properties.Resources.resources
+D:\Sean.Lin\Desktop\C#\Csharp-V23_20171026\Csharp\obj\Debug\Csharp.csproj.GenerateResource.Cache
+D:\Sean.Lin\Desktop\C#\Csharp-V23_20171026\Csharp\obj\Debug\Csharp.exe
+D:\Sean.Lin\Desktop\C#\Csharp-V23_20171026\Csharp\obj\Debug\Csharp.pdb
+D:\Sean.Lin\Desktop\C#\Csharp-V24_20171027\Csharp\bin\Debug\Csharp.exe.config
+D:\Sean.Lin\Desktop\C#\Csharp-V24_20171027\Csharp\bin\Debug\Csharp.exe
+D:\Sean.Lin\Desktop\C#\Csharp-V24_20171027\Csharp\bin\Debug\Csharp.pdb
+D:\Sean.Lin\Desktop\C#\Csharp-V24_20171027\Csharp\bin\Debug\Ivi.Visa.dll
+D:\Sean.Lin\Desktop\C#\Csharp-V24_20171027\Csharp\bin\Debug\NationalInstruments.Common.dll
+D:\Sean.Lin\Desktop\C#\Csharp-V24_20171027\Csharp\bin\Debug\NationalInstruments.VisaNS.dll
+D:\Sean.Lin\Desktop\C#\Csharp-V24_20171027\Csharp\obj\Debug\Csharp.csprojResolveAssemblyReference.cache
+D:\Sean.Lin\Desktop\C#\Csharp-V24_20171027\Csharp\obj\Debug\Csharp.CalibForm2.resources
+D:\Sean.Lin\Desktop\C#\Csharp-V24_20171027\Csharp\obj\Debug\Csharp.MainForm.resources
+D:\Sean.Lin\Desktop\C#\Csharp-V24_20171027\Csharp\obj\Debug\Csharp.Properties.Resources.resources
+D:\Sean.Lin\Desktop\C#\Csharp-V24_20171027\Csharp\obj\Debug\Csharp.csproj.GenerateResource.Cache
+D:\Sean.Lin\Desktop\C#\Csharp-V24_20171027\Csharp\obj\Debug\Csharp.exe
+D:\Sean.Lin\Desktop\C#\Csharp-V24_20171027\Csharp\obj\Debug\Csharp.pdb
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V25_20171030\Csharp\bin\Debug\Csharp.exe.config
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V25_20171030\Csharp\bin\Debug\Csharp.exe
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V25_20171030\Csharp\bin\Debug\Csharp.pdb
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V25_20171030\Csharp\bin\Debug\Ivi.Visa.dll
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V25_20171030\Csharp\bin\Debug\NationalInstruments.Common.dll
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V25_20171030\Csharp\bin\Debug\NationalInstruments.VisaNS.dll
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V25_20171030\Csharp\obj\Debug\Csharp.csprojResolveAssemblyReference.cache
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V25_20171030\Csharp\obj\Debug\Csharp.CalibForm2.resources
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V25_20171030\Csharp\obj\Debug\Csharp.MainForm.resources
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V25_20171030\Csharp\obj\Debug\Csharp.Properties.Resources.resources
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V25_20171030\Csharp\obj\Debug\Csharp.csproj.GenerateResource.Cache
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V25_20171030\Csharp\obj\Debug\Csharp.exe
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V25_20171030\Csharp\obj\Debug\Csharp.pdb
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V25_20171030\Csharp\bin\Debug\Csharp.exe.config
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V25_20171030\Csharp\bin\Debug\Csharp.exe
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V25_20171030\Csharp\bin\Debug\Csharp.pdb
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V25_20171030\Csharp\obj\Debug\Csharp.CalibForm2.resources
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V25_20171030\Csharp\obj\Debug\Csharp.MainForm.resources
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V25_20171030\Csharp\obj\Debug\Csharp.Properties.Resources.resources
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V25_20171030\Csharp\obj\Debug\Csharp.csproj.GenerateResource.Cache
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V25_20171030\Csharp\obj\Debug\Csharp.exe
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V25_20171030\Csharp\obj\Debug\Csharp.pdb
+D:\Sean.lin\Desktop\C#\Csharp-V25_20171030\Csharp\bin\Debug\Csharp.exe.config
+D:\Sean.lin\Desktop\C#\Csharp-V25_20171030\Csharp\bin\Debug\Csharp.exe
+D:\Sean.lin\Desktop\C#\Csharp-V25_20171030\Csharp\bin\Debug\Csharp.pdb
+D:\Sean.lin\Desktop\C#\Csharp-V25_20171030\Csharp\bin\Debug\Ivi.Visa.dll
+D:\Sean.lin\Desktop\C#\Csharp-V25_20171030\Csharp\bin\Debug\NationalInstruments.Common.dll
+D:\Sean.lin\Desktop\C#\Csharp-V25_20171030\Csharp\bin\Debug\NationalInstruments.VisaNS.dll
+D:\Sean.lin\Desktop\C#\Csharp-V25_20171030\Csharp\obj\Debug\Csharp.CalibForm2.resources
+D:\Sean.lin\Desktop\C#\Csharp-V25_20171030\Csharp\obj\Debug\Csharp.MainForm.resources
+D:\Sean.lin\Desktop\C#\Csharp-V25_20171030\Csharp\obj\Debug\Csharp.Properties.Resources.resources
+D:\Sean.lin\Desktop\C#\Csharp-V25_20171030\Csharp\obj\Debug\Csharp.csproj.GenerateResource.Cache
+D:\Sean.lin\Desktop\C#\Csharp-V25_20171030\Csharp\obj\Debug\Csharp.exe
+D:\Sean.lin\Desktop\C#\Csharp-V25_20171030\Csharp\obj\Debug\Csharp.pdb
+D:\Sean.lin\Desktop\C#\Csharp-V26_20171102\Csharp\bin\Debug\Csharp.exe.config
+D:\Sean.lin\Desktop\C#\Csharp-V26_20171102\Csharp\bin\Debug\Csharp.exe
+D:\Sean.lin\Desktop\C#\Csharp-V26_20171102\Csharp\bin\Debug\Csharp.pdb
+D:\Sean.lin\Desktop\C#\Csharp-V26_20171102\Csharp\bin\Debug\Ivi.Visa.dll
+D:\Sean.lin\Desktop\C#\Csharp-V26_20171102\Csharp\bin\Debug\NationalInstruments.Common.dll
+D:\Sean.lin\Desktop\C#\Csharp-V26_20171102\Csharp\bin\Debug\NationalInstruments.VisaNS.dll
+D:\Sean.lin\Desktop\C#\Csharp-V26_20171102\Csharp\obj\Debug\Csharp.csprojResolveAssemblyReference.cache
+D:\Sean.lin\Desktop\C#\Csharp-V26_20171102\Csharp\obj\Debug\Csharp.CalibForm2.resources
+D:\Sean.lin\Desktop\C#\Csharp-V26_20171102\Csharp\obj\Debug\Csharp.MainForm.resources
+D:\Sean.lin\Desktop\C#\Csharp-V26_20171102\Csharp\obj\Debug\Csharp.Properties.Resources.resources
+D:\Sean.lin\Desktop\C#\Csharp-V26_20171102\Csharp\obj\Debug\Csharp.csproj.GenerateResource.Cache
+D:\Sean.lin\Desktop\C#\Csharp-V26_20171102\Csharp\obj\Debug\Csharp.exe
+D:\Sean.lin\Desktop\C#\Csharp-V26_20171102\Csharp\obj\Debug\Csharp.pdb
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V26_20171102\Csharp\bin\Debug\Csharp.exe.config
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V26_20171102\Csharp\bin\Debug\Csharp.exe
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V26_20171102\Csharp\bin\Debug\Csharp.pdb
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V26_20171102\Csharp\obj\Debug\Csharp.CalibForm2.resources
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V26_20171102\Csharp\obj\Debug\Csharp.MainForm.resources
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V26_20171102\Csharp\obj\Debug\Csharp.Properties.Resources.resources
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V26_20171102\Csharp\obj\Debug\Csharp.csproj.GenerateResource.Cache
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V26_20171102\Csharp\obj\Debug\Csharp.exe
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V26_20171102\Csharp\obj\Debug\Csharp.pdb
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V26_20171102\Csharp\bin\Debug\Csharp.exe.config
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V26_20171102\Csharp\obj\Debug\Csharp.exe
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V26_20171102\Csharp\obj\Debug\Csharp.pdb
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V26_20171102\Csharp\bin\Debug\Csharp.exe
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V26_20171102\Csharp\bin\Debug\Csharp.pdb
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V26_20171102\Csharp\bin\Debug\Ivi.Visa.dll
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V26_20171102\Csharp\bin\Debug\NationalInstruments.Common.dll
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V26_20171102\Csharp\bin\Debug\NationalInstruments.VisaNS.dll
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V26_20171102\Csharp\obj\Debug\Csharp.csprojResolveAssemblyReference.cache
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V26_20171102\Csharp\obj\Debug\Csharp.CalibForm2.resources
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V26_20171102\Csharp\obj\Debug\Csharp.MainForm.resources
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V26_20171102\Csharp\obj\Debug\Csharp.Properties.Resources.resources
+\\172.16.7.22\Entry\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V26_20171102\Csharp\obj\Debug\Csharp.csproj.GenerateResource.Cache
+O:\研發處\研發二部\電子一課\Simon\[04]E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\old code\Csharp-V26_20171102\Csharp\obj\Debug\Csharp.csprojResolveAssemblyReference.cache

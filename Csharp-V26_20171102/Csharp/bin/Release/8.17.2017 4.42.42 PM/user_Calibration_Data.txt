@@ -1,0 +1,21 @@
+2017/8/17 下午 04:42:42
+Connected COM11.
+Connectecd E200.
+OS connected. 
+Connected COM12.
+False to connect RSB.
+
+Connected COM6.
+Connectecd RSB.
+Start calibrating...
+2017/8/17 下午 04:43:10
+[ PINPOINT 10W ] 
+Pass counter: 3
+Fail counter: 1
+Total counter: 4
+Result:10W pass 
+Start calibrating...
+2017/8/17 下午 04:43:28
+Start calibrating...
+2017/8/17 下午 04:43:33
+OS connected. 

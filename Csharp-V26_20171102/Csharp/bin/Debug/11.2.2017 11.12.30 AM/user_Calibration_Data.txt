@@ -1,0 +1,9 @@
+2017/11/2 ¤W¤È 11:12:30
+OS connected. 
+Connected COM4.
+False to connect E200.
+
+Connected COM3.
+Connectecd E200.
+Connected COM4.
+Connectecd RSB.

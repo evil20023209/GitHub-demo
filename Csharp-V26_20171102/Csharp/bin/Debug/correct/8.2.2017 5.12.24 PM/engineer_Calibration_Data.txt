@@ -1,0 +1,3435 @@
+2017/8/2 下午 05:12:24
+O:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V7\Csharp\bin\Debug\8.2.2017 5.12.24 PM
+
+Connecting COM4...
+COM4 Opened.
+Connected COM4.
+
+Connecting E200...
+Sent -> PC:[MODE_WATT=0]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MODE_WATT=9.75]MPU:[MODE_PURE=0.00]
+Received-> MPU:[MODE_WATT=9.75]MPU:[MODE_PURE=0.00]
+OS connected. 
+Sent -> PC:[MODE_DISABLE=0]
+Connected E200./nE200 connected.
+
+2017/8/2 下午 05:12:34
+Checked mode PURE, BLEND1. 
+
+Start Calibrate...
+************************************************** 
+    Time        ： 2017/08/02 17:12
+    Mode		： PURE
+	Expext Power	： 10 (W)
+	Load		：  (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent -> PC:[MODE_WATT=10]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU
+Received-> MPU:[MODE_WATT=19.62]MPU:[MODE_PURE=29.92]
+Received-> MPU:[MODE_WATT=19.62]MPU:[MODE_PURE=29.92]
+Received-> MPU:[MODE_WATT=19.62]MPU:[MODE_PURE=29.92]
+Received-> MPU:[MODE_WATT=19.62]MPU:[MODE_PURE=29.92]
+Received-> MPU:[MODE_WATT=19.62]MPU:[MODE_PURE=29.92]
+Received-> MPU:[MODE_WATT=19.62]MPU:[MODE_PURE=29.92]
+Received-> MPU:[MODE_WATT=19.62]MPU:[MODE_PURE=29.92]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 14.81778 (W) 
+    Voltage     ： 86.2 (V) 
+    Current		： 0.1719 (A)
+    Power Tolerance	： 0 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=5.68222]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[
+Received-> MPU:[MODE_WATT=
+Received-> MPU:[MODE_WATT=15.36]MPU:[MODE_PURE=23
+Received-> MPU:[MODE_WATT=15.36]MPU:[MODE_PURE=23
+Received-> MPU:[MODE_WATT=15.36]MPU:[MODE_PURE=23.44]
+Received-> MPU:[MODE_WATT=15.36]MPU:[MODE_PURE=23.44]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 8.586 (W) 
+    Voltage     ： 64.8 (V) 
+    Current		： 0.1325 (A)
+    Power Tolerance	： 48.1778 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=7.09622]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MO
+Received-> MPU:[MODE_WATT=16.76]MPU:[MODE_PURE=25.83]
+Received-> MPU:[MODE_WATT=16.76]MPU:[MODE_PURE=25.83]
+Received-> MPU:[MODE_WATT=16.76]MPU:[MODE_PURE=25.83]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 10.90764 (W) 
+    Voltage     ： 73.8 (V) 
+    Current		： 0.1478 (A)
+    Power Tolerance	： -14.14 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=6.68858]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[
+Received-> MPU:[MODE_WATT=16.35]MPU:[MODE_PURE=25.17]
+Received-> MPU:[MODE_WATT=16.35]MPU:[MODE_PURE=25.17]
+Received-> MPU:[MODE_WATT=16.35]MPU:[MODE_PURE=25.17]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 10.49073 (W) 
+    Voltage     ： 72.3 (V) 
+    Current		： 0.1451 (A)
+    Power Tolerance	： 9.07639999999999 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=6.68858]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[
+Received-> MPU:[MODE_WATT=16.35]MPU:[MODE_PURE=25.17]
+Received-> MPU:[MODE_WATT=16.35]MPU:[MODE_PURE=25.17]
+Received-> MPU:[MODE_WATT=16.35]MPU:[MODE_PURE=25.17]
+Received-> MPU:[MODE_WATT=16.35]MPU:[MODE_PURE=25.17]
+Received-> MPU:[MODE_WATT=16.35]MPU:[MODE_PURE=25.17]
+Received-> MPU:[MODE_WATT=16.35]MPU:[MODE_PURE=25.17]
+Received-> MPU:[MODE_WATT=16.35]MPU:[MODE_PURE=25.17]
+Received-> MPU:[MODE_WATT=16.35]MPU:[MODE_PURE=25.17]
+Received-> MPU:[MODE_WATT=16.35]MPU:[MODE_PURE=25.17]
+Received-> MPU:[MODE_WATT=16.35]MPU:[MODE_PURE=25.17]
+Received-> MPU:[MODE_WATT=16.35]MPU:[MODE_PURE=25.17]
+Received-> MPU:[MODE_WATT=16.35]MPU:[MODE_PURE=25.17]
+Received-> MPU:[MODE_WATT=16.35]MPU:[MODE_PURE=25.17]
+Received-> MPU:[MODE_WATT=16.35]MPU:[MODE_PURE=25.17]
+Received-> MPU:[MODE_WATT=16.35]MPU:[MODE_PURE=25.17]
+Received-> MPU:[MODE_WATT=16.35]MPU:[MODE_PURE=25.17]
+Received-> MPU:[MODE_WATT=16.35]MPU:[MODE_PURE=25.17]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 10.4835 (W) 
+    Voltage     ： 72.3 (V) 
+    Current		： 0.145 (A)
+    Power Tolerance	： 4.90729999999999 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=6.68858]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[M
+Received-> MPU:[MODE_WATT=16.35]MPU:[MODE_PURE=25.17]
+Received-> MPU:[MODE_WATT=16.35]MPU:[MODE_PURE=25.17]
+Received-> MPU:[MODE_WATT=16.35]MPU:[MODE_PURE=25.17]
+Received-> MPU:[MODE_WATT=16.35]MPU:[MODE_PURE=25.17]
+Received-> MPU:[MODE_WATT=16.35]MPU:[MODE_PURE=25.17]
+Received-> MPU:[MODE_WATT=16.35]MPU:[MODE_PURE=25.17]
+Received-> MPU:[MODE_WATT=16.35]MPU:[MODE_PURE=25.17]
+Received-> MPU:[MODE_WATT=16.35]MPU:[MODE_PURE=25.17]
+Received-> MPU:[MODE_WATT=16.35]MPU:[MODE_PURE=25.17]
+Received-> MPU:[MODE_WATT=16.35]MPU:[MODE_PURE=25.17]
+Received-> MPU:[MODE_WATT=16.35]MPU:[MODE_PURE=25.17]
+Received-> MPU:[MODE_WATT=16.35]MPU:[MODE_PURE=25.17]
+Received-> MPU:[MODE_WATT=16.35]MPU:[MODE_PURE=25.17]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 10.49796 (W) 
+    Voltage     ： 72.3 (V) 
+    Current		： 0.1452 (A)
+    Power Tolerance	： 4.83499999999999 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/08/02 17:12
+  Mode		： PURE
+	Expext Power	： 20 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent -> PC:[MODE_WATT=20]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MODE
+Received-> MPU:[MODE_WATT=
+Received-> MPU:[MODE_WATT=29.50]MPU:[MODE_PURE=42.92]
+Received-> MPU:[MODE_WATT=29.50]MPU:[MODE_PURE=42.92]
+Received-> MPU:[MODE_WATT=29.50]MPU:[MODE_PURE=42.92]
+Received-> MPU:[MODE_WATT=29.50]MPU:[MODE_PURE=42.92]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 20.02991 (W) 
+    Voltage     ： 100.3 (V) 
+    Current		： 0.1997 (A)
+    Power Tolerance	： 4.97959999999999 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=20]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MOD
+Received-> MPU:[MODE_WATT=29.50
+Received-> MPU:[MODE_WATT=29.50
+Received-> MPU:[MODE_WATT=29.50]MPU:[MODE_PURE=42.92]
+Received-> MPU:[MODE_WATT=29.50]MPU:[MODE_PURE=42.92]
+Received-> MPU:[MODE_WATT=29.50]MPU:[MODE_PURE=42.92]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 20.08006 (W) 
+    Voltage     ： 100.3 (V) 
+    Current		： 0.2002 (A)
+    Power Tolerance	： 0.149549999999987 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=20]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU
+Received-> MPU:[MODE_WATT=29.50]MPU:[MODE_PURE=42.92]
+Received-> MPU:[MODE_WATT=29.50]MPU:[MODE_PURE=42.92]
+Received-> MPU:[MODE_WATT=29.50]MPU:[MODE_PURE=42.92]
+Received-> MPU:[MODE_WATT=29.50]MPU:[MODE_PURE=42.92]
+Received-> MPU:[MODE_WATT=29.50]MPU:[MODE_PURE=42.92]
+Received-> MPU:[MODE_WATT=29.50]MPU:[MODE_PURE=42.92]
+Received-> MPU:[MODE_WATT=29.50]MPU:[MODE_PURE=42.92]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 20.09009 (W) 
+    Voltage     ： 100.3 (V) 
+    Current		： 0.2003 (A)
+    Power Tolerance	： 0.400299999999998 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/08/02 17:13
+  Mode		： PURE
+	Expext Power	： 30 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent -> PC:[MODE_WATT=30]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[
+Received-> MPU:[MOD
+Received-> MPU:[MODE_WATT=39.79]MPU:[MODE_PURE=53.41]
+Received-> MPU:[MODE_WATT=39.79]MPU:[MODE_PURE=53.41]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 31.85286 (W) 
+    Voltage     ： 126.3 (V) 
+    Current		： 0.2522 (A)
+    Power Tolerance	： 0.45045 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=29.64714]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:
+Received-> MPU:[MODE_WATT=39.43]MPU:[MODE_PURE=53.14]
+Received-> MPU:[MODE_WATT=39.43]MPU:[MODE_PURE=53.14]
+Received-> MPU:[MODE_WATT=39.43]MPU:[MODE_PURE=53.14]
+Received-> MPU:[MODE_WATT=39.43]MPU:[MODE_PURE=53.14]
+Received-> MPU:[MODE_WATT=39.43]MPU:[MODE_PURE=53.14]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 31.89075 (W) 
+    Voltage     ： 126.3 (V) 
+    Current		： 0.2525 (A)
+    Power Tolerance	： 6.17619999999999 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=29.25639]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[M
+Received-> MPU:[MODE_WATT=39.03]MPU:[MODE_PURE=52.83]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 31.23729 (W) 
+    Voltage     ： 125.3 (V) 
+    Current		： 0.2493 (A)
+    Power Tolerance	： 6.3025 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=29.25639]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU
+Received-> MPU:[MODE_WATT=39.03]MPU:[MODE_PURE=52.83]
+Received-> MPU:[MODE_WATT=39.03]MPU:[MODE_PURE=52.83]
+Received-> MPU:[MODE_WATT=39.03]MPU:[MODE_PURE=52.83]
+Received-> MPU:[MODE_WATT=39.03]MPU:[MODE_PURE=52.83]
+Received-> MPU:[MODE_WATT=39.03]MPU:[MODE_PURE=52.83]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 31.2 (W) 
+    Voltage     ： 125 (V) 
+    Current		： 0.2496 (A)
+    Power Tolerance	： 4.12429999999999 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=29.25639]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MODE_WATT=39.03]MPU:[MODE_PURE=52.83]
+Received-> MPU:[MODE_WATT=39.03]MPU:[MODE_PURE=52.83]
+Received-> MPU:[MODE_WATT=39.03]MPU:[MODE_PURE=52.83]
+Received-> MPU:[MODE_WATT=39.03]MPU:[MODE_PURE=52.83]
+Received-> MPU:[MODE_WATT=39.03]MPU:[MODE_PURE=52.83]
+Received-> MPU:[MODE_WATT=39.03]MPU:[MODE_PURE=52.83]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 31.1875 (W) 
+    Voltage     ： 125 (V) 
+    Current		： 0.2495 (A)
+    Power Tolerance	： 4 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/08/02 17:13
+  Mode		： PURE
+	Expext Power	： 40 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent -> PC:[MODE_WATT=40]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MODE_WATT=52.95]MPU:[MODE_PURE=
+Received-> MPU:[MODE_WATT=52.95]MPU:[MODE_PURE=60.40]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 42.10794 (W) 
+    Voltage     ： 145.3 (V) 
+    Current		： 0.2898 (A)
+    Power Tolerance	： 3.95833333333333 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=39.89206]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[M
+Received-> MPU:[MODE_WATT=52.81]MPU:[MODE_PURE=60.33]
+Received-> MPU:[MODE_WATT=52.81]MPU:[MODE_PURE=60.33]
+Received-> MPU:[MODE_WATT=52.81]MPU:[MODE_PURE=60.33]
+Received-> MPU:[MODE_WATT=52.81]MPU:[MODE_PURE=60.33]
+Received-> MPU:[MODE_WATT=52.81]MPU:[MODE_PURE=60.33]
+Received-> MPU:[MODE_WATT=52.81]MPU:[MODE_PURE=60.33]
+Received-> MPU:[MODE_WATT=52.81]MPU:[MODE_PURE=60.33]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 41.5008 (W) 
+    Voltage     ： 144.1 (V) 
+    Current		： 0.288 (A)
+    Power Tolerance	： 5.26985000000002 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=39.89206]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MODE_WATT=52.81]MPU:[MODE_PURE=60.33]
+Received-> MPU:[MODE_WATT=52.81]MPU:[MODE_PURE=60.33]
+Received-> MPU:[MODE_WATT=52.81]MPU:[MODE_PURE=60.33]
+Received-> MPU:[MODE_WATT=52.81]MPU:[MODE_PURE=60.33]
+Received-> MPU:[MODE_WATT=52.81]MPU:[MODE_PURE=60.33]
+Received-> MPU:[MODE_WATT=52.81]MPU:[MODE_PURE=60.33]
+Received-> MPU:[MODE_WATT=52.81]MPU:[MODE_PURE=60.33]
+Received-> MPU:[MODE_WATT=52.81]MPU:[MODE_PURE=60.33]
+Received-> MPU:[MODE_WATT=52.81]MPU:[MODE_PURE=60.33]
+Received-> MPU:[MODE_WATT=52.81]MPU:[MODE_PURE=60.33]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 42.26768 (W) 
+    Voltage     ： 145.6 (V) 
+    Current		： 0.2903 (A)
+    Power Tolerance	： 3.752 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=39.62438]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MODE_WATT=52.46]MPU:[MODE_PURE=60.16]
+Received-> MPU:[MODE_WATT=52.46]MPU:[MODE_PURE=60.16]
+Received-> MPU:[MODE_WATT=52.46]MPU:[MODE_PURE=60.16]
+Received-> MPU:[MODE_WATT=52.46]MPU:[MODE_PURE=60.16]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 41.44316 (W) 
+    Voltage     ： 144.1 (V) 
+    Current		： 0.2876 (A)
+    Power Tolerance	： 5.6692 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=39.62438]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MODE_WATT=52.46]MPU:[MODE_PURE=60.16]
+Received-> MPU:[MODE_WATT=52.46]MPU:[MODE_PURE=60.16]
+Received-> MPU:[MODE_WATT=52.46]MPU:[MODE_PURE=60.16]
+Received-> MPU:[MODE_WATT=52.46]MPU:[MODE_PURE=60.16]
+Received-> MPU:[MODE_WATT=52.46]MPU:[MODE_PURE=60.16]
+Received-> MPU:[MODE_WATT=52.46]MPU:[MODE_PURE=60.16]
+Received-> MPU:[MODE_WATT=52.46]MPU:[MODE_PURE=60.16]
+Received-> MPU:[MODE_WATT=52.46]MPU:[MODE_PURE=60.16]
+Received-> MPU:[MODE_WATT=52.46]MPU:[MODE_PURE=60.16]
+Received-> MPU:[MODE_WATT=52.46]MPU:[MODE_PURE=60.16]
+Received-> MPU:[MODE_WATT=52.46]MPU:[MODE_PURE=60.16]
+Received-> MPU:[MODE_WATT=52.46]MPU:[MODE_PURE=60.16]
+Received-> MPU:[MODE_WATT=52.46]MPU:[MODE_PURE=60.16]
+Received-> MPU:[MODE_WATT=52.46]MPU:[MODE_PURE=60.16]
+Received-> MPU:[MODE_WATT=52.46]MPU:[MODE_PURE=60.16]
+Received-> MPU:[MODE_WATT=52.46]MPU:[MODE_PURE=60.16]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 41.39993 (W) 
+    Voltage     ： 144.1 (V) 
+    Current		： 0.2873 (A)
+    Power Tolerance	： 3.6079 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=39.62438]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MODE_WATT=52.46]MPU:[MODE_PURE=60.16]
+Received-> MPU:[MODE_WATT=52.46]MPU:[MODE_PURE=60.16]
+Received-> MPU:[MODE_WATT=52.46]MPU:[MODE_PURE=60.16]
+Received-> MPU:[MODE_WATT=52.46]MPU:[MODE_PURE=60.16]
+Received-> MPU:[MODE_WATT=52.46]MPU:[MODE_PURE=60.16]
+Received-> MPU:[MODE_WATT=52.46]MPU:[MODE_PURE=60.16]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 42.38416 (W) 
+    Voltage     ： 145.6 (V) 
+    Current		： 0.2911 (A)
+    Power Tolerance	： 3.49982499999999 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=39.24022]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MODE_WATT=51.95]MPU:[MODE_PURE=59.91]
+Received-> MPU:[MODE_WATT=51.95]MPU:[MODE_PURE=59.91]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 40.75508 (W) 
+    Voltage     ： 142.9 (V) 
+    Current		： 0.2852 (A)
+    Power Tolerance	： 5.9604 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=39.24022]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MODE_WATT=51.95]MPU:[MODE_PURE=59.91]
+Received-> MPU:[MODE_WATT=51.95]MPU:[MODE_PURE=59.91]
+Received-> MPU:[MODE_WATT=51.95]MPU:[MODE_PURE=59.91]
+Received-> MPU:[MODE_WATT=51.95]MPU:[MODE_PURE=59.91]
+Received-> MPU:[MODE_WATT=51.95]MPU:[MODE_PURE=59.91]
+Received-> MPU:[MODE_WATT=51.95]MPU:[MODE_PURE=59.91]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 40.78366 (W) 
+    Voltage     ： 142.9 (V) 
+    Current		： 0.2854 (A)
+    Power Tolerance	： 1.8877 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=39.24022]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU
+Received-> MPU:[MODE_WATT=51.95]MPU:[MODE_PURE=59.91]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 41.48634 (W) 
+    Voltage     ： 144.2 (V) 
+    Current		： 0.2877 (A)
+    Power Tolerance	： 1.95914999999999 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/08/02 17:13
+  Mode		： PURE
+	Expext Power	： 50 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent -> PC:[MODE_WATT=50]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[M
+Received-> MPU:[MODE_WATT=65.81]MPU:[MODE_PURE=66.32]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 54.38402 (W) 
+    Voltage     ： 164.9 (V) 
+    Current		： 0.3298 (A)
+    Power Tolerance	： 3.71585 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=48.11598]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MODE_WATT=63.
+Received-> MPU:[MODE_WATT=63.39]MPU:[MODE_PURE=65.26]
+Received-> MPU:[MODE_WATT=63.39]MPU:[MODE_PURE=65.26]
+Received-> MPU:[MODE_WATT=63.39]MPU:[MODE_PURE=65.26]
+Received-> MPU:[MODE_WATT=63.39]MPU:[MODE_PURE=65.26]
+Received-> MPU:[MODE_WATT=63.39]MPU:[MODE_PURE=65.26]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 51.76147 (W) 
+    Voltage     ： 160.7 (V) 
+    Current		： 0.3221 (A)
+    Power Tolerance	： 8.76804 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=48.11598]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[
+Received-> MPU:[MODE_WATT=63.39]MPU:[MODE_PURE=65.26]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 52.60145 (W) 
+    Voltage     ： 162.1 (V) 
+    Current		： 0.3245 (A)
+    Power Tolerance	： 3.52293999999999 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=48.01453]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:
+Received-> MPU:[MODE_WATT=63.26]MPU:[MODE_PURE=65.21]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 52.13108 (W) 
+    Voltage     ： 162.2 (V) 
+    Current		： 0.3214 (A)
+    Power Tolerance	： 5.2029 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=48.01453]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MODE_WATT=63.26]MPU:[MODE_PURE=65.21]
+Received-> MPU:[MODE_WATT=63.26]MPU:[MODE_PURE=65.21]
+Received-> MPU:[MODE_WATT=63.26]MPU:[MODE_PURE=65.21]
+Received-> MPU:[MODE_WATT=63.26]MPU:[MODE_PURE=65.21]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 51.84198 (W) 
+    Voltage     ： 161.1 (V) 
+    Current		： 0.3218 (A)
+    Power Tolerance	： 4.26215999999999 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=48.01453]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MO
+Received-> MPU:[MODE_WATT=63.26]MPU:[MODE_PURE=65.21]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 52.325 (W) 
+    Voltage     ： 162.5 (V) 
+    Current		： 0.322 (A)
+    Power Tolerance	： 3.68395999999998 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/08/02 17:13
+  Mode		： PURE
+	Expext Power	： 60 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent -> PC:[MODE_WATT=60]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MODE_WATT=77.16]MPU:[MODE_PURE=71.49]
+Received-> MPU:[MODE_WATT=77.16]MPU:[MODE_PURE=71.49]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 65.46765 (W) 
+    Voltage     ： 181.1 (V) 
+    Current		： 0.3615 (A)
+    Power Tolerance	： 4.65000000000001 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=57.53235]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MODE_WATT=74.36]MPU:[MODE_PURE=70.27]
+Received-> MPU:[MODE_WATT=74.36]MPU:[MODE_PURE=70.27]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 63.36798 (W) 
+    Voltage     ： 178.1 (V) 
+    Current		： 0.3558 (A)
+    Power Tolerance	： 9.11274999999999 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=57.16437]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MODE_WATT=73.94]MPU:[MODE_PURE=70.08]
+Received-> MPU:[MODE_WATT=73.94]MPU:[MODE_PURE=70.08]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 63.5104 (W) 
+    Voltage     ： 178.4 (V) 
+    Current		： 0.356 (A)
+    Power Tolerance	： 5.61329999999999 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=56.65397]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU
+Received-> MPU:[
+Received-> MPU:[MODE_WATT=73.36]MPU:[MODE_PURE=69.83]
+Received-> MPU:[MODE_WATT=73.36]MPU:[MODE_PURE=69.83]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 62.41032 (W) 
+    Voltage     ： 176.9 (V) 
+    Current		： 0.3528 (A)
+    Power Tolerance	： 5.85066666666666 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=56.65397]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:
+Received-> MPU:[MODE_WATT=73.36]MPU:[MODE_PURE=69.83]
+Received-> MPU:[MODE_WATT=73.36]MPU:[MODE_PURE=69.83]
+Received-> MPU:[MODE_WATT=73.36]MPU:[MODE_PURE=69.83]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 61.4777 (W) 
+    Voltage     ： 175.4 (V) 
+    Current		： 0.3505 (A)
+    Power Tolerance	： 4.01720000000001 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=56.65397]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[
+Received-> MPU:[MODE_WATT=73.36]MPU:[MODE_PURE=69.83]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 62.49877 (W) 
+    Voltage     ： 176.9 (V) 
+    Current		： 0.3533 (A)
+    Power Tolerance	： 2.46283333333333 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/08/02 17:14
+  Mode		： PURE
+	Expext Power	： 70 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent -> PC:[MODE_WATT=70]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[M
+Received-> MPU:[MODE_WATT=89.20]MPU:[MODE_PURE=76.25]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 73.2676 (W) 
+    Voltage     ： 191.8 (V) 
+    Current		： 0.382 (A)
+    Power Tolerance	： 4.16461666666667 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=70]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MODE_WATT=89.20]MPU:[MODE_PURE=76.25]
+Received-> MPU:[MODE_WATT=89.20]MPU:[MODE_PURE=76.25]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 73.3635 (W) 
+    Voltage     ： 191.8 (V) 
+    Current		： 0.3825 (A)
+    Power Tolerance	： 4.668 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=70]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[M
+Received-> MPU:[MODE_WATT=89.20]MPU:[MODE_PURE=76.25]
+Received-> MPU:[MODE_WATT=89.20]MPU:[MODE_PURE=76.25]
+Received-> MPU:[MODE_WATT=89.20]MPU:[MODE_PURE=76.25]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 73.61172 (W) 
+    Voltage     ： 192.6 (V) 
+    Current		： 0.3822 (A)
+    Power Tolerance	： 4.805 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=69.88828]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU
+Received-> MPU:[MODE_WATT=89.07]MPU:[MODE_PURE=76.19]
+Received-> MPU:[MODE_WATT=89.07]MPU:[MODE_PURE=76.19]
+Received-> MPU:[MODE_WATT=89.07]MPU:[MODE_PURE=76.19]
+Received-> MPU:[MODE_WATT=89.07]MPU:[MODE_PURE=76.19]
+Received-> MPU:[MODE_WATT=89.07]MPU:[MODE_PURE=76.19]
+Received-> MPU:[MODE_WATT=89.07]MPU:[MODE_PURE=76.19]
+Received-> MPU:[MODE_WATT=89.07]MPU:[MODE_PURE=76.19]
+Received-> MPU:[MODE_WATT=89.07]MPU:[MODE_PURE=76.19]
+Received-> MPU:[MODE_WATT=89.07]MPU:[MODE_PURE=76.19]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 73.45904 (W) 
+    Voltage     ： 192.1 (V) 
+    Current		： 0.3824 (A)
+    Power Tolerance	： 5.15959999999999 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=69.88828]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:
+Received-> MPU:[MODE_WATT=89.07]MPU:[MODE_PURE=76.19]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 73.57416 (W) 
+    Voltage     ： 192.2 (V) 
+    Current		： 0.3828 (A)
+    Power Tolerance	： 4.94148571428572 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=69.81412]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:
+Received-> MPU:[MODE_WATT=8
+Received-> MPU:[MODE_WATT=8
+Received-> MPU:[MODE_WATT=88.98]MPU:[MODE_PURE=76.16]
+Received-> MPU:[MODE_WATT=88.98]MPU:[MODE_PURE=76.16]
+Received-> MPU:[MODE_WATT=88.98]MPU:[MODE_PURE=76.16]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 73.7087 (W) 
+    Voltage     ： 192.2 (V) 
+    Current		： 0.3835 (A)
+    Power Tolerance	： 5.10594285714285 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=69.60542]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MODE_WATT=88.
+Received-> MPU:[MODE_WATT=88.73]MPU:[MODE_PURE=76.06]
+Received-> MPU:[MODE_WATT=88.73]MPU:[MODE_PURE=76.06]
+Received-> MPU:[MODE_WATT=88.73]MPU:[MODE_PURE=76.06]
+Received-> MPU:[MODE_WATT=88.73]MPU:[MODE_PURE=76.06]
+Received-> MPU:[MODE_WATT=88.73]MPU:[MODE_PURE=76.06]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 73.34432 (W) 
+    Voltage     ： 191.8 (V) 
+    Current		： 0.3824 (A)
+    Power Tolerance	： 5.29814285714285 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=69.60542]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[M
+Received-> MPU:[MODE_WATT=88.73]MPU:[MODE_PURE=76.06]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 73.88118 (W) 
+    Voltage     ： 192.7 (V) 
+    Current		： 0.3834 (A)
+    Power Tolerance	： 4.77760000000002 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=69.22424]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MODE_WATT=88.27]MPU:[MODE_PURE=75.89]
+Received-> MPU:[MODE_WATT=88.27]MPU:[MODE_PURE=75.89]
+Received-> MPU:[MODE_WATT=88.27]MPU:[MODE_PURE=75.89]
+Received-> MPU:[MODE_WATT=88.27]MPU:[MODE_PURE=75.89]
+Received-> MPU:[MODE_WATT=88.27]MPU:[MODE_PURE=75.89]
+Received-> MPU:[MODE_WATT=88.27]MPU:[MODE_PURE=75.89]
+Received-> MPU:[MODE_WATT=88.27]MPU:[MODE_PURE=75.89]
+Received-> MPU:[MODE_WATT=88.27]MPU:[MODE_PURE=75.89]
+Received-> MPU:[MODE_WATT=88.27]MPU:[MODE_PURE=75.89]
+Received-> MPU:[MODE_WATT=88.27]MPU:[MODE_PURE=75.89]
+Received-> MPU:[MODE_WATT=88.27]MPU:[MODE_PURE=75.89]
+Received-> MPU:[MODE_WATT=88.27]MPU:[MODE_PURE=75.89]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 72.79014 (W) 
+    Voltage     ： 190.6 (V) 
+    Current		： 0.3819 (A)
+    Power Tolerance	： 5.54454285714286 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=69.22424]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MODE_WATT=88.27]MPU:[MODE_PURE=75.89]
+Received-> MPU:[MODE_WATT=88.27]MPU:[MODE_PURE=75.89]
+Received-> MPU:[MODE_WATT=88.27]MPU:[MODE_PURE=75.89]
+Received-> MPU:[MODE_WATT=88.27]MPU:[MODE_PURE=75.89]
+Received-> MPU:[MODE_WATT=88.27]MPU:[MODE_PURE=75.89]
+Received-> MPU:[MODE_WATT=88.27]MPU:[MODE_PURE=75.89]
+Received-> MPU:[MODE_WATT=88.27]MPU:[MODE_PURE=75.89]
+Received-> MPU:[MODE_WATT=88.27]MPU:[MODE_PURE=75.89]
+Received-> MPU:[MODE_WATT=88.27]MPU:[MODE_PURE=75.89]
+Received-> MPU:[MODE_WATT=88.27]MPU:[MODE_PURE=75.89]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 73.22784 (W) 
+    Voltage     ： 192.3 (V) 
+    Current		： 0.3808 (A)
+    Power Tolerance	： 3.9859142857143 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=69.22424]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MODE_WATT=88.27]MPU:[MODE_PURE=75.89]
+Received-> MPU:[MODE_WATT=88.27]MPU:[MODE_PURE=75.89]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 72.90456 (W) 
+    Voltage     ： 191.2 (V) 
+    Current		： 0.3813 (A)
+    Power Tolerance	： 4.61120000000002 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/08/02 17:14
+  Mode		： PURE
+	Expext Power	： 80 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent -> PC:[MODE_WATT=80]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MO
+Received-> MPU:[MODE_WATT=101.26]MPU:[MODE_PURE=80.66]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 86.67345 (W) 
+    Voltage     ： 208.5 (V) 
+    Current		： 0.4157 (A)
+    Power Tolerance	： 4.14937142857141 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=77.32655]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MODE_WATT=98.04]MPU:[MODE_PURE=79.52]
+Received-> MPU:[MODE_WATT=98.04]MPU:[MODE_PURE=79.52]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 83.31344 (W) 
+    Voltage     ： 204.4 (V) 
+    Current		： 0.4076 (A)
+    Power Tolerance	： 8.3418125 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=77.32655]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MODE_WATT=98.04]MPU:[MODE_PURE=79.52]
+Received-> MPU:[MODE_WATT=98.04]MPU:[MODE_PURE=79.52]
+Received-> MPU:[MODE_WATT=98.04]MPU:[MODE_PURE=79.52]
+Received-> MPU:[MODE_WATT=98.04]MPU:[MODE_PURE=79.52]
+Received-> MPU:[MODE_WATT=98.04]MPU:[MODE_PURE=79.52]
+Received-> MPU:[MODE_WATT=98.04]MPU:[MODE_PURE=79.52]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 83.31312 (W) 
+    Voltage     ： 204.6 (V) 
+    Current		： 0.4072 (A)
+    Power Tolerance	： 4.1418 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=77.32655]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:
+Received-> MPU:[MODE_WATT=98.04]MPU:[MODE_PURE=79.52]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 82.29584 (W) 
+    Voltage     ： 203.3 (V) 
+    Current		： 0.4048 (A)
+    Power Tolerance	： 4.1414 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/08/02 17:14
+  Mode		： PURE
+	Expext Power	： 90 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent -> PC:[MODE_WATT=90]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU
+Received-> MPU:[MODE_WATT=112.82]MPU:[MODE_PURE=84.73]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 98.70084 (W) 
+    Voltage     ： 222.6 (V) 
+    Current		： 0.4434 (A)
+    Power Tolerance	： 2.8698 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=85.79916]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:
+Received-> MPU:[MODE_WATT=107.96]MPU:[MODE_PURE=83.06]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 94.0452 (W) 
+    Voltage     ： 218 (V) 
+    Current		： 0.4314 (A)
+    Power Tolerance	： 9.6676 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=85.79916]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MODE_WATT=107.96]MPU:[MODE_PURE=83.06]
+Received-> MPU:[MODE_WATT=107.96]MPU:[MODE_PURE=83.06]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 94.89518 (W) 
+    Voltage     ： 218.2 (V) 
+    Current		： 0.4349 (A)
+    Power Tolerance	： 4.49466666666666 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=85.40398]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MO
+Received-> MPU:[MODE_WATT=107.51]MPU:[MODE_PURE=82.90]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 93.65784 (W) 
+    Voltage     ： 216.6 (V) 
+    Current		： 0.4324 (A)
+    Power Tolerance	： 5.43908888888889 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=85.40398]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MODE_WATT=107.51]MPU:[MODE_PURE=82.90]
+Received-> MPU:[MODE_WATT=107.51]MPU:[MODE_PURE=82.90]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 93.63607 (W) 
+    Voltage     ： 216.7 (V) 
+    Current		： 0.4321 (A)
+    Power Tolerance	： 4.06426666666666 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=85.40398]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU
+Received-> MPU:[MODE_WATT=107.51]MPU:[MODE_PURE=82.90]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 93.5492 (W) 
+    Voltage     ： 216.8 (V) 
+    Current		： 0.4315 (A)
+    Power Tolerance	： 4.04007777777777 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/08/02 17:15
+  Mode		： PURE
+	Expext Power	： 100 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent -> PC:[MODE_WATT=100]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU
+Received-> MPU:[MODE_WATT=123.92]MPU:[MODE_PURE=88.51]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 111.17892 (W) 
+    Voltage     ： 236.4 (V) 
+    Current		： 0.4703 (A)
+    Power Tolerance	： 3.94355555555555 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=93.82108]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MODE_WATT=117.06]MPU:[MODE_PURE=86.20]
+Received-> MPU:[MODE_WATT=117.06]MPU:[MODE_PURE=86.20]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 101.43 (W) 
+    Voltage     ： 225.4 (V) 
+    Current		： 0.45 (A)
+    Power Tolerance	： 11.17892 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=93.82108]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MODE_WATT=117.06]MPU:[MODE_PURE=86.20]
+Received-> MPU:[MODE_WATT=117.06]MPU:[MODE_PURE=86.20]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 100.48632 (W) 
+    Voltage     ： 224.4 (V) 
+    Current		： 0.4478 (A)
+    Power Tolerance	： 1.43000000000001 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=93.82108]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MODE_WATT=117.06]MPU:[MODE_PURE=86.20]
+Received-> MPU:[MODE_WATT=117.06]MPU:[MODE_PURE=86.20]
+Received-> MPU:[MODE_WATT=117.06]MPU:[MODE_PURE=86.20]
+Received-> MPU:[MODE_WATT=117.06]MPU:[MODE_PURE=86.20]
+Received-> MPU:[MODE_WATT=117.06]MPU:[MODE_PURE=86.20]
+Received-> MPU:[MODE_WATT=117.06]MPU:[MODE_PURE=86.20]
+Received-> MPU:[MODE_WATT=117.06]MPU:[MODE_PURE=86.20]
+Received-> MPU:[MODE_WATT=117.06]MPU:[MODE_PURE=86.20]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 100.44162 (W) 
+    Voltage     ： 224.1 (V) 
+    Current		： 0.4482 (A)
+    Power Tolerance	： 0.486319999999992 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/08/02 17:15
+  Mode		： PURE
+	Expext Power	： 110 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent -> PC:[MODE_WATT=110]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MODE_WATT=137.89]MPU:[MODE_PURE=92.03]
+Received-> MPU:[MODE_WATT=137.89]MPU:[MODE_PURE=92.03]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 118.58418 (W) 
+    Voltage     ： 243.9 (V) 
+    Current		： 0.4862 (A)
+    Power Tolerance	： 0.44162 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=106.91582]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[
+Received-> MPU:[MODE_WATT=133.58]MPU:[MODE_PURE=90.97]
+Received-> MPU:[MODE_WATT=133.58]MPU:[MODE_PURE=90.97]
+Received-> MPU:[MODE_WATT=133.58]MPU:[MODE_PURE=90.97]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 114.0507 (W) 
+    Voltage     ： 239.1 (V) 
+    Current		： 0.477 (A)
+    Power Tolerance	： 7.8038 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=106.91582]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MODE_WATT=133.58]MPU:[MODE_PURE=90.97]
+Received-> MPU:[MODE_WATT=133.58]MPU:[MODE_PURE=90.97]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 113.14512 (W) 
+    Voltage     ： 238.1 (V) 
+    Current		： 0.4752 (A)
+    Power Tolerance	： 3.68245454545454 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=106.91582]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU
+Received-> MPU:[MODE_WATT=133.58]MPU:[MODE_PURE=90.97]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 113.21655 (W) 
+    Voltage     ： 238.1 (V) 
+    Current		： 0.4755 (A)
+    Power Tolerance	： 2.85920000000001 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/08/02 17:15
+  Mode		： PURE
+	Expext Power	： 120 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent -> PC:[MODE_WATT=120]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:
+Received-> MPU:[MODE_WATT=149.42]MPU:[MODE_PURE=95.35]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 130.63661 (W) 
+    Voltage     ： 256.1 (V) 
+    Current		： 0.5101 (A)
+    Power Tolerance	： 2.92413636363636 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=115.36339]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[M
+Received-> MPU:[MODE_WATT=144.08]MPU:[MODE_PURE=93.83]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 124.92473 (W) 
+    Voltage     ： 250.3 (V) 
+    Current		： 0.4991 (A)
+    Power Tolerance	： 8.86384166666668 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=115.36339]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:
+Received-> MPU:[MODE_WATT=144.08]MPU:[MODE_PURE=93.83]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 126.5542 (W) 
+    Voltage     ： 252.1 (V) 
+    Current		： 0.502 (A)
+    Power Tolerance	： 4.10394166666666 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=114.80919]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MO
+Received-> MPU:[MODE_WATT=143.44]MPU:[MODE_PURE=93.65]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 125.42508 (W) 
+    Voltage     ： 250.8 (V) 
+    Current		： 0.5001 (A)
+    Power Tolerance	： 5.46183333333333 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=114.80919]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MODE_WATT=143.44]MPU:[MODE_PU
+Received-> MPU:[MODE_WATT=143.44]MPU:[MODE_PURE=93.65]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 125.4 (W) 
+    Voltage     ： 250.8 (V) 
+    Current		： 0.5 (A)
+    Power Tolerance	： 4.52090000000001 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=114.80919]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[M
+Received-> MPU:[MODE_WATT=143.44]MPU:[MODE_PURE=93.65]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 123.8518 (W) 
+    Voltage     ： 249.5 (V) 
+    Current		： 0.4964 (A)
+    Power Tolerance	： 4.5 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/08/02 17:15
+  Mode		： PURE
+	Expext Power	： 130 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent -> PC:[MODE_WATT=130]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MODE_WATT=160.13]MPU:[MODE_PURE=98.48]
+Received-> MPU:[MODE_WATT=160.13]MPU:[MODE_PURE=98.48]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 136.3457 (W) 
+    Voltage     ： 261.7 (V) 
+    Current		： 0.521 (A)
+    Power Tolerance	： 3.20983333333333 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=130]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[M
+Received-> MPU:[MODE_WATT=160.13]MPU:[MODE_PURE=98.48]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 135.90155 (W) 
+    Voltage     ： 261.5 (V) 
+    Current		： 0.5197 (A)
+    Power Tolerance	： 4.88130769230769 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=130]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MODE_WATT=160.13]MPU:[MODE_PURE=98.48]
+Received-> MPU:[MODE_WATT=160.13]MPU:[MODE_PURE=98.48]
+Received-> MPU:[MODE_WATT=160.13]MPU:[MODE_PURE=98.48]
+Received-> MPU:[MODE_WATT=160.13]MPU:[MODE_PURE=98.48]
+Received-> MPU:[MODE_WATT=160.13]MPU:[MODE_PURE=98.48]
+Received-> MPU:[MODE_WATT=160.13]MPU:[MODE_PURE=98.48]
+Received-> MPU:[MODE_WATT=160.13]MPU:[MODE_PURE=98.48]
+Received-> MPU:[MODE_WATT=160.13]MPU:[MODE_PURE=98.48]
+Received-> MPU:[MODE_WATT=160.13]MPU:[MODE_PURE=98.48]
+Received-> MPU:[MODE_WATT=160.13]MPU:[MODE_PURE=98.48]
+Received-> MPU:[MODE_WATT=160.13]MPU:[MODE_PURE=98.48]
+Received-> MPU:[MODE_WATT=160.13]MPU:[MODE_PURE=98.48]
+Received-> MPU:[MODE_WATT=160.13]MPU:[MODE_PURE=98.48]
+Received-> MPU:[MODE_WATT=160.13]MPU:[MODE_PURE=98.48]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 134.914 (W) 
+    Voltage     ： 260 (V) 
+    Current		： 0.5189 (A)
+    Power Tolerance	： 4.53965384615386 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/08/02 17:15
+  Mode		： PURE
+	Expext Power	： 140 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent -> PC:[MODE_WATT=140]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MODE_WATT=172.28]MPU:[MODE_PURE=101.09]
+Received-> MPU:[MODE_WATT=172.28]MPU:[MODE_PURE=101.09]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 147.15252 (W) 
+    Voltage     ： 271.8 (V) 
+    Current		： 0.5414 (A)
+    Power Tolerance	： 3.78000000000001 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=139.84748]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU
+Received-> MPU:[MODE_WATT=172.10]MPU:[MODE_PURE=101.05]
+Received-> MPU:[MODE_WATT=172.10]MPU:[MODE_PURE=101.05]
+Received-> MPU:[MODE_WATT=172.10]MPU:[MODE_PURE=101.05]
+Received-> MPU:[MODE_WATT=172.10]MPU:[MODE_PURE=101.05]
+Received-> MPU:[MODE_WATT=172.10]MPU:[MODE_PURE=101.05]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 147.74976 (W) 
+    Voltage     ： 272.4 (V) 
+    Current		： 0.5424 (A)
+    Power Tolerance	： 5.10894285714286 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=139.09772]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[M
+Received-> MPU:[MODE_WATT=171.19]MPU:[MODE_PURE=100.86]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 145.85376 (W) 
+    Voltage     ： 270.4 (V) 
+    Current		： 0.5394 (A)
+    Power Tolerance	： 5.53554285714284 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=139.09772]
+Sent -> PC:[MODE_PURE=0]
+Received-> M
+Received-> MPU:[MODE_WATT=171.19]MPU:[MODE_PURE=100.86]
+Received-> MPU:[MODE_WATT=171.19]MPU:[MODE_PURE=100.86]
+Received-> MPU:[MODE_WATT=171.19]MPU:[MODE_PURE=100.86]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 145.82655 (W) 
+    Voltage     ： 270.5 (V) 
+    Current		： 0.5391 (A)
+    Power Tolerance	： 4.18125714285714 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=139.09772]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MODE_WATT=171.19]MPU:[MODE_PURE=100.86]
+Received-> MPU:[MODE_WATT=171.19]MPU:[MODE_PURE=100.86]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 146.1489 (W) 
+    Voltage     ： 271.4 (V) 
+    Current		： 0.5385 (A)
+    Power Tolerance	： 4.16182142857143 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/08/02 17:16
+  Mode		： PURE
+	Expext Power	： 150 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent -> PC:[MODE_WATT=150]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[
+Received-> MPU:[MODE_WATT=183.94]MPU:[MODE_PURE=103.54]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 159.68736 (W) 
+    Voltage     ： 284.8 (V) 
+    Current		： 0.5607 (A)
+    Power Tolerance	： 4.39207142857141 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=147.81264]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MODE_WATT=181.39]MPU:[MODE_PURE=103.01
+Received-> MPU:[MODE_WATT=181.39]MPU:[MODE_PURE=103.01]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 155.90478 (W) 
+    Voltage     ： 279.7 (V) 
+    Current		： 0.5574 (A)
+    Power Tolerance	： 6.45824000000001 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=147.81264]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MODE_WATT=181.39]MPU:[MODE_PURE=103.01]
+Received-> MPU:[MODE_WATT=181.39]MPU:[MODE_PURE=103.01]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 158.09004 (W) 
+    Voltage     ： 281.7 (V) 
+    Current		： 0.5612 (A)
+    Power Tolerance	： 3.93651999999999 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=147.2226]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MOD
+Received-> MPU:[MODE_WATT=180.70]MPU:[MODE_PURE=102.87]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 157.64072 (W) 
+    Voltage     ： 281.2 (V) 
+    Current		： 0.5606 (A)
+    Power Tolerance	： 5.39336000000001 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=147.08188]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU
+Received-> MPU:[MODE_WATT=180.54]MPU:[MODE_PURE=102.84]
+Received-> MPU:[MODE_WATT=180.54]MPU:[MODE_PURE=102.84]
+Received-> MPU:[MODE_WATT=180.54]MPU:[MODE_PURE=102.84]
+Received-> MPU:[MODE_WATT=180.54]MPU:[MODE_PURE=102.84]
+Received-> MPU:[MODE_WATT=180.54]MPU:[MODE_PURE=102.84]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 158.28745 (W) 
+    Voltage     ： 281.5 (V) 
+    Current		： 0.5623 (A)
+    Power Tolerance	： 5.09381333333333 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=146.29443]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[
+Received-> MPU:[MODE_WATT=179.62]MPU:[MODE_PURE=102.65]
+Received-> MPU:[MODE_WATT=179.62]MPU:[MODE_PURE=102.65]
+Received-> MPU:[MODE_WATT=179.62]MPU:[MODE_PURE=102.65]
+Received-> MPU:[MODE_WATT=179.62]MPU:[MODE_PURE=102.65]
+Received-> MPU:[MODE_WATT=179.62]MPU:[MODE_PURE=102.65]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 156.82772 (W) 
+    Voltage     ： 280.4 (V) 
+    Current		： 0.5593 (A)
+    Power Tolerance	： 5.52496666666667 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=146.29443]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[M
+Received-> MPU:[MODE_WATT=179.62]MPU:[MODE_PURE=102.65]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 154.2336 (W) 
+    Voltage     ： 278.4 (V) 
+    Current		： 0.554 (A)
+    Power Tolerance	： 4.55181333333333 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=146.29443]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:
+Received-> MPU:[MODE_WATT=179.62]MPU:[MODE_PURE=102.65]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 156.24 (W) 
+    Voltage     ： 280 (V) 
+    Current		： 0.558 (A)
+    Power Tolerance	： 2.8224 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/08/02 17:16
+  Mode		： PURE
+	Expext Power	： 160 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent -> PC:[MODE_WATT=160]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU
+Received-> MPU:[MODE_WATT=195.98]MPU:[MODE_PURE=105.86]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 172.6656 (W) 
+    Voltage     ： 294.4 (V) 
+    Current		： 0.5865 (A)
+    Power Tolerance	： 4.16000000000001 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=155.3344]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MODE_WATT=
+Received-> MPU:[MODE_WATT=
+Received-> MPU:[MODE_WATT=190.36]
+Received-> MPU:[MODE_WATT=190.36]MPU:[MODE_PURE=104.79]
+Received-> MPU:[MODE_WATT=190.36]MPU:[MODE_PURE=104.79]
+Received-> MPU:[MODE_WATT=190.36]MPU:[MODE_PURE=104.79]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 167.214 (W) 
+    Voltage     ： 290 (V) 
+    Current		： 0.5766 (A)
+    Power Tolerance	： 7.91599999999999 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=155.3344]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU
+Received-> MPU:[MODE_WATT=190.36]MPU:[MODE_PURE=104.79]
+Received-> MPU:[MODE_WATT=190.36]MPU:[MODE_PURE=104.79]
+Received-> MPU:[MODE_WATT=190.36]MPU:[MODE_PURE=104.79]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 165.22473 (W) 
+    Voltage     ： 288.3 (V) 
+    Current		： 0.5731 (A)
+    Power Tolerance	： 4.50875 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=155.3344]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MODE_WATT=190.36]MPU:[MODE_PURE=104.79]
+Received-> MPU:[MODE_WATT=190.36]MPU:[MODE_PURE=104.79]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 165.6564 (W) 
+    Voltage     ： 288.6 (V) 
+    Current		： 0.574 (A)
+    Power Tolerance	： 3.26545625000001 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/08/02 17:16
+  Mode		： PURE
+	Expext Power	： 170 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent -> PC:[MODE_WATT=170]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU
+Received-> MPU:[MODE_WATT=207.32]MPU:[MODE_PURE=108.06]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 176.56562 (W) 
+    Voltage     ： 297.8 (V) 
+    Current		： 0.5929 (A)
+    Power Tolerance	： 3.53524999999999 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=170]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MODE_WATT=207.32]MPU:[MODE_PURE=108.06]
+Received-> MPU:[MODE_WATT=207.32]MPU:[MODE_PURE=108.06]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 175.79314 (W) 
+    Voltage     ： 297.4 (V) 
+    Current		： 0.5911 (A)
+    Power Tolerance	： 3.8621294117647 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=170]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[M
+Received-> MPU:[MODE_WATT=207.32]MPU:[MODE_PURE=108.06]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 176.1771 (W) 
+    Voltage     ： 298.1 (V) 
+    Current		： 0.591 (A)
+    Power Tolerance	： 3.40772941176469 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/08/02 17:16
+  Mode		： PURE
+	Expext Power	： 180 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent -> PC:[MODE_WATT=180]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[
+Received-> MPU:[MODE_WATT=218.72]MPU:[MODE_PURE=111.38]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 188.8964 (W) 
+    Voltage     ： 308 (V) 
+    Current		： 0.6133 (A)
+    Power Tolerance	： 3.63358823529411 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=180]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU
+Received-> MPU:[MODE_WATT=218.72]MPU:[MODE_PURE=111.38]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 188.71086 (W) 
+    Voltage     ： 308.2 (V) 
+    Current		： 0.6123 (A)
+    Power Tolerance	： 4.94244444444444 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=180]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MODE_WATT=218.72]MPU:[MODE_PURE=111.38]
+Received-> MPU:[MODE_WATT=218.72]MPU:[MODE_PURE=111.38]
+Received-> MPU:[MODE_WATT=218.72]MPU:[MODE_PURE=111.38]
+Received-> MPU:[MODE_WATT=218.72]MPU:[MODE_PURE=111.38]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 188.49558 (W) 
+    Voltage     ： 308.1 (V) 
+    Current		： 0.6118 (A)
+    Power Tolerance	： 4.83936666666665 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/08/02 17:16
+  Mode		： PURE
+	Expext Power	： 190 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent -> PC:[MODE_WATT=190]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[M
+Received-> MPU:[MODE_WATT=230.51]MPU:[MODE_PURE=114.72]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 199.647 (W) 
+    Voltage     ： 316.9 (V) 
+    Current		： 0.63 (A)
+    Power Tolerance	： 4.71976666666668 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=189.853]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[M
+Received-> MPU:[MODE_WATT=230.34]MPU:[MODE_PURE=114.67]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 199.647 (W) 
+    Voltage     ： 316.9 (V) 
+    Current		： 0.63 (A)
+    Power Tolerance	： 5.07736842105263 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=189.706]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MODE_WAT
+Received-> MPU:[MODE_WATT=230.17]MPU:[MODE_PURE=114.62]
+Received-> MPU:[MODE_WATT=230.17]MPU:[MODE_PURE=114.62]
+Received-> MPU:[MODE_WATT=230.17]MPU:[MODE_PURE=114.62]
+Received-> MPU:[MODE_WATT=230.17]MPU:[MODE_PURE=114.62]
+Received-> MPU:[MODE_WATT=230.17]MPU:[MODE_PURE=114.62]
+Received-> MPU:[MODE_WATT=230.17]MPU:[MODE_PURE=114.62]
+Received-> MPU:[MODE_WATT=230.17]MPU:[MODE_PURE=114.62]
+Received-> MPU:[MODE_WATT=230.17]MPU:[MODE_PURE=114.62]
+Received-> MPU:[MODE_WATT=230.17]MPU:[MODE_PURE=114.62]
+Received-> MPU:[MODE_WATT=230.17]MPU:[MODE_PURE=114.62]
+Received-> MPU:[MODE_WATT=230.17]MPU:[MODE_PURE=114.62]
+Received-> MPU:[MODE_WATT=230.17]MPU:[MODE_PURE=114.62]
+Received-> MPU:[MODE_WATT=230.17]MPU:[MODE_PURE=114.62]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 197.19 (W) 
+    Voltage     ： 315 (V) 
+    Current		： 0.626 (A)
+    Power Tolerance	： 5.07736842105263 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=189.706]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU
+Received-> MPU:[MODE_WATT=230.17]MPU:[MODE_PURE=114.62]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 198.19646 (W) 
+    Voltage     ： 315.7 (V) 
+    Current		： 0.6278 (A)
+    Power Tolerance	： 3.78421052631579 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=189.706]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[
+Received-> MPU:[MODE_WATT=230.17]MPU:[MODE_PURE=114.62]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 197.66307 (W) 
+    Voltage     ： 314.7 (V) 
+    Current		： 0.6281 (A)
+    Power Tolerance	： 4.31392631578947 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/08/02 17:17
+  Mode		： PURE
+	Expext Power	： 200 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent -> PC:[MODE_WATT=200]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[M
+Received-> MPU:[MODE_WATT=241.20]MPU:[MODE_PURE=117.99]
+Received-> MPU:[MODE_WATT=241.20]MPU:[MODE_PURE=117.99]
+Received-> MPU:[MODE_WATT=241.20]MPU:[MODE_PURE=117.99]
+Received-> MPU:[MODE_WATT=241.20]MPU:[MODE_PURE=117.99]
+Received-> MPU:[MODE_WATT=241.20]MPU:[MODE_PURE=117.99]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 211.41225 (W) 
+    Voltage     ： 325.5 (V) 
+    Current		： 0.6495 (A)
+    Power Tolerance	： 4.03319473684209 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=198.58775]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU
+Received-> MPU:[MODE_WATT=239.69]MPU:[MODE_PURE=117.53]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 210.89264 (W) 
+    Voltage     ： 324.8 (V) 
+    Current		： 0.6493 (A)
+    Power Tolerance	： 5.706125 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=197.69511]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU
+Received-> MPU:[MODE_WATT=238.74]MPU:[MODE_PURE=117.24]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 205.21368 (W) 
+    Voltage     ： 319.2 (V) 
+    Current		： 0.6429 (A)
+    Power Tolerance	： 5.44632 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=197.69511]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU
+Received-> MPU:[MODE_WATT=238.74]MPU:[MODE_PURE=117.24]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 208.28515 (W) 
+    Voltage     ： 325.7 (V) 
+    Current		： 0.6395 (A)
+    Power Tolerance	： 2.60684000000001 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=197.69511]
+Sent -> PC:[MODE_PURE=0]
+Received-> MPU:[MODE_WATT=238.74]MPU:[MODE_PURE=117.24]
+Received-> MPU:[MODE_WATT=238.74]MPU:[MODE_PURE=117.24]
+Received-> MPU:[MODE_WATT=238.74]MPU:[MODE_PURE=117.24]
+Received-> MPU:[MODE_WATT=238.74]MPU:[MODE_PURE=117.24]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 202.75662 (W) 
+    Voltage     ： 318.9 (V) 
+    Current		： 0.6358 (A)
+    Power Tolerance	： 4.14257499999999 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+Sent -> PC:[CALIB_DATA_PURE=0.67,1.00,0.98,0.98,0.96,0.94,0.99,0.97,0.95,0.94,0.97,0.96,1.00,0.99,0.98,0.97,1.00,1.00,1.00,0.99]
+Sent -> PC:[CALIB_DATA_FLAG=81]
+************************************************** 
+    Time        ： 2017/08/02 17:17
+    Mode		： PURE
+	Expext Power	： 10 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent -> PC:[MODE_WATT=10]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU
+Received-> MPU:[MODE_WATT=18.65]MPU:[MODE_BLEND1=33.47]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 12.19904 (W) 
+    Voltage     ： 78.4 (V) 
+    Current		： 0.1556 (A)
+    Power Tolerance	： 1.37831 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=8.30096]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[MODE_WATT=16.26]MPU:[MODE_BLEND1=31.09]
+Received-> MPU:[MODE_WATT=16.26]MPU:[MODE_BLEND1=31.09]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 10.98897 (W) 
+    Voltage     ： 74.3 (V) 
+    Current		： 0.1479 (A)
+    Power Tolerance	： 21.9904 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=7.81199]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> M
+Received-> MPU:[MODE_WATT=15.58]MPU:[MODE_BLEND1=30.35]
+Received-> MPU:[MODE_WATT=15.58]MPU:[MODE_BLEND1=30.35]
+Received-> MPU:[MODE_WATT=15.58]MPU:[MODE_BLEND1=30.35]
+Received-> MPU:[MODE_WATT=15.58]MPU:[MODE_BLEND1=30.35]
+Received-> MPU:[MODE_WATT=15.58]MPU:[MODE_BLEND1=30.35]
+Received-> MPU:[MODE_WATT=15.58]MPU:[MODE_BLEND1=30.35]
+Received-> MPU:[MODE_WATT=15.58]MPU:[MODE_BLEND1=30.35]
+Received-> MPU:[MODE_WATT=15.58]MPU:[MODE_BLEND1=30.35]
+Received-> MPU:[MODE_WATT=15.58]MPU:[MODE_BLEND1=30.35]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 10.57719 (W) 
+    Voltage     ： 73.3 (V) 
+    Current		： 0.1443 (A)
+    Power Tolerance	： 9.8897 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=7.7348]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:
+Received-> MPU:[MODE_WATT=15.47]MPU:[MODE_BLEND1=30.23]
+Received-> MPU:[MODE_WATT=15.47]MPU:[MODE_BLEND1=30.23]
+Received-> MPU:[MODE_WATT=15.47]MPU:[MODE_BLEND1=30.23]
+Received-> MPU:[MODE_WATT=15.47]MPU:[MODE_BLEND1=30.23]
+Received-> MPU:[MODE_WATT=15.47]MPU:[MODE_BLEND1=30.23]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 10.67248 (W) 
+    Voltage     ： 73.3 (V) 
+    Current		： 0.1456 (A)
+    Power Tolerance	： 5.7719 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=7.56232]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[MODE_W
+Received-> MPU:[MODE_WATT=15.23]MPU:[MODE_BLEND1=29.95]
+Received-> MPU:[MODE_WATT=15.23]MPU:[MODE_BLEND1=29.95]
+Received-> MPU:[MODE_WATT=15.23]MPU:[MODE_BLEND1=29.95]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 9.765 (W) 
+    Voltage     ： 70 (V) 
+    Current		： 0.1395 (A)
+    Power Tolerance	： 6.7248 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=7.79732]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU
+Received-> MPU:[MODE_WATT=15.56]MPU:[MODE_BLEND1=30.32]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 10.71598 (W) 
+    Voltage     ： 73.7 (V) 
+    Current		： 0.1454 (A)
+    Power Tolerance	： -2.34999999999999 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=7.58134]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[MODE_WATT=15.25]MPU:[MODE_BLEND1=29.98]
+Received-> MPU:[MODE_WATT=15.25]MPU:[MODE_BLEND1=29.98]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 10.95128 (W) 
+    Voltage     ： 74.6 (V) 
+    Current		： 0.1468 (A)
+    Power Tolerance	： 7.1598 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=7.13006]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[
+Received-> MPU:[MODE_WATT=14.62]MPU:[MODE_BLEND1=29.25]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 9.96156 (W) 
+    Voltage     ： 70.8 (V) 
+    Current		： 0.1407 (A)
+    Power Tolerance	： 9.51280000000001 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=7.1685]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[MODE_WATT=14.67]MPU:[MODE_BLEND1=29.31]
+Received-> MPU:[MODE_WATT=14.67]MPU:[MODE_BLEND1=29.31]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 10.03235 (W) 
+    Voltage     ： 70.9 (V) 
+    Current		： 0.1415 (A)
+    Power Tolerance	： -0.384400000000014 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=7.1685]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[MODE_WATT=14.67]MPU:[MODE_BLEND1=29.31]
+Received-> MPU:[MODE_WATT=14.67]MPU:[MODE_BLEND1=29.31]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 10.30848 (W) 
+    Voltage     ： 72.8 (V) 
+    Current		： 0.1416 (A)
+    Power Tolerance	： 0.323499999999992 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=7.1685]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[MODE_WATT=14.67]MPU:[MODE_BLEND1=29.31]
+Received-> MPU:[MODE_WATT=14.67]MPU:[MODE_BLEND1=29.31]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 9.91182 (W) 
+    Voltage     ： 70.9 (V) 
+    Current		： 0.1398 (A)
+    Power Tolerance	： 3.08479999999999 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=7.25668]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[MO
+Received-> MPU:[MODE_
+Received-> MPU:[MODE_WATT=14.80]MPU:[MODE_BLEND1=29.46]
+Received-> MPU:[MODE_WATT=14.80]MPU:[MODE_BLEND1=29.46]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 9.62568 (W) 
+    Voltage     ： 69.6 (V) 
+    Current		： 0.1383 (A)
+    Power Tolerance	： -0.881799999999995 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=7.631]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[M
+Received-> MPU:[MODE_WATT=15.32]MPU:[MODE_BLEND1=30.06]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 10.39682 (W) 
+    Voltage     ： 72.1 (V) 
+    Current		： 0.1442 (A)
+    Power Tolerance	： -3.74320000000001 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=7.631]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> M
+Received-> MPU:[MODE_WATT=15.32]MPU:[MODE_BLEND1=30.06]
+Received-> MPU:[MODE_WATT=15.32]MPU:[MODE_BLEND1=30.06]
+Received-> MPU:[MODE_WATT=15.32]MPU:[MODE_BLEND1=30.06]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 10.40213 (W) 
+    Voltage     ： 73.1 (V) 
+    Current		： 0.1423 (A)
+    Power Tolerance	： 3.96819999999998 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=7.631]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU
+Received-> MPU:[MODE_WATT=15.32]MPU:[MODE_BLEND1=30.06]
+Received-> MPU:[MODE_WATT=15.32]MPU:[MODE_BLEND1=30.06]
+Received-> MPU:[MODE_WATT=15.32]MPU:[MODE_BLEND1=30.06]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 10.15168 (W) 
+    Voltage     ： 72.1 (V) 
+    Current		： 0.1408 (A)
+    Power Tolerance	： 4.0213 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/08/02 17:17
+  Mode		： BLEND1
+	Expext Power	： 20 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent -> PC:[MODE_WATT=20]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[MODE_WATT=32.69]MPU:[MODE_BLEND1=48.33]
+Received-> MPU:[MODE_WATT=32.69]MPU:[MODE_BLEND1=48.33]
+Received-> MPU:[MODE_WATT=32.69]MPU:[MODE_BLEND1=48.33]
+Received-> MPU:[MODE_WATT=32.69]MPU:[MODE_BLEND1=48.33]
+Received-> MPU:[MODE_WATT=32.69]MPU:[MODE_BLEND1=48.33]
+Received-> MPU:[MODE_WATT=32.69]MPU:[MODE_BLEND1=48.33]
+Received-> MPU:[MODE_WATT=32.69]MPU:[MODE_BLEND1=48.33]
+Received-> MPU:[MODE_WATT=32.69]MPU:[MODE_BLEND1=48.33]
+Received-> MPU:[MODE_WATT=32.69]MPU:[MODE_BLEND1=48.33]
+Received-> MPU:[MODE_WATT=32.69]MPU:[MODE_BLEND1=48.33]
+Received-> MPU:[MODE_WATT=32.69]MPU:[MODE_BLEND1=48.33]
+Received-> MPU:[MODE_WATT=32.69]MPU:[MODE_BLEND1=48.33]
+Received-> MPU:[MODE_WATT=32.69]MPU:[MODE_BLEND1=48.33]
+Received-> MPU:[MODE_WATT=32.69]MPU:[MODE_BLEND1=48.33]
+Received-> MPU:[MODE_WATT=32.69]MPU:[MODE_BLEND1=48.33]
+Received-> MPU:[MODE_WATT=32.69]MPU:[MODE_BLEND1=48.33]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 23.991 (W) 
+    Voltage     ： 110 (V) 
+    Current		： 0.2181 (A)
+    Power Tolerance	： 1.51679999999999 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=17.009]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[MODE_WATT=28.49]MPU:[MODE_BLEND1=44.20]
+Received-> MPU:[MODE_WATT=28.49]MPU:[MODE_BLEND1=44.20]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 20.16024 (W) 
+    Voltage     ： 100.6 (V) 
+    Current		： 0.2004 (A)
+    Power Tolerance	： 19.955 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=17.009]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[MODE_WATT=28.49]MPU:[MODE_BLEND1=44.20]
+Received-> MPU:[MODE_WATT=28.49]MPU:[MODE_BLEND1=44.20]
+Received-> MPU:[MODE_WATT=28.49]MPU:[MODE_BLEND1=44.20]
+Received-> MPU:[MODE_WATT=28.49]MPU:[MODE_BLEND1=44.20]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 20.07005 (W) 
+    Voltage     ： 100.1 (V) 
+    Current		： 0.2005 (A)
+    Power Tolerance	： 0.801199999999991 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=17.009]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[MODE_WATT=28.49]MPU:[MODE_BLEND1=44.20]
+Received-> MPU:[MODE_WATT=28.49]MPU:[MODE_BLEND1=44.20]
+Received-> MPU:[MODE_WATT=28.49]MPU:[MODE_BLEND1=44.20]
+Received-> MPU:[MODE_WATT=28.49]MPU:[MODE_BLEND1=44.20]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 20.16032 (W) 
+    Voltage     ： 100.4 (V) 
+    Current		： 0.2008 (A)
+    Power Tolerance	： 0.350249999999992 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/08/02 17:18
+  Mode		： BLEND1
+	Expext Power	： 30 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent -> PC:[MODE_WATT=30]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[MODE_WATT=44.92]MPU:[MODE_BLEND1=
+Received-> MPU:[MODE_WATT=44.92]MPU:[MODE_BLEND1=56.42]
+Received-> MPU:[MODE_WATT=44.92]MPU:[MODE_BLEND1=56.42]
+Received-> MPU:[MODE_WATT=44.92]MPU:[MODE_BLEND1=56.42]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 33.81294 (W) 
+    Voltage     ： 130.2 (V) 
+    Current		： 0.2597 (A)
+    Power Tolerance	： 0.801600000000011 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=27.68706]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[M
+Received-> MPU:[MODE_WATT=42.10]MPU:[MODE_BLEND1=54.80]
+Received-> MPU:[MODE_WATT=42.10]MPU:[MODE_BLEND1=54.80]
+Received-> MPU:[MODE_WATT=42.10]MPU:[MODE_BLEND1=54.80]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 30.51684 (W) 
+    Voltage     ： 123.6 (V) 
+    Current		： 0.2469 (A)
+    Power Tolerance	： 12.7098 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=27.68706]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU
+Received-> MPU:[MODE_WATT=42.10]MPU:[MODE_BLEND1=54.80]
+Received-> MPU:[MODE_WATT=42.10]MPU:[MODE_BLEND1=54.80]
+Received-> MPU:[MODE_WATT=42.10]MPU:[MODE_BLEND1=54.80]
+Received-> MPU:[MODE_WATT=42.10]MPU:[MODE_BLEND1=54.80]
+Received-> MPU:[MODE_WATT=42.10]MPU:[MODE_BLEND1=54.80]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 30.35646 (W) 
+    Voltage     ： 123.3 (V) 
+    Current		： 0.2462 (A)
+    Power Tolerance	： 1.72279999999999 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=27.68706]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[M
+Received-> MPU:[MODE_WATT=42.10]MPU:[MODE_BLEND1=54.80]
+Received-> MPU:[MODE_WATT=42.10]MPU:[MODE_BLEND1=54.80]
+Received-> MPU:[MODE_WATT=42.10]MPU:[MODE_BLEND1=54.80]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 30.71466 (W) 
+    Voltage     ： 124.2 (V) 
+    Current		： 0.2473 (A)
+    Power Tolerance	： 1.18819999999999 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/08/02 17:18
+  Mode		： BLEND1
+	Expext Power	： 40 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent -> PC:[MODE_WATT=40]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU
+Received-> MPU:[MODE_W
+Received-> MPU:[MODE_WATT=57.65]MPU:[MODE_BLEND1=62.44]
+Received-> MPU:[MODE_WATT=57.65]MPU:[MODE_BLEND1=62.44]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 45.64728 (W) 
+    Voltage     ： 151.2 (V) 
+    Current		： 0.3019 (A)
+    Power Tolerance	： 2.3822 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=36.35272]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[MODE_WATT=53.01]MPU:[MODE_BLEND1=60.40]
+Received-> MPU:[MODE_WATT=53.01]MPU:[MODE_BLEND1=60.40]
+Received-> MPU:[MODE_WATT=53.01]MPU:[MODE_BLEND1=60.40]
+Received-> MPU:[MODE_WATT=53.01]MPU:[MODE_BLEND1=60.40]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 40.22856 (W) 
+    Voltage     ： 141.6 (V) 
+    Current		： 0.2841 (A)
+    Power Tolerance	： 14.1182 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=36.35272]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[MODE_WATT=53.01]MPU:[MODE_BLEND1=60.40]
+Received-> MPU:[MODE_WATT=53.01]MPU:[MODE_BLEND1=60.40]
+Received-> MPU:[MODE_WATT=53.01]MPU:[MODE_BLEND1=60.40]
+Received-> MPU:[MODE_WATT=53.01]MPU:[MODE_BLEND1=60.40]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 40.3275 (W) 
+    Voltage     ： 142.5 (V) 
+    Current		： 0.283 (A)
+    Power Tolerance	： 0.571400000000004 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=36.35272]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[MODE_WATT=53.01]MPU:[MODE_BLEND1=60.40]
+Received-> MPU:[MODE_WATT=53.01]MPU:[MODE_BLEND1=60.40]
+Received-> MPU:[MODE_WATT=53.01]MPU:[MODE_BLEND1=60.40]
+Received-> MPU:[MODE_WATT=53.01]MPU:[MODE_BLEND1=60.40]
+Received-> MPU:[MODE_WATT=53.01]MPU:[MODE_BLEND1=60.40]
+Received-> MPU:[MODE_WATT=53.01]MPU:[MODE_BLEND1=60.40]
+Received-> MPU:[MODE_WATT=53.01]MPU:[MODE_BLEND1=60.40]
+Received-> MPU:[MODE_WATT=53.01]MPU:[MODE_BLEND1=60.40]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 40.5552 (W) 
+    Voltage     ： 142.8 (V) 
+    Current		： 0.284 (A)
+    Power Tolerance	： 0.818749999999984 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/08/02 17:18
+  Mode		： BLEND1
+	Expext Power	： 50 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent -> PC:[MODE_WATT=50]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[MODE_WATT=70.36]MPU:[MODE_BLEND1=67.34]
+Received-> MPU:[MODE_WATT=70.36]MPU:[MODE_BLEND1=67.34]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 55.9107 (W) 
+    Voltage     ： 167.9 (V) 
+    Current		： 0.333 (A)
+    Power Tolerance	： 1.388 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=46.5893]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[MODE_WATT=66.03]MPU:[MODE_BLEND1=65.76]
+Received-> MPU:[MODE_WATT=66.03]MPU:[MODE_BLEND1=65.76]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 52.0187 (W) 
+    Voltage     ： 161.8 (V) 
+    Current		： 0.3215 (A)
+    Power Tolerance	： 11.8214 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=46.5893]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[MOD
+Received-> MPU:[MODE_WATT=66.03]MPU:[MODE_BLEND1=65.76]
+Received-> MPU:[MODE_WATT=66.03]MPU:[MODE_BLEND1=65.76]
+Received-> MPU:[MODE_WATT=66.03]MPU:[MODE_BLEND1=65.76]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 52.09864 (W) 
+    Voltage     ： 162.2 (V) 
+    Current		： 0.3212 (A)
+    Power Tolerance	： 4.03740000000001 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=46.5893]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[MODE_WATT=66.03]MPU:[MODE_BLEND1=65.76]
+Received-> MPU:[MODE_WATT=66.03]MPU:[MODE_BLEND1=65.76]
+Received-> MPU:[MODE_WATT=66.03]MPU:[MODE_BLEND1=65.76]
+Received-> MPU:[MODE_WATT=66.03]MPU:[MODE_BLEND1=65.76]
+Received-> MPU:[MODE_WATT=66.03]MPU:[MODE_BLEND1=65.76]
+Received-> MPU:[MODE_WATT=66.03]MPU:[MODE_BLEND1=65.76]
+Received-> MPU:[MODE_WATT=66.03]MPU:[MODE_BLEND1=65.76]
+Received-> MPU:[MODE_WATT=66.03]MPU:[MODE_BLEND1=65.76]
+Received-> MPU:[MODE_WATT=66.03]MPU:[MODE_BLEND1=65.76]
+Received-> MPU:[MODE_WATT=66.03]MPU:[MODE_BLEND1=65.76]
+Received-> MPU:[MODE_WATT=66.03]MPU:[MODE_BLEND1=65.76]
+Received-> MPU:[MODE_WATT=66.03]MPU:[MODE_BLEND1=65.76]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 52.06704 (W) 
+    Voltage     ： 161.9 (V) 
+    Current		： 0.3216 (A)
+    Power Tolerance	： 4.19727999999999 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/08/02 17:18
+  Mode		： BLEND1
+	Expext Power	： 60 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent -> PC:[MODE_WATT=60]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[
+Received-> MPU:[MODE_WATT=82.84]MPU:[MODE_BLEND1=71.48]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 66.04789 (W) 
+    Voltage     ： 181.9 (V) 
+    Current		： 0.3631 (A)
+    Power Tolerance	： 4.13408 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=56.95211]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[M
+Received-> MPU:[MODE_WATT=79.04]MPU:[MODE_BLEND1=70.28
+Received-> MPU:[MODE_WATT=79.04]MPU:[MODE_BLEND1=70.28]
+Received-> MPU:[MODE_WATT=79.04]MPU:[MODE_BLEND1=70.28]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 62.99397 (W) 
+    Voltage     ： 178.1 (V) 
+    Current		： 0.3537 (A)
+    Power Tolerance	： 10.0798166666667 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=56.95211]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:
+Received-> MPU:[MODE_WATT=79.04]MPU:[MODE_BLEND1=70.28]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 63.24255 (W) 
+    Voltage     ： 178.5 (V) 
+    Current		： 0.3543 (A)
+    Power Tolerance	： 4.98995 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=56.70956]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[MODE_WATT=78.73]MPU:[MODE_BLEND1
+Received-> MPU:[MODE_WATT=78.73]MPU:[MODE_BLEND1=70.19]
+Received-> MPU:[MODE_WATT=78.73]MPU:[MODE_BLEND1=70.19]
+Received-> MPU:[MODE_WATT=78.73]MPU:[MODE_BLEND1=70.19]
+Received-> MPU:[MODE_WATT=78.73]MPU:[MODE_BLEND1=70.19]
+Received-> MPU:[MODE_WATT=78.73]MPU:[MODE_BLEND1=70.19]
+Received-> MPU:[MODE_WATT=78.73]MPU:[MODE_BLEND1=70.19]
+Received-> MPU:[MODE_WATT=78.73]MPU:[MODE_BLEND1=70.19]
+Received-> MPU:[MODE_WATT=78.73]MPU:[MODE_BLEND1=70.19]
+Received-> MPU:[MODE_WATT=78.73]MPU:[MODE_BLEND1=70.19]
+Received-> MPU:[MODE_WATT=78.73]MPU:[MODE_BLEND1=70.19]
+Received-> MPU:[MODE_WATT=78.73]MPU:[MODE_BLEND1=70.19]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 62.83512 (W) 
+    Voltage     ： 177.3 (V) 
+    Current		： 0.3544 (A)
+    Power Tolerance	： 5.40425 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=56.70956]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[M
+Received-> MPU:[MODE_WATT=78.73]MPU:[MODE_BLEND1=70.19]
+Received-> MPU:[MODE_WATT=78.73]MPU:[MODE_BLEND1=70.19]
+Received-> MPU:[MODE_WATT=78.73]MPU:[MODE_BLEND1=70.19]
+Received-> MPU:[MODE_WATT=78.73]MPU:[MODE_BLEND1=70.19]
+Received-> MPU:[MODE_WATT=78.73]MPU:[MODE_BLEND1=70.19]
+Received-> MPU:[MODE_WATT=78.73]MPU:[MODE_BLEND1=70.19]
+Received-> MPU:[MODE_WATT=78.73]MPU:[MODE_BLEND1=70.19]
+Received-> MPU:[MODE_WATT=78.73]MPU:[MODE_BLEND1=70.19]
+Received-> MPU:[MODE_WATT=78.73]MPU:[MODE_BLEND1=70.19]
+Received-> MPU:[MODE_WATT=78.73]MPU:[MODE_BLEND1=70.19]
+Received-> MPU:[MODE_WATT=78.73]MPU:[MODE_BLEND1=70.19]
+Received-> MPU:[MODE_WATT=78.73]MPU:[MODE_BLEND1=70.19]
+Received-> MPU:[MODE_WATT=78.73]MPU:[MODE_BLEND1=70.19]
+Received-> MPU:[MODE_WATT=78.73]MPU:[MODE_BLEND1=70.19]
+Received-> MPU:[MODE_WATT=78.73]MPU:[MODE_BLEND1=70.19]
+Received-> MPU:[MODE_WATT=78.73]MPU:[MODE_BLEND1=70.19]
+Received-> MPU:[MODE_WATT=78.73]MPU:[MODE_BLEND1=70.19]
+Received-> MPU:[MODE_WATT=78.73]MPU:[MODE_BLEND1=70.19]
+Received-> MPU:[MODE_WATT=78.73]MPU:[MODE_BLEND1=70.19]
+Received-> MPU:[MODE_WATT=78.73]MPU:[MODE_BLEND1=70.19]
+Received-> MPU:[MODE_WATT=78.73]MPU:[MODE_BLEND1=70.19]
+Received-> MPU:[MODE_WATT=78.73]MPU:[MODE_BLEND1=70.19]
+Received-> MPU:[MODE_WATT=78.73]MPU:[MODE_BLEND1=70.19]
+Received-> MPU:[MODE_WATT=78.73]MPU:[MODE_BLEND1=70.19]
+Received-> MPU:[MODE_WATT=78.73]MPU:[MODE_BLEND1=70.19]
+Received-> MPU:[MODE_WATT=78.73]MPU:[MODE_BLEND1=70.19]
+Received-> MPU:[MODE_WATT=78.73]MPU:[MODE_BLEND1=70.19]
+Received-> MPU:[MODE_WATT=78.73]MPU:[MODE_BLEND1=70.19]
+Received-> MPU:[MODE_WATT=78.73]MPU:[MODE_BLEND1=70.19]
+Received-> MPU:[MODE_WATT=78.73]MPU:[MODE_BLEND1=70.19]
+Received-> MPU:[MODE_WATT=78.73]MPU:[MODE_BLEND1=70.19]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 63.1719 (W) 
+    Voltage     ： 178.2 (V) 
+    Current		： 0.3545 (A)
+    Power Tolerance	： 4.72520000000001 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=56.53766]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[MODE_WATT=78.52]MPU:[MODE_BLEND1=70.12]
+Received-> MPU:[MODE_WATT=78.52]MPU:[MODE_BLEND1=70.12]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 62.49825 (W) 
+    Voltage     ： 177.3 (V) 
+    Current		： 0.3525 (A)
+    Power Tolerance	： 5.28649999999999 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=56.53766]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> M
+Received-> MPU:[MODE_WATT=78.52]MPU:[MODE_BLEND1=70.12]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 62.55184 (W) 
+    Voltage     ： 176.8 (V) 
+    Current		： 0.3538 (A)
+    Power Tolerance	： 4.16375 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=56.53766]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[MODE_WATT=78.52]MPU:[MODE_BLEND1=70.12]
+Received-> MPU:[MODE_WATT=78.52]MPU:[MODE_BLEND1=70.12]
+Received-> MPU:[MODE_WATT=78.52]MPU:[MODE_BLEND1=70.12]
+Received-> MPU:[MODE_WATT=78.52]MPU:[MODE_BLEND1=70.12]
+Received-> MPU:[MODE_WATT=78.52]MPU:[MODE_BLEND1=70.12]
+Received-> MPU:[MODE_WATT=78.52]MPU:[MODE_BLEND1=70.12]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 62.83452 (W) 
+    Voltage     ： 177.8 (V) 
+    Current		： 0.3534 (A)
+    Power Tolerance	： 4.25306666666668 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/08/02 17:19
+  Mode		： BLEND1
+	Expext Power	： 70 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent -> PC:[MODE_WATT=70]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[M
+Received-> MPU:[MODE_WATT=95.15]MPU:[MODE_BLEND1=75.31]
+Received-> MPU:[MODE_WATT=95.15]MPU:[MODE_BLEND1=75.31]
+Received-> MPU:[MODE_WATT=95.15]MPU:[MODE_BLEND1=75.31]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 76.8497 (W) 
+    Voltage     ： 197 (V) 
+    Current		： 0.3901 (A)
+    Power Tolerance	： 4.72420000000001 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=66.6503]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[MODE_WATT=91.03]MPU:[MODE_BLEND1=73.95]
+Received-> MPU:[MODE_WATT=91.03]MPU:[MODE_BLEND1=73.95]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 73.3635 (W) 
+    Voltage     ： 191.8 (V) 
+    Current		： 0.3825 (A)
+    Power Tolerance	： 9.78528571428571 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=66.6503]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[MODE_WATT=91.03]MPU:[MODE_BLEND1=73.95]
+Received-> MPU:[MODE_WATT=91.03]MPU:[MODE_BLEND1=73.95]
+Received-> MPU:[MODE_WATT=91.03]MPU:[MODE_BLEND1=73.95]
+Received-> MPU:[MODE_WATT=91.03]MPU:[MODE_BLEND1=73.95]
+Received-> MPU:[MODE_WATT=91.03]MPU:[MODE_BLEND1=73.95]
+Received-> MPU:[MODE_WATT=91.03]MPU:[MODE_BLEND1=73.95]
+Received-> MPU:[MODE_WATT=91.03]MPU:[MODE_BLEND1=73.95]
+Received-> MPU:[MODE_WATT=91.03]MPU:[MODE_BLEND1=73.95]
+Received-> MPU:[MODE_WATT=91.03]MPU:[MODE_BLEND1=73.95]
+Received-> MPU:[MODE_WATT=91.03]MPU:[MODE_BLEND1=73.95]
+Received-> MPU:[MODE_WATT=91.03]MPU:[MODE_BLEND1=73.95]
+Received-> MPU:[MODE_WATT=91.03]MPU:[MODE_BLEND1=73.95]
+Received-> MPU:[MODE_WATT=91.03]MPU:[MODE_BLEND1=73.95]
+Received-> MPU:[MODE_WATT=91.03]MPU:[MODE_BLEND1=73.95]
+Received-> MPU:[MODE_WATT=91.03]MPU:[MODE_BLEND1=73.95]
+Received-> MPU:[MODE_WATT=91.03]MPU:[MODE_BLEND1=73.95]
+Received-> MPU:[MODE_WATT=91.03]MPU:[MODE_BLEND1=73.95]
+Received-> MPU:[MODE_WATT=91.03]MPU:[MODE_BLEND1=73.95]
+Received-> MPU:[MODE_WATT=91.03]MPU:[MODE_BLEND1=73.95]
+Received-> MPU:[MODE_WATT=91.03]MPU:[MODE_BLEND1=73.95]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 73.61172 (W) 
+    Voltage     ： 192.6 (V) 
+    Current		： 0.3822 (A)
+    Power Tolerance	： 4.805 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=66.53858]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[MODE_WATT=90.89]MPU:[MODE_BLEND1=73.90]
+Received-> MPU:[MODE_WATT=90.89]MPU:[MODE_BLEND1=73.90]
+Received-> MPU:[MODE_WATT=90.89]MPU:[MODE_BLEND1=73.90]
+Received-> MPU:[MODE_WATT=90.89]MPU:[MODE_BLEND1=73.90]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 73.63098 (W) 
+    Voltage     ： 192.6 (V) 
+    Current		： 0.3823 (A)
+    Power Tolerance	： 5.15959999999999 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=66.4076]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[MODE_
+Received-> MPU:[MODE_WATT=90.73]MPU:[MODE_BLEND1=73.85]
+Received-> MPU:[MODE_WATT=90.73]MPU:[MODE_BLEND1=73.85]
+Received-> MPU:[MODE_WATT=90.73]MPU:[MODE_BLEND1=73.85]
+Received-> MPU:[MODE_WATT=90.73]MPU:[MODE_BLEND1=73.85]
+Received-> MPU:[MODE_WATT=90.73]MPU:[MODE_BLEND1=73.85]
+Received-> MPU:[MODE_WATT=90.73]MPU:[MODE_BLEND1=73.85]
+Received-> MPU:[MODE_WATT=90.73]MPU:[MODE_BLEND1=73.85]
+Received-> MPU:[MODE_WATT=90.73]MPU:[MODE_BLEND1=73.85]
+Received-> MPU:[MODE_WATT=90.73]MPU:[MODE_BLEND1=73.85]
+Received-> MPU:[MODE_WATT=90.73]MPU:[MODE_BLEND1=73.85]
+Received-> MPU:[MODE_WATT=90.73]MPU:[MODE_BLEND1=73.85]
+Received-> MPU:[MODE_WATT=90.73]MPU:[MODE_BLEND1=73.85]
+Received-> MPU:[MODE_WATT=90.73]MPU:[MODE_BLEND1=73.85]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 73.09521 (W) 
+    Voltage     ： 191.7 (V) 
+    Current		： 0.3813 (A)
+    Power Tolerance	： 5.18711428571428 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=66.4076]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[MODE_
+Received-> MPU:[MODE_WATT=90.73]MPU:[MODE_BLEND1=73.85]
+Received-> MPU:[MODE_WATT=90.73]MPU:[MODE_BLEND1=73.85]
+Received-> MPU:[MODE_WATT=90.73]MPU:[MODE_BLEND1=73.85]
+Received-> MPU:[MODE_WATT=90.73]MPU:[MODE_BLEND1=73.85]
+Received-> MPU:[MODE_WATT=90.73]MPU:[MODE_BLEND1=73.85]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 73.17189 (W) 
+    Voltage     ： 191.7 (V) 
+    Current		： 0.3817 (A)
+    Power Tolerance	： 4.42172857142856 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=66.4076]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[M
+Received-> MPU:[MODE_WATT=90.73]MPU:[MODE_BLEND1=73.85]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 73.2096 (W) 
+    Voltage     ： 192 (V) 
+    Current		： 0.3813 (A)
+    Power Tolerance	： 4.53127142857142 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/08/02 17:19
+  Mode		： BLEND1
+	Expext Power	： 80 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent -> PC:[MODE_WATT=80]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU
+Received-> MPU:[MODE_WATT=107.19]MPU:[MODE_BLEND1=79.10]
+Received-> MPU:[MODE_WATT=107.19]MPU:[MODE_BLEND1=79.10]
+Received-> MPU:[MODE_WATT=107.19]MPU:[MODE_BLEND1=79.10]
+Received-> MPU:[MODE_WATT=107.19]MPU:[MODE_BLEND1=79.10]
+Received-> MPU:[MODE_WATT=107.19]MPU:[MODE_BLEND1=79.10]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 87.40268 (W) 
+    Voltage     ： 209.8 (V) 
+    Current		： 0.4166 (A)
+    Power Tolerance	： 4.58514285714285 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=76.59732]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU
+Received-> MPU:[MODE_WATT=103.09]MPU:[MODE_BLEND1=77.86]
+Received-> MPU:[MODE_WATT=103.09]MPU:[MODE_BLEND1=77.86]
+Received-> MPU:[MODE_WATT=103.09]MPU:[MODE_BLEND1=77.86]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 84.62448 (W) 
+    Voltage     ： 206.2 (V) 
+    Current		： 0.4104 (A)
+    Power Tolerance	： 9.25335 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=75.97284]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:
+Received-> MPU:[MODE_WATT=102.34]MPU:[MODE_BLEND1=77.62]
+Received-> MPU:[MODE_WATT=102.34]MPU:[MODE_BLEND1=77.62]
+Received-> MPU:[MODE_WATT=102.34]MPU:[MODE_BLEND1=77.62]
+Received-> MPU:[MODE_WATT=102.34]MPU:[MODE_BLEND1=77.62]
+Received-> MPU:[MODE_WATT=102.34]MPU:[MODE_BLEND1=77.62]
+Received-> MPU:[MODE_WATT=102.34]MPU:[MODE_BLEND1=77.62]
+Received-> MPU:[MODE_WATT=102.34]MPU:[MODE_BLEND1=77.62]
+Received-> MPU:[MODE_WATT=102.34]MPU:[MODE_BLEND1=77.62]
+Received-> MPU:[MODE_WATT=102.34]MPU:[MODE_BLEND1=77.62]
+Received-> MPU:[MODE_WATT=102.34]MPU:[MODE_BLEND1=77.62]
+Received-> MPU:[MODE_WATT=102.34]MPU:[MODE_BLEND1=77.62]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 83.8032 (W) 
+    Voltage     ： 205.4 (V) 
+    Current		： 0.408 (A)
+    Power Tolerance	： 5.78059999999999 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=75.97284]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[MODE_WATT=102.34]MPU:[M
+Received-> MPU:[MODE_WATT=102.34]MPU:[MODE_BLEND1=77.62]
+Received-> MPU:[MODE_WATT=102.34]MPU:[MODE_BLEND1=77.62]
+Received-> MPU:[MODE_WATT=102.34]MPU:[MODE_BLEND1=77.62]
+Received-> MPU:[MODE_WATT=102.34]MPU:[MODE_BLEND1=77.62]
+Received-> MPU:[MODE_WATT=102.34]MPU:[MODE_BLEND1=77.62]
+Received-> MPU:[MODE_WATT=102.34]MPU:[MODE_BLEND1=77.62]
+Received-> MPU:[MODE_WATT=102.34]MPU:[MODE_BLEND1=77.62]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 83.845 (W) 
+    Voltage     ： 205 (V) 
+    Current		： 0.409 (A)
+    Power Tolerance	： 4.754 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=75.97284]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:
+Received-> MPU:[MODE_WATT=102.34]MPU:[MODE_BLEND1=77.62]
+Received-> MPU:[MODE_WATT=102.34]MPU:[MODE_BLEND1=77.62]
+Received-> MPU:[MODE_WATT=102.34]MPU:[MODE_BLEND1=77.62]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 84.25428 (W) 
+    Voltage     ： 205.9 (V) 
+    Current		： 0.4092 (A)
+    Power Tolerance	： 4.80625 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=75.71856]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[
+Received-> MPU:[MODE_WATT=102.03]MPU:[MODE_BLEND1=77.53]
+Received-> MPU:[MODE_WATT=102.03]MPU:[MODE_BLEND1=77.53]
+Received-> MPU:[MODE_WATT=102.03]MPU:[MODE_BLEND1=77.53]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 83.763 (W) 
+    Voltage     ： 205 (V) 
+    Current		： 0.4086 (A)
+    Power Tolerance	： 5.31785000000001 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=75.71856]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU
+Received-> MPU:[MODE_WATT=102.03]MPU:[MODE_BLEND1=77.53]
+Received-> MPU:[MODE_WATT=102.03]MPU:[MODE_BLEND1=77.53]
+Received-> MPU:[MODE_WATT=102.03]MPU:[MODE_BLEND1=77.53]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 83.72134 (W) 
+    Voltage     ： 205.3 (V) 
+    Current		： 0.4078 (A)
+    Power Tolerance	： 4.70375000000001 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=75.71856]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:
+Received-> MPU:[MODE_WATT=102.03]MPU:[MODE_BLEND1=77.53]
+Received-> MPU:[MODE_WATT=102.03]MPU:[MODE_BLEND1=77.53]
+Received-> MPU:[MODE_WATT=102.03]MPU:[MODE_BLEND1=77.53]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 83.41542 (W) 
+    Voltage     ： 204.6 (V) 
+    Current		： 0.4077 (A)
+    Power Tolerance	： 4.651675 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/08/02 17:19
+  Mode		： BLEND1
+	Expext Power	： 90 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent -> PC:[MODE_WATT=90]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU
+Received-> MPU:[MODE_WATT=117.53]MPU:[MODE_BLEND1=82.55]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 96.4459 (W) 
+    Voltage     ： 220.7 (V) 
+    Current		： 0.437 (A)
+    Power Tolerance	： 4.269275 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=88.0541]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 93.67766 (W) 
+    Voltage     ： 217.4 (V) 
+    Current		： 0.4309 (A)
+    Power Tolerance	： 7.16211111111111 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=88.0541]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 93.65774 (W) 
+    Voltage     ： 216.7 (V) 
+    Current		： 0.4322 (A)
+    Power Tolerance	： 4.08628888888889 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=88.0541]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[MODE_WATT=11
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 94.50125 (W) 
+    Voltage     ： 218.5 (V) 
+    Current		： 0.4325 (A)
+    Power Tolerance	： 4.06415555555554 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=88.05285]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:
+Received-> MPU:[MO
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 93.3751 (W) 
+    Voltage     ： 217 (V) 
+    Current		： 0.4303 (A)
+    Power Tolerance	： 5.00138888888889 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=88.05285]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 93.2463 (W) 
+    Voltage     ： 216.6 (V) 
+    Current		： 0.4305 (A)
+    Power Tolerance	： 3.75011111111111 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=88.05285]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+Received-> MPU:[MODE_WATT=115.52]MPU:[MODE_BLEND1=81.90]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 93.59181 (W) 
+    Voltage     ： 217.1 (V) 
+    Current		： 0.4311 (A)
+    Power Tolerance	： 3.60699999999999 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/08/02 17:19
+  Mode		： BLEND1
+	Expext Power	： 100 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent -> PC:[MODE_WATT=100]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[
+Received-> MPU:[MODE_WATT=131.77]MPU:[MODE_BLEND1=85.71]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 108.69408 (W) 
+    Voltage     ： 233.6 (V) 
+    Current		： 0.4653 (A)
+    Power Tolerance	： 3.99089999999999 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=96.30592]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[MO
+Received-> MPU:[MODE_WATT=126.51]MPU:[MODE_BLEND1=84.57]
+Received-> MPU:[MODE_WATT=126.51]MPU:[MODE_BLEND1=84.57]
+Received-> MPU:[MODE_WATT=126.51]MPU:[MODE_BLEND1=84.57]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 108.04261 (W) 
+    Voltage     ： 232.7 (V) 
+    Current		： 0.4643 (A)
+    Power Tolerance	： 8.69408 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=93.26331]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:
+Received-> MPU:[MODE_WATT=122.18]MPU:[MODE_BLEND1=83.61]
+Received-> MPU:[MODE_WATT=122.18]MPU:[MODE_BLEND1=83.61]
+Received-> MPU:[MODE_WATT=122.18]MPU:[MODE_BLEND1=83.61]
+Received-> MPU:[MODE_WATT=122.18]MPU:[MODE_BLEND1=83.61]
+Received-> MPU:[MODE_WATT=122.18]MPU:[MODE_BLEND1=83.61]
+Received-> MPU:[MODE_WATT=122.18]MPU:[MODE_BLEND1=83.61]
+Received-> MPU:[MODE_WATT=122.18]MPU:[MODE_BLEND1=83.61]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 100.95716 (W) 
+    Voltage     ： 225.2 (V) 
+    Current		： 0.4483 (A)
+    Power Tolerance	： 8.04261 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=93.26331]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU
+Received-> MPU:[MODE_WATT=122.18]MPU:[MODE_BLEND1=83.61]
+Received-> MPU:[MODE_WATT=122.18]MPU:[MODE_BLEND1=83.61]
+Received-> MPU:[MODE_WATT=122.18]MPU:[MODE_BLEND1=83.61]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 100.7104 (W) 
+    Voltage     ： 224.8 (V) 
+    Current		： 0.448 (A)
+    Power Tolerance	： 0.957159999999988 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=93.26331]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU
+Received-> MPU:[MODE_WATT=122.18]MPU:[MODE_BLEND1=83.61]
+Received-> MPU:[MODE_WATT=122.18]MPU:[MODE_BLEND1=83.61]
+Received-> MPU:[MODE_WATT=122.18]MPU:[MODE_BLEND1=83.61]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 100.77784 (W) 
+    Voltage     ： 224.8 (V) 
+    Current		： 0.4483 (A)
+    Power Tolerance	： 0.710400000000007 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/08/02 17:20
+  Mode		： BLEND1
+	Expext Power	： 110 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent -> PC:[MODE_WATT=110]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:
+Received-> MPU:[MODE_WATT=142.56]MPU:[MODE_BLEND1=88.62]
+Received-> MPU:[MODE_WATT=142.56]MPU:[MODE_BLEND1=88.62]
+Received-> MPU:[MODE_WATT=142.56]MPU:[MODE_BLEND1=88.62]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 116.71591 (W) 
+    Voltage     ： 242.3 (V) 
+    Current		： 0.4817 (A)
+    Power Tolerance	： 0.777839999999998 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=108.78409]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[M
+Received-> MPU:[MODE_WATT=141.25]MPU:[MODE_BLEND1=88.28]
+Received-> MPU:[MODE_WATT=141.25]MPU:[MODE_BLEND1=88.28]
+Received-> MPU:[MODE_WATT=141.25]MPU:[MODE_BLEND1=88.28]
+Received-> MPU:[MODE_WATT=141.25]MPU:[MODE_BLEND1=88.28]
+Received-> MPU:[MODE_WATT=141.25]MPU:[MODE_BLEND1=88.28]
+Received-> MPU:[MODE_WATT=141.25]MPU:[MODE_BLEND1=88.28]
+Received-> MPU:[MODE_WATT=141.25]MPU:[MODE_BLEND1=88.28]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 116.01704 (W) 
+    Voltage     ： 241.3 (V) 
+    Current		： 0.4808 (A)
+    Power Tolerance	： 6.10537272727273 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=108.26705]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[MO
+Received-> MPU:[MODE_WATT=140.69]MPU:[MODE_BLEND1=88.13]
+Received-> MPU:[MODE_WATT=140.69]MPU:[MODE_BLEND1=88.13]
+Received-> MPU:[MODE_WATT=140.69]MPU:[MODE_BLEND1=88.13]
+Received-> MPU:[MODE_WATT=140.69]MPU:[MODE_BLEND1=88.13]
+Received-> MPU:[MODE_WATT=140.69]MPU:[MODE_BLEND1=88.13]
+Received-> MPU:[MODE_WATT=140.69]MPU:[MODE_BLEND1=88.13]
+Received-> MPU:[MODE_WATT=140.69]MPU:[MODE_BLEND1=88.13]
+Received-> MPU:[MODE_WATT=140.69]MPU:[MODE_BLEND1=88.13]
+Received-> MPU:[MODE_WATT=140.69]MPU:[MODE_BLEND1=88.13]
+Received-> MPU:[MODE_WATT=140.69]MPU:[MODE_BLEND1=88.13]
+Received-> MPU:[MODE_WATT=140.69]MPU:[MODE_BLEND1=88.13]
+Received-> MPU:[MODE_WATT=140.69]MPU:[MODE_BLEND1=88.13]
+Received-> MPU:[MODE_WATT=140.69]MPU:[MODE_BLEND1=88.13]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 115.65392 (W) 
+    Voltage     ： 241.6 (V) 
+    Current		： 0.4787 (A)
+    Power Tolerance	： 5.47003636363637 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=108.11313]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[MODE_WATT
+Received-> MPU:[MODE_WATT=140.53]MPU:[MODE_BLEND1=88.09]
+Received-> MPU:[MODE_WATT=140.53]MPU:[MODE_BLEND1=88.09]
+Received-> MPU:[MODE_WATT=140.53]MPU:[MODE_BLEND1=88.09]
+Received-> MPU:[MODE_WATT=140.53]MPU:[MODE_BLEND1=88.09]
+Received-> MPU:[MODE_WATT=140.53]MPU:[MODE_BLEND1=88.09]
+Received-> MPU:[MODE_WATT=140.53]MPU:[MODE_BLEND1=88.09]
+Received-> MPU:[MODE_WATT=140.53]MPU:[MODE_BLEND1=88.09]
+Received-> MPU:[MODE_WATT=140.53]MPU:[MODE_BLEND1=88.09]
+Received-> MPU:[MODE_WATT=140.53]MPU:[MODE_BLEND1=88.09]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 115.38966 (W) 
+    Voltage     ： 241.3 (V) 
+    Current		： 0.4782 (A)
+    Power Tolerance	： 5.13992727272727 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=108.11313]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[MOD
+Received-> MPU:[MODE_WATT=140.53]MPU:[MODE_BLEND1=88.09]
+Received-> MPU:[MODE_WATT=140.53]MPU:[MODE_BLEND1=88.09]
+Received-> MPU:[MODE_WATT=140.53]MPU:[MODE_BLEND1=88.09]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 115.82372 (W) 
+    Voltage     ： 241.4 (V) 
+    Current		： 0.4798 (A)
+    Power Tolerance	： 4.89969090909091 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent -> PC:[MODE_WATT=107.78941]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[MODE_WATT=
+Received-> MPU:[MODE_WATT=140.18]MPU:[MODE_BLEND1=88.00]
+Received-> MPU:[MODE_WATT=140.18]MPU:[MODE_BLEND1=88.00]
+Received-> MPU:[MODE_WATT=140.18]MPU:[MODE_BLEND1=88.00]
+Received-> MPU:[MODE_WATT=140.18]MPU:[MODE_BLEND1=88.00]
+Received-> MPU:[MODE_WATT=140.18]MPU:[MODE_BLEND1=88.00]
+Received-> MPU:[MODE_WATT=140.18]MPU:[MODE_BLEND1=88.00]
+Received-> MPU:[MODE_WATT=140.18]MPU:[MODE_BLEND1=88.00]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 114.74325 (W) 
+    Voltage     ： 240.3 (V) 
+    Current		： 0.4775 (A)
+    Power Tolerance	： 5.29429090909092 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=107.78941]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU
+Received-> MPU:[MODE_WATT=140.18]MPU:[MODE_BLEND1=88.00]
+Received-> MPU:[MODE_WATT=140.18]MPU:[MODE_BLEND1=88.00]
+Received-> MPU:[MODE_WATT=140.18]MPU:[MODE_BLEND1=88.00]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 115.07832 (W) 
+    Voltage     ： 240.8 (V) 
+    Current		： 0.4779 (A)
+    Power Tolerance	： 4.31204545454546 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=107.78941]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[
+Received-> MPU:[MODE_WATT=140.18]MPU:[MODE_BLEND1=88.00]
+Received-> MPU:[MODE_WATT=140.18]MPU:[MODE_BLEND1=88.00]
+Received-> MPU:[MODE_WATT=140.18]MPU:[MODE_BLEND1=88.00]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 115.14936 (W) 
+    Voltage     ： 241.1 (V) 
+    Current		： 0.4776 (A)
+    Power Tolerance	： 4.61665454545455 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/08/02 17:20
+  Mode		： BLEND1
+	Expext Power	： 120 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent -> PC:[MODE_WATT=120]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[M
+Received-> MPU:[MODE_WATT=154.09]MPU:[MODE_BLEND1=91.33]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 125.54948 (W) 
+    Voltage     ： 251.3 (V) 
+    Current		： 0.4996 (A)
+    Power Tolerance	： 4.68123636363637 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=120]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU
+Received-> MPU:[MODE_WATT=154.09]MPU:[MODE_BLEND1=91.33]
+Received-> MPU:[MODE_WATT=154.09]MPU:[MODE_BLEND1=91.33]
+Received-> MPU:[MODE_WATT=154.09]MPU:[MODE_BLEND1=91.33]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 125.82545 (W) 
+    Voltage     ： 251.5 (V) 
+    Current		： 0.5003 (A)
+    Power Tolerance	： 4.62456666666667 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=120]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[MODE_WATT=15
+Received-> MPU:[MODE_WATT=154.09]MPU:[MODE_BLEND1=91.33]
+Received-> MPU:[MODE_WATT=154.09]MPU:[MODE_BLEND1=91.33]
+Received-> MPU:[MODE_WATT=154.09]MPU:[MODE_BLEND1=91.33]
+Received-> MPU:[MODE_WATT=154.09]MPU:[MODE_BLEND1=91.33]
+Received-> MPU:[MODE_WATT=154.09]MPU:[MODE_BLEND1=91.33]
+Received-> MPU:[MODE_WATT=154.09]MPU:[MODE_BLEND1=91.33]
+Received-> MPU:[MODE_WATT=154.09]MPU:[MODE_BLEND1=91.33]
+Received-> MPU:[MODE_WATT=154.09]MPU:[MODE_BLEND1=91.33]
+Received-> MPU:[MODE_WATT=154.09]MPU:[MODE_BLEND1=91.33]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 125.8 (W) 
+    Voltage     ： 251.6 (V) 
+    Current		： 0.5 (A)
+    Power Tolerance	： 4.85454166666666 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/08/02 17:20
+  Mode		： BLEND1
+	Expext Power	： 130 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent -> PC:[MODE_WATT=130]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[
+Received-> MPU:[MODE_WATT=165.41]MPU:[MODE_BLEND1=93.87]
+Received-> MPU:[MODE_WATT=165.41]MPU:[MODE_BLEND1=93.87]
+Received-> MPU:[MODE_WATT=165.41]MPU:[MODE_BLEND1=93.87]
+Received-> MPU:[MODE_WATT=165.41]MPU:[MODE_BLEND1=93.87]
+Received-> MPU:[MODE_WATT=165.41]MPU:[MODE_BLEND1=93.87]
+Received-> MPU:[MODE_WATT=165.41]MPU:[MODE_BLEND1=93.87]
+Received-> MPU:[MODE_WATT=165.41]MPU:[MODE_BLEND1=93.87]
+Received-> MPU:[MODE_WATT=165.41]MPU:[MODE_BLEND1=93.87]
+Received-> MPU:[MODE_WATT=165.41]MPU:[MODE_BLEND1=93.87]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 135.0953 (W) 
+    Voltage     ： 260.5 (V) 
+    Current		： 0.5186 (A)
+    Power Tolerance	： 4.83333333333333 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=130]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:
+Received-> MPU:[MODE_WATT=165.41]MPU:[MODE_BLEND1=93.87]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 135.19838 (W) 
+    Voltage     ： 260.9 (V) 
+    Current		： 0.5182 (A)
+    Power Tolerance	： 3.91946153846152 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=130]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU
+Received-> MPU:[MODE_WATT=165.41]MPU:[MODE_BLEND1=93.87]
+Received-> MPU:[MODE_WATT=165.41]MPU:[MODE_BLEND1=93.87]
+Received-> MPU:[MODE_WATT=165.41]MPU:[MODE_BLEND1=93.87]
+Received-> MPU:[MODE_WATT=165.41]MPU:[MODE_BLEND1=93.87]
+Received-> MPU:[MODE_WATT=165.41]MPU:[MODE_BLEND1=93.87]
+Received-> MPU:[MODE_WATT=165.41]MPU:[MODE_BLEND1=93.87]
+Received-> MPU:[MODE_WATT=165.41]MPU:[MODE_BLEND1=93.87]
+Received-> MPU:[MODE_WATT=165.41]MPU:[MODE_BLEND1=93.87]
+Received-> MPU:[MODE_WATT=165.41]MPU:[MODE_BLEND1=93.87]
+Received-> MPU:[MODE_WATT=165.41]MPU:[MODE_BLEND1=93.87]
+Received-> MPU:[MODE_WATT=165.41]MPU:[MODE_BLEND1=93.87]
+Received-> MPU:[MODE_WATT=165.41]MPU:[MODE_BLEND1=93.87]
+Received-> MPU:[MODE_WATT=165.41]MPU:[MODE_BLEND1=93.87]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 135.37855 (W) 
+    Voltage     ： 261.5 (V) 
+    Current		： 0.5177 (A)
+    Power Tolerance	： 3.99875384615384 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/08/02 17:20
+  Mode		： BLEND1
+	Expext Power	： 140 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent -> PC:[MODE_WATT=140]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU
+Received-> MPU:[MODE_WATT=178.09]MPU:[MODE_BLEND1=96.24]
+Received-> MPU:[MODE_WATT=178.09]MPU:[MODE_BLEND1=96.24]
+Received-> MPU:[MODE_WATT=178.09]MPU:[MODE_BLEND1=96.24]
+Received-> MPU:[MODE_WATT=178.09]MPU:[MODE_BLEND1=96.24]
+Received-> MPU:[MODE_WATT=178.09]MPU:[MODE_BLEND1=96.24]
+Received-> MPU:[MODE_WATT=178.09]MPU:[MODE_BLEND1=96.24]
+Received-> MPU:[MODE_WATT=178.09]MPU:[MODE_BLEND1=96.24]
+Received-> MPU:[MODE_WATT=178.09]MPU:[MODE_BLEND1=96.24]
+Received-> MPU:[MODE_WATT=178.09]MPU:[MODE_BLEND1=96.24]
+Received-> MPU:[MODE_WATT=178.09]MPU:[MODE_BLEND1=96.24]
+Received-> MPU:[MODE_WATT=178.09]MPU:[MODE_BLEND1=96.24]
+Received-> MPU:[MODE_WATT=178.09]MPU:[MODE_BLEND1=96.24]
+Received-> MPU:[MODE_WATT=178.09]MPU:[MODE_BLEND1=96.24]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 146.14743 (W) 
+    Voltage     ： 271.7 (V) 
+    Current		： 0.5379 (A)
+    Power Tolerance	： 4.13734615384617 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=140]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[MO
+Received-> MPU:[MODE_WATT=178.09]MPU:[MODE_BLEND1=96.24]
+Received-> MPU:[MODE_WATT=178.09]MPU:[MODE_BLEND1=96.24]
+Received-> MPU:[MODE_WATT=178.09]MPU:[MODE_BLEND1=96.24]
+Received-> MPU:[MODE_WATT=178.09]MPU:[MODE_BLEND1=96.24]
+Received-> MPU:[MODE_WATT=178.09]MPU:[MODE_BLEND1=96.24]
+Received-> MPU:[MODE_WATT=178.09]MPU:[MODE_BLEND1=96.24]
+Received-> MPU:[MODE_WATT=178.09]MPU:[MODE_BLEND1=96.24]
+Received-> MPU:[MODE_WATT=178.09]MPU:[MODE_BLEND1=96.24]
+Received-> MPU:[MODE_WATT=178.09]MPU:[MODE_BLEND1=96.24]
+Received-> MPU:[MODE_WATT=178.09]MPU:[MODE_BLEND1=96.24]
+Received-> MPU:[MODE_WATT=178.09]MPU:[MODE_BLEND1=96.24]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 146.04157 (W) 
+    Voltage     ： 271.1 (V) 
+    Current		： 0.5387 (A)
+    Power Tolerance	： 4.39102142857144 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=140]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[MODE_WATT=178.09]MPU:[MODE_BLEND1=96.24]
+Received-> MPU:[MODE_WATT=178.09]MPU:[MODE_BLEND1=96.24]
+Received-> MPU:[MODE_WATT=178.09]MPU:[MODE_BLEND1=96.24]
+Received-> MPU:[MODE_WATT=178.09]MPU:[MODE_BLEND1=96.24]
+Received-> MPU:[MODE_WATT=178.09]MPU:[MODE_BLEND1=96.24]
+Received-> MPU:[MODE_WATT=178.09]MPU:[MODE_BLEND1=96.24]
+Received-> MPU:[MODE_WATT=178.09]MPU:[MODE_BLEND1=96.24]
+Received-> MPU:[MODE_WATT=178.09]MPU:[MODE_BLEND1=96.24]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 146.2 (W) 
+    Voltage     ： 272 (V) 
+    Current		： 0.5375 (A)
+    Power Tolerance	： 4.31540714285715 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/08/02 17:21
+  Mode		： BLEND1
+	Expext Power	： 150 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent -> PC:[MODE_WATT=150]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[MODE_WATT=191.16]MPU:[MODE_BLEND1=98.49]
+Received-> MPU:[MODE_WATT=191.16]MPU:[MODE_BLEND1=98.49]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 156.769 (W) 
+    Voltage     ： 281.2 (V) 
+    Current		： 0.5575 (A)
+    Power Tolerance	： 4.42857142857142 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=150]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU:[MODE_WATT=191.16]MPU:[MODE_BLEND1=98.49]
+Received-> MPU:[MODE_WATT=191.16]MPU:[MODE_BLEND1=98.49]
+Received-> MPU:[MODE_WATT=191.16]MPU:[MODE_BLEND1=98.49]
+Received-> MPU:[MODE_WATT=191.16]MPU:[MODE_BLEND1=98.49]
+Received-> MPU:[MODE_WATT=191.16]MPU:[MODE_BLEND1=98.49]
+Received-> MPU:[MODE_WATT=191.16]MPU:[MODE_BLEND1=98.49]
+Received-> MPU:[MODE_WATT=191.16]MPU:[MODE_BLEND1=98.49]
+Received-> MPU:[MODE_WATT=191.16]MPU:[MODE_BLEND1=98.49]
+Received-> MPU:[MODE_WATT=191.16]MPU:[MODE_BLEND1=98.49]
+Received-> MPU:[MODE_WATT=191.16]MPU:[MODE_BLEND1=98.49]
+Received-> MPU:[MODE_WATT=191.16]MPU:[MODE_BLEND1=98.49]
+Received-> MPU:[MODE_WATT=191.16]MPU:[MODE_BLEND1=98.49]
+Received-> MPU:[MODE_WATT=191.16]MPU:[MODE_BLEND1=98.49]
+Received-> MPU:[MODE_WATT=191.16]MPU:[MODE_BLEND1=98.49]
+Received-> MPU:[MODE_WATT=191.16]MPU:[MODE_BLEND1=98.49]
+Received-> MPU:[MODE_WATT=191.16]MPU:[MODE_BLEND1=98.49]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 157.44166 (W) 
+    Voltage     ： 281.8 (V) 
+    Current		： 0.5587 (A)
+    Power Tolerance	： 4.51266666666667 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent -> PC:[MODE_WATT=150]
+Sent -> PC:[MODE_BLEND1=0]
+Received-> MPU
+Received-> MPU:[MODE_WATT=191.16]MPU:[MODE_BLEND1=98.49]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 156.7398 (W) 
+    Voltage     ： 281.4 (V) 
+    Current		： 0.557 (A)
+    Power Tolerance	： 4.96110666666667 % 
+
+Sent -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+Sent -> PC:[CALIB_DATA_BLEND1=0.76,0.85,0.92,0.91,0.93,0.94,0.95,0.95,0.98,0.93,0.98,1.00,1.00,1.00,1.00]
+Sent -> PC:[CALIB_DATA_FLAG=82]
+Sent -> PC:[MODE_DISABLE=0]

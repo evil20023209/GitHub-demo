@@ -1,0 +1,18 @@
+2017/11/2 上午 10:48:52
+D:\Sean.lin\Desktop\C#\Csharp-V25_20171030\Csharp\bin\Debug\11.2.2017 10.48.52 AM
+System.Reflection.TargetInvocationException: 引動過程的目標傳回例外狀況。 ---> System.ArgumentException: Insufficient location information or the device or resource is not present in the system.  VISA error code -1073807343 (0xBFFF0011), ErrorResourceNotFound ---> NationalInstruments.VisaNS.VisaException: Insufficient location information or the device or resource is not present in the system.  VISA error code -1073807343 (0xBFFF0011), ErrorResourceNotFound
+   --- 內部例外狀況堆疊追蹤的結尾 ---
+   於 NationalInstruments.VisaNS.Internal.ErrorChecker.CheckStatusAndThrow(Int32 status, VisaHandle visaObject)
+   於 NationalInstruments.VisaNS.Session..ctor(String resourceName, AccessModes accessMode, Int32 openTimeout, String expectedResourceName)
+   於 NationalInstruments.VisaNS.MessageBasedSession..ctor(String resourceName, AccessModes accessMode, Int32 openTimeout, String expectedResourceName)
+   於 NationalInstruments.VisaNS.UsbSession..ctor(String resourceName, AccessModes accessMode, Int32 openTimeout, Boolean checkResourceType)
+   --- 內部例外狀況堆疊追蹤的結尾 ---
+   於 System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   於 System.Reflection.RuntimeConstructorInfo.Invoke(BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   於 System.RuntimeType.CreateInstanceImpl(BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes, StackCrawlMark& stackMark)
+   於 System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   於 System.Activator.CreateInstance(Type type, Object[] args)
+   於 NationalInstruments.VisaNS.ResourceManager.Open(String resourceName, AccessModes accessMode, Int32 openTimeout)
+   於 NationalInstruments.VisaNS.ResourceManager.Open(String resourceName)
+   於 Csharp.Lecroy.Connect(TYPE eScopeType) 於 d:\Sean.lin\Desktop\C#\Csharp-V25_20171030\Csharp\Lecroy.cs: 行 54
+   於 Csharp.MainForm.Button_OSconnect_Click(Object sender, EventArgs e) 於 d:\Sean.lin\Desktop\C#\Csharp-V25_20171030\Csharp\MainForm.cs: 行 940 

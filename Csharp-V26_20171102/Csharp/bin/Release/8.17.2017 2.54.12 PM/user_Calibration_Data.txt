@@ -1,0 +1,8 @@
+2017/8/17 ¤U¤È 02:54:12
+OS connected. 
+Connected COM10.
+False to connect RSB.
+
+Connected COM10.
+False to connect RSB.
+

@@ -1,0 +1,557 @@
+2017/11/2 下午 03:09:49
+D:\Sean.lin\Desktop\C#\Csharp-V25_20171030\Csharp\bin\Debug\11.2.2017 3.09.49 PM
+
+Connecting COM4...
+Connected COM4.
+Connecting E200...
+Sent E200 -> PC:[MODE_WATT=0]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MSG:[0]
+Return signal is not from E200. 
+False to connect E200.
+
+
+Connecting COM3...
+Connected COM3.
+Connecting E200...
+Sent E200 -> PC:[MODE_WATT=0]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=9.75]MPU:[MODE_PURE=0.00]
+Sent E200 -> PC:[MODE_DISABLE=0]
+Connected E200.
+OS connected. 
+
+Connecting COM4...
+COM4 Opened.
+Connected COM4.
+Connecting RSB...
+Sent RSB -> PC:[DET_12V_CHK?]
+Received RSB-> RSB:[DET_12V_CHK=2.00]
+Connected RSB.
+Start calibrating...
+2017/11/2 下午 03:10:09
+Checked mode PURE, BLEND1, BLEND2, PINPOINT, SPRAY, BIPOLAR. 
+
+************************************************** 
+    Time        ： 2017/11/02 15:10
+    Mode		： PURE
+	Expext Power	： 10 (W)
+	Load		：  (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent RSB -> PC:[RELAY_CTRL_K1=1]
+Received RSB-> RSB:[RELAY_CTRL_K1=1]
+Sent RSB -> PC:[RELAY_CTRL_K2=0]
+Received RSB-> RSB:[RELAY_CTRL_K2=0]
+Sent RSB -> PC:[RELAY_CTRL_K3=1]
+Received RSB-> RSB:[RELAY_CTRL_K3=1]
+Sent RSB -> PC:[RELAY_CTRL_K4=0]
+Received RSB-> RSB:[RELAY_CTRL_K4=0]
+Sent RSB -> PC:[RELAY_CTRL_K5=0]
+Received RSB-> RSB:[RELAY_CTRL_K5=0]
+Sent RSB -> PC:[RELAY_CTRL_K6=1]
+Received RSB-> RSB:[RELAY_CTRL_K6=1]
+Sent RSB -> PC:[RELAY_CTRL_K7=1]
+Received RSB-> RSB:[RELAY_CTRL_K7=1]
+Sent RSB -> PC:[RELAY_CHK_K1?]
+Received RSB-> RSB:[RELAY_CHK_K1=0]
+Sent RSB -> PC:[RELAY_CHK_K2?]
+Received RSB-> RSB:[RELAY_CHK_K2=1]
+Sent RSB -> PC:[RELAY_CHK_K3?]
+Received RSB-> RSB:[RELAY_CHK_K3=0]
+Sent RSB -> PC:[RELAY_CHK_K4?]
+Received RSB-> RSB:[RELAY_CHK_K4=1]
+Sent RSB -> PC:[RELAY_CHK_K5?]
+Received RSB-> RSB:[RELAY_CHK_K5=1]
+Sent RSB -> PC:[RELAY_CHK_K6?]
+Received RSB-> RSB:[RELAY_CHK_K6=0]
+Sent RSB -> PC:[RELAY_CHK_K7?]
+Received RSB-> RSB:[RELAY_CHK_K7=0]
+Sent E200 -> PC:[MODE_WATT=10]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MOD
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 12.6166 (W) 
+    Voltage     ： 79.6 (V) 
+    Current		： 0.1585 (A)
+    Power Tolerance	： 26.166 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent E200 -> PC:[MODE_WATT=8.6917]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 11.715 (W) 
+    Voltage     ： 78.1 (V) 
+    Current		： 0.15 (A)
+    Power Tolerance	： 17.15 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent E200 -> PC:[MODE_WATT=7.8342]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=17
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 10.93716 (W) 
+    Voltage     ： 74.1 (V) 
+    Current		： 0.1476 (A)
+    Power Tolerance	： 9.3716 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent E200 -> PC:[MODE_WATT=7.36562]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=17.02]MPU:[MODE_PURE=26.25]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 10.9938 (W) 
+    Voltage     ： 73 (V) 
+    Current		： 0.1506 (A)
+    Power Tolerance	： 9.938 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent E200 -> PC:[MODE_WATT=6.86872]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 10.49055 (W) 
+    Voltage     ： 72.1 (V) 
+    Current		： 0.1455 (A)
+    Power Tolerance	： 4.90549999999999 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/11/02 15:10
+  Mode		： PURE
+	Expext Power	： 20 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent E200 -> PC:[MODE_WATT=20]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=29.50]MPU:[MODE_PURE=42.92]
+------------  Osilloscope Measurement  ------------ 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+NationalInstruments.VisaNS.VisaException: Could not perform operation because of I/O error.  VISA error code -1073807298 (0xBFFF003E), ErrorIO
+   於 NationalInstruments.VisaNS.Internal.ErrorChecker.CheckStatusAndThrow(Int32 status, VisaHandle visaObject)
+   於 NationalInstruments.VisaNS.Session.CheckStatusAndThrow(Int32 status, Boolean setLastStatus)
+   於 NationalInstruments.VisaNS.Session.CheckStatusAndThrow(Int32 status)
+   於 NationalInstruments.VisaNS.Internal.MessageBasedSessionImpl.ReadString(Int32 countToRead)
+   於 NationalInstruments.VisaNS.MessageBasedSession.ReadString(Int32 countToRead)
+   於 NationalInstruments.VisaNS.MessageBasedSession.Query(String dataToWrite, Int32 countToRead)
+   於 NationalInstruments.VisaNS.MessageBasedSession.Query(String dataToWrite)
+   於 Csharp.Keysight.RMS_Get(UInt32 uiChannel) 於 d:\Sean.lin\Desktop\C#\Csharp-V25_20171030\Csharp\Keysight.cs: 行 184
+   於 Csharp.MainForm.CalibStatus_OS_Measure(String[] sml, Int32 sml_select) 於 d:\Sean.lin\Desktop\C#\Csharp-V25_20171030\Csharp\MainForm.cs: 行 1402
+Sent E200 -> PC:[MODE_DISABLE=0]
+OS connected. 
+System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 Csharp.MainForm.CalibStatus_OS_Measure(String[] sml, Int32 sml_select) 於 d:\Sean.lin\Desktop\C#\Csharp-V25_20171030\Csharp\MainForm.cs: 行 1419
+    Power       ： 10.49055 (W) 
+    Voltage     ： 72.1 (V) 
+    Current		： 0.1455 (A)
+    Power Tolerance	： -47.54725 % 
+
+Start calibrating...
+2017/11/2 下午 03:11:20
+Checked mode PURE, BLEND1, BLEND2, PINPOINT, SPRAY, BIPOLAR. 
+
+************************************************** 
+    Time        ： 2017/11/02 15:11
+    Mode		： PURE
+	Expext Power	： 10 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent RSB -> PC:[RELAY_CTRL_K1=1]
+Received RSB-> RSB:[RELAY_CTRL_K1=1]
+Sent RSB -> PC:[RELAY_CTRL_K2=0]
+Received RSB-> RSB:[RELAY_
+Sent RSB -> PC:[RELAY_CTRL_K3=1]
+Received RSB-> RSB:[RELAY_CTRL_K3=1]
+Sent RSB -> PC:[RELAY_CTRL_K4=0]
+Received RSB-> RSB:[RELAY_CTRL_K4=0]
+Sent RSB -> PC:[RELAY_CTRL_K5=0]
+Received RSB-> RSB:[RELAY_CTRL_K5=0]
+Sent RSB -> PC:[RELAY_CTRL_K6=1]
+Received RSB-> RSB:[RELAY_CTRL_K6=1]
+Sent RSB -> PC:[RELAY_CTRL_K7=1]
+Received RSB-> RSB:[RELAY_CTRL_K7=1]
+Sent RSB -> PC:[RELAY_CHK_K1?]
+Received RSB-> RSB:[RELAY_CHK_K1=0]
+Sent RSB -> PC:[RELAY_CHK_K2?]
+Received RSB-> RSB:[RELAY_CHK_K2=1]
+Sent RSB -> PC:[RELAY_CHK_K3?]
+Received RSB-> RSB:[RELAY_CHK_K3=0]
+Sent RSB -> PC:[RELAY_CHK_K4?]
+Received RSB-> RSB:[RELAY_CHK_K4=1]
+Sent RSB -> PC:[RELAY_CHK_K5?]
+Received RSB-> RSB:[RELAY_CHK_K5=1]
+Sent RSB -> PC:[RELAY_CHK_K6?]
+Received RSB-> RSB:[RELAY_CHK_K6=0]
+Sent RSB -> PC:[RELAY_CHK_K7?]
+Received RSB-> RSB:[RELAY_CHK_K7=0]
+Sent E200 -> PC:[MODE_WATT=10]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_W
+------------  Osilloscope Measurement  ------------ 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+NationalInstruments.VisaNS.VisaException: Device reported an input protocol error during transfer.  VISA error code -1073807305 (0xBFFF0037), ErrorInputProtocolViolation
+   於 NationalInstruments.VisaNS.Internal.ErrorChecker.CheckStatusAndThrow(Int32 status, VisaHandle visaObject)
+   於 NationalInstruments.VisaNS.Session.CheckStatusAndThrow(Int32 status, Boolean setLastStatus)
+   於 NationalInstruments.VisaNS.Session.CheckStatusAndThrow(Int32 status)
+   於 NationalInstruments.VisaNS.Internal.MessageBasedSessionImpl.ReadString(Int32 countToRead)
+   於 NationalInstruments.VisaNS.MessageBasedSession.ReadString(Int32 countToRead)
+   於 NationalInstruments.VisaNS.MessageBasedSession.Query(String dataToWrite, Int32 countToRead)
+   於 NationalInstruments.VisaNS.MessageBasedSession.Query(String dataToWrite)
+   於 Csharp.Keysight.RMS_Get(UInt32 uiChannel) 於 d:\Sean.lin\Desktop\C#\Csharp-V25_20171030\Csharp\Keysight.cs: 行 184
+   於 Csharp.MainForm.CalibStatus_OS_Measure(String[] sml, Int32 sml_select) 於 d:\Sean.lin\Desktop\C#\Csharp-V25_20171030\Csharp\MainForm.cs: 行 1401
+Sent E200 -> PC:[MODE_DISABLE=0]
+OS connected. 
+System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 Csharp.MainForm.CalibStatus_OS_Measure(String[] sml, Int32 sml_select) 於 d:\Sean.lin\Desktop\C#\Csharp-V25_20171030\Csharp\MainForm.cs: 行 1419
+    Power       ： 10.49055 (W) 
+    Voltage     ： 72.1 (V) 
+    Current		： 0.1455 (A)
+    Power Tolerance	： 4.90549999999999 % 
+
+Start calibrating...
+2017/11/2 下午 03:11:29
+Checked mode PURE, BLEND1, BLEND2, PINPOINT, SPRAY, BIPOLAR. 
+
+************************************************** 
+    Time        ： 2017/11/02 15:11
+    Mode		： PURE
+	Expext Power	： 10 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent RSB -> PC:[RELAY_CTRL_K1=1]
+Received RSB-> RSB:[RELAY_CTRL_K1=1]
+Sent RSB -> PC:[RELAY_CTRL_K2=0]
+Received RSB-> RSB:[RELAY_CTRL_K2=0]
+Sent RSB -> PC:[RELAY_CTRL_K3=1]
+Received RSB-> RSB:[RELAY_CTRL_K3=1]
+Sent RSB -> PC:[RELAY_CTRL_K4=0]
+Received RSB-> RSB:[RELAY_CTRL_K4=0]
+Sent RSB -> PC:[RELAY_CTRL_K5=0]
+Received RSB-> RSB:[RELAY_CTRL_K5=0]
+Sent RSB -> PC:[RELAY_CTRL_K6=1]
+Received RSB-> RSB:[RELAY_CTRL_K6=1]
+Sent RSB -> PC:[RELAY_CTRL_K7=1]
+Received RSB-> RSB:[RELAY_CTRL_K7=1]
+Sent RSB -> PC:[RELAY_CHK_K1?]
+Received RSB-> RSB:[RELAY_CHK_K1=0]
+Sent RSB -> PC:[RELAY_CHK_K2?]
+Received RSB-> RSB:[RELAY_CHK_K2=1]
+Sent RSB -> PC:[RELAY_CHK_K3?]
+Received RSB-> RSB:[RELAY_CHK_K3=0]
+Sent RSB -> PC:[RELAY_CHK_K4?]
+Received RSB-> RSB:[RELAY_CHK_K4=1]
+Sent RSB -> PC:[RELAY_CHK_K5?]
+Received RSB-> RSB:[RELAY_CHK_K5=1]
+Sent RSB -> PC:[RELAY_CHK_K6?]
+Received RSB-> RSB:[RELAY_CHK_K6=0]
+Sent RSB -> PC:[RELAY_CHK_K7?]
+Received RSB-> RSB:[RELAY_CHK_K7=0]
+Sent E200 -> PC:[MODE_WATT=10]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_
+Received E200-> PU:[MODE_WATT=19.62]MPU:[MODE_PURE=29.92]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 12.41072 (W) 
+    Voltage     ： 78.4 (V) 
+    Current		： 0.1583 (A)
+    Power Tolerance	： 24.1072 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent E200 -> PC:[MODE_WATT=8.79464]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=1
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 11.23488 (W) 
+    Voltage     ： 75.2 (V) 
+    Current		： 0.1494 (A)
+    Power Tolerance	： 12.3488 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent E200 -> PC:[MODE_WATT=8.1772]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=17.82]MPU:[MODE_PURE=27.46]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 11.3175 (W) 
+    Voltage     ： 75 (V) 
+    Current		： 0.1509 (A)
+    Power Tolerance	： 13.175 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent E200 -> PC:[MODE_WATT=7.51845]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=17.17]MPU:[MODE_PURE=26.48]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 10.98162 (W) 
+    Voltage     ： 74.1 (V) 
+    Current		： 0.1482 (A)
+    Power Tolerance	： 9.81619999999999 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent E200 -> PC:[MODE_WATT=7.02764]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=16.69]M
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 10.86 (W) 
+    Voltage     ： 72.4 (V) 
+    Current		： 0.15 (A)
+    Power Tolerance	： 8.60000000000001 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent E200 -> PC:[MODE_WATT=6.59764]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=16.27]MPU:[MODE_PURE=25.02]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 10.08757 (W) 
+    Voltage     ： 71.9 (V) 
+    Current		： 0.1403 (A)
+    Power Tolerance	： 0.875700000000013 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/11/02 15:11
+  Mode		： PURE
+	Expext Power	： 20 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent E200 -> PC:[MODE_WATT=20]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=29.50]MPU:[MODE_PURE=42.92]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 19.03825 (W) 
+    Voltage     ： 98.9 (V) 
+    Current		： 0.1925 (A)
+    Power Tolerance	： -4.80874999999999 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent E200 -> PC:[MODE_WATT=20.480875]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=29.99]MPU:[MODE_PURE=43.56]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 19.7408 (W) 
+    Voltage     ： 99.2 (V) 
+    Current		： 0.199 (A)
+    Power Tolerance	： -1.296 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent E200 -> PC:[MODE_WATT=20.610475]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=30.13]MPU:[MODE_PURE=43.74]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 19.93 (W) 
+    Voltage     ： 100 (V) 
+    Current		： 0.1993 (A)
+    Power Tolerance	： -0.350000000000001 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/11/02 15:11
+  Mode		： PURE
+	Expext Power	： 30 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent E200 -> PC:[MODE_WATT=30]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=39.79]MPU:[MODE_PURE=53.41]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 26.23059 (W) 
+    Voltage     ： 113.7 (V) 
+    Current		： 0.2307 (A)
+    Power Tolerance	： -12.5647 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent E200 -> PC:[MODE_WATT=31.884705]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=42.2
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 28.54827 (W) 
+    Voltage     ： 119.1 (V) 
+    Current		： 0.2397 (A)
+    Power Tolerance	： -4.8391 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent E200 -> PC:[MODE_WATT=32.61057]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MO
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 28.72792 (W) 
+    Voltage     ： 120.1 (V) 
+    Current		： 0.2392 (A)
+    Power Tolerance	： -4.24026666666667 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent E200 -> PC:[MODE_WATT=33.24661]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=44.
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 29.48635 (W) 
+    Voltage     ： 120.5 (V) 
+    Current		： 0.2447 (A)
+    Power Tolerance	： -1.71216666666666 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+>>> PASS
+************************************************** 
+  Time        ： 2017/11/02 15:12
+  Mode		： PURE
+	Expext Power	： 40 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent E200 -> PC:[MODE_WATT=40]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=52.95]MPU:[MODE_PURE=60.40]
+------------  Osilloscope Measurement  ------------ 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+NationalInstruments.VisaNS.VisaException: Could not perform operation because of I/O error.  VISA error code -1073807298 (0xBFFF003E), ErrorIO
+   於 NationalInstruments.VisaNS.Internal.ErrorChecker.CheckStatusAndThrow(Int32 status, VisaHandle visaObject)
+   於 NationalInstruments.VisaNS.Session.CheckStatusAndThrow(Int32 status, Boolean setLastStatus)
+   於 NationalInstruments.VisaNS.Session.CheckStatusAndThrow(Int32 status)
+   於 NationalInstruments.VisaNS.Internal.MessageBasedSessionImpl.ReadString(Int32 countToRead)
+   於 NationalInstruments.VisaNS.MessageBasedSession.ReadString(Int32 countToRead)
+   於 NationalInstruments.VisaNS.MessageBasedSession.Query(String dataToWrite, Int32 countToRead)
+   於 NationalInstruments.VisaNS.MessageBasedSession.Query(String dataToWrite)
+   於 Csharp.Keysight.RMS_Get(UInt32 uiChannel) 於 d:\Sean.lin\Desktop\C#\Csharp-V25_20171030\Csharp\Keysight.cs: 行 184
+   於 Csharp.MainForm.CalibStatus_OS_Measure(String[] sml, Int32 sml_select) 於 d:\Sean.lin\Desktop\C#\Csharp-V25_20171030\Csharp\MainForm.cs: 行 1402
+Sent E200 -> PC:[MODE_DISABLE=0]
+System.Reflection.TargetInvocationException: 引動過程的目標傳回例外狀況。 ---> System.ArgumentException: Insufficient location information or the device or resource is not present in the system.  VISA error code -1073807343 (0xBFFF0011), ErrorResourceNotFound ---> NationalInstruments.VisaNS.VisaException: Insufficient location information or the device or resource is not present in the system.  VISA error code -1073807343 (0xBFFF0011), ErrorResourceNotFound
+   --- 內部例外狀況堆疊追蹤的結尾 ---
+   於 NationalInstruments.VisaNS.Internal.ErrorChecker.CheckStatusAndThrow(Int32 status, VisaHandle visaObject)
+   於 NationalInstruments.VisaNS.Session..ctor(String resourceName, AccessModes accessMode, Int32 openTimeout, String expectedResourceName)
+   於 NationalInstruments.VisaNS.MessageBasedSession..ctor(String resourceName, AccessModes accessMode, Int32 openTimeout, String expectedResourceName)
+   於 NationalInstruments.VisaNS.UsbSession..ctor(String resourceName, AccessModes accessMode, Int32 openTimeout, Boolean checkResourceType)
+   --- 內部例外狀況堆疊追蹤的結尾 ---
+   於 System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   於 System.Reflection.RuntimeConstructorInfo.Invoke(BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   於 System.RuntimeType.CreateInstanceImpl(BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes, StackCrawlMark& stackMark)
+   於 System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   於 System.Activator.CreateInstance(Type type, Object[] args)
+   於 NationalInstruments.VisaNS.ResourceManager.Open(String resourceName, AccessModes accessMode, Int32 openTimeout)
+   於 NationalInstruments.VisaNS.ResourceManager.Open(String resourceName)
+   於 Csharp.Lecroy.Connect(TYPE eScopeType) 於 d:\Sean.lin\Desktop\C#\Csharp-V25_20171030\Csharp\Lecroy.cs: 行 54
+   於 Csharp.MainForm.Button_OSconnect_Click(Object sender, EventArgs e) 於 d:\Sean.lin\Desktop\C#\Csharp-V25_20171030\Csharp\MainForm.cs: 行 945 
+System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 Csharp.MainForm.CalibStatus_OS_Measure(String[] sml, Int32 sml_select) 於 d:\Sean.lin\Desktop\C#\Csharp-V25_20171030\Csharp\MainForm.cs: 行 1419
+    Power       ： 29.48635 (W) 
+    Voltage     ： 120.5 (V) 
+    Current		： 0.2447 (A)
+    Power Tolerance	： -26.284125 % 
+
+OS connected. 
+Start calibrating...
+2017/11/2 下午 03:12:43
+Checked mode PURE, BLEND1, BLEND2, PINPOINT, SPRAY, BIPOLAR. 
+
+************************************************** 
+    Time        ： 2017/11/02 15:12
+    Mode		： PURE
+	Expext Power	： 10 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent RSB -> PC:[RELAY_CTRL_K1=1]
+Received RSB-> RSB:[RELAY_CTRL_K1=1]
+Sent RSB -> PC:[RELAY_CTRL_K2=0]
+Received RSB-> RSB:[RELAY_CTRL_K2=0]
+Sent RSB -> PC:[RELAY_CTRL_K3=1]
+Received RSB-> RSB:[RELAY_CTRL_K3=1]
+Sent RSB -> PC:[RELAY_CTRL_K4=0]
+Received RSB-> RSB:[RELAY_CTRL_K4=0]
+Sent RSB -> PC:[RELAY_CTRL_K5=0]
+Received RSB-> RSB:[RELAY_CTRL_K5=0]
+Sent RSB -> PC:[RELAY_CTRL_K6=1]
+Received RSB-> RSB:[RELAY_CTRL_K6=1]
+Sent RSB -> PC:[RELAY_CTRL_K7=1]
+Received RSB-> RSB:[RELAY_CTRL_K7=1]
+Sent RSB -> PC:[RELAY_CHK_K1?]
+Received RSB-> RSB:[RELAY_CHK_K1=0]
+Sent RSB -> PC:[RELAY_CHK_K2?]
+Received RSB-> RSB:[RELAY_CHK_K2=1]
+Sent RSB -> PC:[RELAY_CHK_K3?]
+Received RSB-> RSB:[RELAY_CHK_K3=0]
+Sent RSB -> PC:[RELAY_CHK_K4?]
+Received RSB-> RSB:[RELAY_CHK_K4=1]
+Sent RSB -> PC:[RELAY_CHK_K5?]
+Received RSB-> RSB:[RELAY_CHK_K5=1]
+Sent RSB -> PC:[RELAY_CHK_K6?]
+Received RSB-> RSB:[RELAY_CHK_K6=0]
+Sent RSB -> PC:[RELAY_CHK_K7?]
+Received RSB-> RSB:[RELAY_CHK_K7=0]
+Sent E200 -> PC:[MODE_WATT=10]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=19.62]MPU:[
+------------  Osilloscope Measurement  ------------ 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+NationalInstruments.VisaNS.VisaException: Device reported an input protocol error during transfer.  VISA error code -1073807305 (0xBFFF0037), ErrorInputProtocolViolation
+   於 NationalInstruments.VisaNS.Internal.ErrorChecker.CheckStatusAndThrow(Int32 status, VisaHandle visaObject)
+   於 NationalInstruments.VisaNS.Session.CheckStatusAndThrow(Int32 status, Boolean setLastStatus)
+   於 NationalInstruments.VisaNS.Session.CheckStatusAndThrow(Int32 status)
+   於 NationalInstruments.VisaNS.Internal.MessageBasedSessionImpl.ReadString(Int32 countToRead)
+   於 NationalInstruments.VisaNS.MessageBasedSession.ReadString(Int32 countToRead)
+   於 NationalInstruments.VisaNS.MessageBasedSession.Query(String dataToWrite, Int32 countToRead)
+   於 NationalInstruments.VisaNS.MessageBasedSession.Query(String dataToWrite)
+   於 Csharp.Keysight.RMS_Get(UInt32 uiChannel) 於 d:\Sean.lin\Desktop\C#\Csharp-V25_20171030\Csharp\Keysight.cs: 行 184
+   於 Csharp.MainForm.CalibStatus_OS_Measure(String[] sml, Int32 sml_select) 於 d:\Sean.lin\Desktop\C#\Csharp-V25_20171030\Csharp\MainForm.cs: 行 1401
+Sent E200 -> PC:[MODE_DISABLE=0]
+OS connected. 
+System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 Csharp.MainForm.CalibStatus_OS_Measure(String[] sml, Int32 sml_select) 於 d:\Sean.lin\Desktop\C#\Csharp-V25_20171030\Csharp\MainForm.cs: 行 1419
+    Power       ： 29.48635 (W) 
+    Voltage     ： 120.5 (V) 
+    Current		： 0.2447 (A)
+    Power Tolerance	： 194.8635 % 
+

@@ -1,0 +1,223 @@
+2017/8/17 下午 04:39:24
+O:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13 - 複製\Csharp\bin\Release\8.17.2017 4.39.24 PM
+
+Connecting COM11...
+Connected COM11.
+Connecting E200...
+Sent E200 -> PC:[MODE_WATT=0]
+Sent E200 -> PC:[MODE_PURE=0]
+Received E200-> MPU:[MODE_WATT=9.75]MPU:[MODE_PURE=0.00]
+Sent E200 -> PC:[MODE_DISABLE=0]
+Connected E200.
+OS connected. 
+
+Connecting COM12...
+COM12 Opened.
+Connected COM12.
+Connecting RSB...
+Sent RSB -> PC:[DET_12V_CHK?]
+Received RSB-> RSB:[DET_12V_CHK=1.97]
+Connected RSB.
+Start calibrating...
+2017/8/17 下午 04:39:39
+Checked mode PINPOINT. 
+
+************************************************** 
+    Time        ： 2017/08/17 16:39
+    Mode		： PINPOINT
+	Expext Power	： 10 (W)
+	Load		： 500 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent RSB -> PC:[RELAY_CTRL_K1=1]
+Received RSB-> RSB:[RELAY_CTRL_K1=1]
+Sent RSB -> PC:[RELAY_CTRL_K2=0]
+Received RSB-> RSB:[RELAY_CTRL_K2=0]
+Sent RSB -> PC:[RELAY_CTRL_K3=1]
+Received RSB-> RSB:[RELAY_CTRL_K3=1]
+Sent RSB -> PC:[RELAY_CTRL_K4=0]
+Received RSB-> RSB:[RELAY_CTRL_K4=0]
+Sent RSB -> PC:[RELAY_CTRL_K5=0]
+Received RSB-> RSB:[RELAY_CTRL_K5=0]
+Sent RSB -> PC:[RELAY_CTRL_K6=0]
+Received RSB-> RSB:[RELAY_CTRL_K6=0]
+Sent RSB -> PC:[RELAY_CTRL_K7=1]
+Received RSB-> RSB:[RELAY_CTRL_K7=1]
+Sent RSB -> PC:[RELAY_CHK_K1?]
+Received RSB-> RSB:[RELAY_CHK_K1=0]
+Sent RSB -> PC:[RELAY_CHK_K2?]
+Received RSB-> RSB:[RELAY_CHK_K2=1]
+Sent RSB -> PC:[RELAY_CHK_K3?]
+Received RSB-> RSB:[RELAY_CHK_K3=0]
+Sent RSB -> PC:[RELAY_CHK_K4?]
+Received RSB-> RSB:[RELAY_CHK_K4=1]
+Sent RSB -> PC:[RELAY_CHK_K5?]
+Received RSB-> RSB:[RELAY_CHK_K5=1]
+Sent RSB -> PC:[RELAY_CHK_K6?]
+Received RSB-> RSB:[RELAY_CHK_K6=1]
+Sent RSB -> PC:[RELAY_CHK_K7?]
+Received RSB-> RSB:[RELAY_CHK_K7=0]
+Sent E200 -> PC:[MODE_WATT=10]
+Sent E200 -> PC:[MODE_PINPOINT=0]
+Received E200-> MPU:[
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 17.49364 (W) 
+    Voltage     ： 93.2 (V) 
+    Current		： 0.1877 (A)
+    Power Tolerance	： 74.9364 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent E200 -> PC:[MODE_WATT=6.25318]
+Sent E200 -> PC:[MODE_PINPOINT=0]
+Received E200-> MPU:[MOD
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 11.55729 (W) 
+    Voltage     ： 77.1 (V) 
+    Current		： 0.1499 (A)
+    Power Tolerance	： 15.5729 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent E200 -> PC:[MODE_WATT=5.474535]
+Sent E200 -> PC:[MODE_PINPOINT=0]
+Received E200-> MPU:[
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 9.67296 (W) 
+    Voltage     ： 70.4 (V) 
+    Current		： 0.1374 (A)
+    Power Tolerance	： -3.2704 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+x x x FAIL
+Sent E200 -> PC:[MODE_WATT=5.638055]
+Sent E200 -> PC:[MODE_PINPOINT=0]
+Received E200-> M
+Received E200-> PU:[MODE_WATT=12.33]MPU:[MODE_PINPOINT=40.90]
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 10.23736 (W) 
+    Voltage     ： 72.4 (V) 
+    Current		： 0.1414 (A)
+    Power Tolerance	： 2.37360000000001 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent E200 -> PC:[MODE_WATT=5.638055]
+Sent E200 -> PC:[MODE_PINPOINT=0]
+Received E200-> MPU:[MODE_WATT
+------------  Osilloscope Measurement  ------------ 
+
+    Power       ： 10.12352 (W) 
+    Voltage     ： 71.9 (V) 
+    Current		： 0.1408 (A)
+    Power Tolerance	： 1.23520000000001 % 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+[CalibStatus_Check] 
+Sent E200 -> PC:[MODE_WATT=5.638055]
+Sent E200 -> PC:[MODE_PINPOINT=0]
+Received E200-> MPU:[MODE_WATT=12.33]MPU:[M
+Sent E200 -> PC:[MODE_DISABLE=0]
+------------  Osilloscope Measurement  ------------ 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+Connection Error. 
+    Power       ： 0.5246 (W) 
+    Voltage     ： 61 (V) 
+    Current		： 0.0086 (A)
+    Power Tolerance	： -94.754 % 
+
+Start calibrating...
+2017/8/17 下午 04:39:56
+Checked mode SPRAY. 
+
+************************************************** 
+    Time        ： 2017/08/17 16:39
+    Mode		： SPRAY
+	Expext Power	： 10 (W)
+	Load		： 1000 (ohm) 
+	Power Tolerance	： 0 ~ +10 %
+************************************************** 
+Sent RSB -> PC:[RELAY_CTRL_K1=1]
+Received RSB-> RSB:[RELAY_CTRL_K1=1]
+Sent RSB -> PC:[RELAY_CTRL_K2=0]
+Received RSB-> RSB:[RELAY_CTRL_K2=0]
+Sent RSB -> PC:[RELAY_CTRL_K3=1]
+Received RSB-> RSB:[RELAY_CTRL_K3=1]
+Sent RSB -> PC:[RELAY_CTRL_K4=0]
+Received RSB-> RSB:[RELAY_CTRL_K4=0]
+Sent RSB -> PC:[RELAY_CTRL_K5=0]
+Received RSB-> RSB:[RELAY_CTRL_K5=0]
+Sent RSB -> PC:[RELAY_CTRL_K6=1]
+Received RSB-> RSB:[RELAY_CTRL_K6=1]
+Sent RSB -> PC:[RELAY_CTRL_K7=0]
+Received RSB-> RSB:[RELAY_CTRL_K7=0]
+Sent RSB -> PC:[RELAY_CHK_K1?]
+Received RSB-> RSB:[RELAY_CHK_K1=0]
+Sent RSB -> PC:[RELAY_CHK_K2?]
+Received RSB-> RSB:[RELAY_CHK_K2=1]
+Sent RSB -> PC:[RELAY_CHK_K3?]
+Received RSB-> RSB:[RELAY_CHK_K3=0]
+Sent RSB -> PC:[RELAY_CHK_K4?]
+Received RSB-> RSB:[RELAY_CHK_K4=1]
+Sent RSB -> PC:[RELAY_CHK_K5?]
+Received RSB-> RSB:[RELAY_CHK_K5=1]
+Sent RSB -> PC:[RELAY_CHK_K6?]
+Received RSB-> RSB:[RELAY_CHK_K6=0]
+Sent RSB -> PC:[RELAY_CHK_K7?]
+Received RSB-> RSB:[RELAY_CHK_K7=1]
+Sent E200 -> PC:[MODE_WATT=10]
+Sent E200 -> PC:[MODE_SPRAY=0]
+Received E200-> MPU:[MOD
+Received E200-> PU:[MODE_WATT=18.18]MPU:[MODE_SPRAY=49.78]
+------------  Osilloscope Measurement  ------------ 
+
+Sent E200 -> PC:[MODE_DISABLE=0]
+NationalInstruments.VisaNS.VisaException: Unknown system error (miscellaneous error).  VISA error code -1073807360 (0xBFFF0000), ErrorSystemError
+   於 NationalInstruments.VisaNS.Internal.ErrorChecker.CheckStatusAndThrow(Int32 status, VisaHandle visaObject)
+   於 NationalInstruments.VisaNS.Session.CheckStatusAndThrow(Int32 status, Boolean setLastStatus)
+   於 NationalInstruments.VisaNS.Session.CheckStatusAndThrow(Int32 status)
+   於 NationalInstruments.VisaNS.Internal.MessageBasedSessionImpl.Write(String data)
+   於 NationalInstruments.VisaNS.MessageBasedSession.Write(String data)
+   於 NationalInstruments.VisaNS.MessageBasedSession.Query(String dataToWrite, Int32 countToRead)
+   於 NationalInstruments.VisaNS.MessageBasedSession.Query(String dataToWrite)
+   於 Csharp.Keysight.RMS_Get(UInt32 uiChannel) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13 - 複製\Csharp\Keysight.cs: 行 178
+   於 Csharp.MainForm.CalibStatus_OS_Measure(String[] sml, Int32 sml_select) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13 - 複製\Csharp\MainForm.cs: 行 1372
+Sent E200 -> PC:[MODE_DISABLE=0]
+System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 Csharp.Lecroy.Disconnect() 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13 - 複製\Csharp\Lecroy.cs: 行 75
+   於 Csharp.MainForm.Button_OSconnect_Click(Object sender, EventArgs e) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13 - 複製\Csharp\MainForm.cs: 行 918 
+System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 Csharp.MainForm.CalibStatus_OS_Measure(String[] sml, Int32 sml_select) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13 - 複製\Csharp\MainForm.cs: 行 1392
+Sent E200 -> PC:[MODE_DISABLE=0]
+Connection Error. 
+    Power       ： 0.5246 (W) 
+    Voltage     ： 61 (V) 
+    Current		： 0.0086 (A)
+    Power Tolerance	： -94.754 % 
+
+System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 Csharp.Lecroy.Disconnect() 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13 - 複製\Csharp\Lecroy.cs: 行 75
+   於 Csharp.MainForm.Button_OSconnect_Click(Object sender, EventArgs e) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13 - 複製\Csharp\MainForm.cs: 行 918 
+System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 Csharp.Lecroy.Disconnect() 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13 - 複製\Csharp\Lecroy.cs: 行 75
+   於 Csharp.MainForm.Button_OSconnect_Click(Object sender, EventArgs e) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13 - 複製\Csharp\MainForm.cs: 行 918 
+System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 Csharp.Lecroy.Disconnect() 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13 - 複製\Csharp\Lecroy.cs: 行 75
+   於 Csharp.MainForm.Button_OSconnect_Click(Object sender, EventArgs e) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13 - 複製\Csharp\MainForm.cs: 行 918 
+System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 Csharp.Lecroy.Disconnect() 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13 - 複製\Csharp\Lecroy.cs: 行 75
+   於 Csharp.MainForm.Button_OSconnect_Click(Object sender, EventArgs e) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13 - 複製\Csharp\MainForm.cs: 行 918 
+System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 Csharp.Lecroy.Disconnect() 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13 - 複製\Csharp\Lecroy.cs: 行 75
+   於 Csharp.MainForm.Button_OSconnect_Click(Object sender, EventArgs e) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13 - 複製\Csharp\MainForm.cs: 行 918 
+System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 Csharp.Lecroy.Disconnect() 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13 - 複製\Csharp\Lecroy.cs: 行 75
+   於 Csharp.MainForm.Button_OSconnect_Click(Object sender, EventArgs e) 於 o:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13 - 複製\Csharp\MainForm.cs: 行 918 

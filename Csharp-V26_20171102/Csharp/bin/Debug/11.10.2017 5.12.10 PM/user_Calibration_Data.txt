@@ -1,0 +1,15 @@
+Disconnect E200.
+Disconnect RSB.
+Connected COM6.
+Connectecd E200.
+OS connected. 
+Connected COM15.
+Connectecd RSB.
+Disconnect E200.
+Disconnect RSB.
+Connected COM6.
+False to connect RSB.
+
+Connected COM15.
+Connectecd RSB.
+Disconnect RSB.

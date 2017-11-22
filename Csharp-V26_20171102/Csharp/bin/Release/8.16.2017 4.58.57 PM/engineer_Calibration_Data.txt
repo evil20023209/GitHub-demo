@@ -1,0 +1,3 @@
+2017/8/16 下午 04:58:57
+O:\研發處\研發二部\電子一課\Simon\E200-Auto Tune & Calibration System\[01]Code\E200 Calibration-C#\Csharp-V13\Csharp\bin\Release\8.16.2017 4.58.57 PM
+OS connected. 

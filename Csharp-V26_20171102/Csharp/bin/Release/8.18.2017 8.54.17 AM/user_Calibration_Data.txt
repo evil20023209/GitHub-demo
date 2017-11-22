@@ -1,0 +1,10 @@
+2017/8/18 ¤W¤È 08:54:17
+Connected COM6.
+Connectecd E200.
+OS connected. 
+Connected COM15.
+Connectecd RSB.
+Start calibrating...
+2017/8/18 ¤W¤È 08:54:33
+[ SPRAY 10W ] 
+Result:10W pass 
